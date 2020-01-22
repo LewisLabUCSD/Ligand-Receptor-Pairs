@@ -24,6 +24,8 @@ and interactions for surface-secreted proteins that are available in literature.
  modeling developing cortex growth factor communication networks](https://doi.org/10.1016/j.neuron.2016.07.037)
 - [Skelly et al. (2018) Single-cell transcriptional profiling reveals cellular
  diversity and intercommunication in the mouse heart](https://doi.org/10.1016/j.celrep.2017.12.072)
+ - [Sheikh et al. (2019) Systematic identification of
+  cell-cell communication networks in the developing brain](https://doi.org/10.1016/j.isci.2019.10.026)
 - [Baccin et al. (2020) Combined single-cell and spatial transcriptomics reveal the molecular,
  cellular and spatial bone marrow niche organization](https://doi.org/10.1038/s41556-019-0439-6)
 
