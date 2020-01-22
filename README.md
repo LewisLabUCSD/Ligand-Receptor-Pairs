@@ -20,6 +20,8 @@ and interactions for surface-secreted proteins that are available in literature.
 ## Mouse Lists
 
 - [Ding et al. (2016) A cell-type-resolved liver proteome](https://doi.org/10.1074/mcp.M116.060145)
+- [Yuzwa et al. (2016) Proneurogenic ligands defined by
+ modeling developing cortex growth factor communication networks](https://doi.org/10.1016/j.neuron.2016.07.037)
 - [Skelly et al. (2018) Single-cell transcriptional profiling reveals cellular
  diversity and intercommunication in the mouse heart](https://doi.org/10.1016/j.celrep.2017.12.072)
 - [Baccin et al. (2020) Combined single-cell and spatial transcriptomics reveal the molecular,
