@@ -14,6 +14,8 @@ and interactions for surface-secreted proteins that are available in literature.
  Identifies Stroma-Tumor Crosstalk in Mouse Lung Cancer Model](https://doi.org/10.1016/j.celrep.2015.01.040)
 - [Pavlicev et al. (2017) Single-cell transcriptomics of the human placenta: inferring
  the cell communication network of the maternal-fetal interface](https://doi.org/10.1101/gr.207597.116)
+- [Vento-Tormo et al. (2018) Single-cell reconstruction of the early maternal-fetal
+ interface in humans](https://doi.org/10.1038/s41586-018-0698-6)
 - [Ximerakis et al. (2019) Single-cell transcriptomic profiling of
  the aging mouse brain](https://doi.org/10.1038/s41593-019-0491-3)
 
