@@ -30,5 +30,10 @@ and interactions for surface-secreted proteins that are available in literature.
   cell-cell communication networks in the developing brain](https://doi.org/10.1016/j.isci.2019.10.026)
 - [Baccin et al. (2020) Combined single-cell and spatial transcriptomics reveal the molecular,
  cellular and spatial bone marrow niche organization](https://doi.org/10.1038/s41556-019-0439-6)
+ - [Cain et al. (2020) Quantitative single-cell interactomes
+  in normal and virus-infected mouse lungs](https://doi.org/10.1101/2020.02.05.936054)
 
 ## Other organisms
+
+- [Raredon et al. (2019) Single-cell connectomic analysis of
+adult mammalian lungs](https://doi.org/10.1126/sciadv.aaw3851)
