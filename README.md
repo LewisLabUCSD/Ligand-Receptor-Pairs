@@ -18,7 +18,10 @@ and interactions for surface-secreted proteins that are available in literature.
  interface in humans](https://doi.org/10.1038/s41586-018-0698-6)
 - [Ximerakis et al. (2019) Single-cell transcriptomic profiling of
  the aging mouse brain](https://doi.org/10.1038/s41593-019-0491-3)
-
+- [Browaeys et al. (2019) NicheNet: Modeling Intercellular Communication
+ by Linking Ligands to Target Genes](https://doi.org/10.1038/s41592-019-0667-5)
+- [Noël et al. (2020) ICELLNET: a transcriptome-based framework to
+ dissect intercellular communication](https://doi.org/10.1101/2020.03.05.976878)
 ## Mouse Lists
 
 - [Ding et al. (2016) A cell-type-resolved liver proteome](https://doi.org/10.1074/mcp.M116.060145)
