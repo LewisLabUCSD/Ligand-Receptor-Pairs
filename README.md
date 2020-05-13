@@ -5,38 +5,72 @@ and interactions for surface-secreted proteins that are available in literature.
 
 ## Human Lists
 
-- [Kirouac et al. (2010) Dynamic interaction networks in a hierarchically organized tissue](https://doi.org/10.1038/msb.2010.71)
-- [Qiao et al. (2014) Intercellular network structure and regulatory motifs in the human
- hematopoietic system](https://doi.org/10.15252/msb.20145141)
-- [Ramilowski et al. (2015) A draft network of ligand–receptor-mediated multicellular
- signalling in human](https://doi.org/10.1038/ncomms8866)
-- [Choi et al. (2015) Transcriptome Analysis of Individual Stromal Cell Populations
- Identifies Stroma-Tumor Crosstalk in Mouse Lung Cancer Model](https://doi.org/10.1016/j.celrep.2015.01.040)
-- [Pavlicev et al. (2017) Single-cell transcriptomics of the human placenta: inferring
- the cell communication network of the maternal-fetal interface](https://doi.org/10.1101/gr.207597.116)
-- [Vento-Tormo et al. (2018) Single-cell reconstruction of the early maternal-fetal
- interface in humans](https://doi.org/10.1038/s41586-018-0698-6)
-- [Ximerakis et al. (2019) Single-cell transcriptomic profiling of
- the aging mouse brain](https://doi.org/10.1038/s41593-019-0491-3)
-- [Browaeys et al. (2019) NicheNet: Modeling Intercellular Communication
- by Linking Ligands to Target Genes](https://doi.org/10.1038/s41592-019-0667-5)
-- [Noël et al. (2020) ICELLNET: a transcriptome-based framework to
- dissect intercellular communication](https://doi.org/10.1101/2020.03.05.976878)
+- Kirouac et al. (2010) Dynamic interaction networks in a hierarchically organized tissue
+    - [Article](https://doi.org/10.1038/msb.2010.71)
+    - [LR pairs](./Human/Human-2010-Kirouac-LR-pairs.xlsx)
+- Qiao et al. (2014) Intercellular network structure and regulatory motifs in the human
+ hematopoietic system
+    - [Article](https://doi.org/10.15252/msb.20145141)
+    - [LR pairs](./Human/Human-2014-Qiao-LR-pairs.xlsx)
+- Ramilowski et al. (2015) A draft network of ligand–receptor-mediated multicellular
+ signalling in human
+    - [Article](https://doi.org/10.1038/ncomms8866)
+    - [LR pairs](./Human/Human-2015-Ramilowski-LR-pairs.txt)
+- Choi et al. (2015) Transcriptome Analysis of Individual Stromal Cell Populations
+ Identifies Stroma-Tumor Crosstalk in Mouse Lung Cancer Model
+    - [Article](https://doi.org/10.1016/j.celrep.2015.01.040)
+    - [LR pairs](./Human/Human-2015-Choi-LR-pairs.txt)
+- Pavlicev et al. (2017) Single-cell transcriptomics of the human placenta: inferring
+ the cell communication network of the maternal-fetal interface
+    - [Article](https://doi.org/10.1101/gr.207597.116)
+    - [LR pairs](./Human/Human-2017-Pavlicev-LR-pairs.xlsx)
+- Vento-Tormo et al. (2018) Single-cell reconstruction of the early maternal-fetal
+ interface in humans
+    - [Article](https://doi.org/10.1038/s41586-018-0698-6)
+    - [LR pairs](./Human/Human-2018-Vento-Tormo-LR-pairs.csv)
+- Ximerakis et al. (2019) Single-cell transcriptomic profiling of
+ the aging mouse brain
+    - [Article](https://doi.org/10.1038/s41593-019-0491-3)
+    - [LR pairs](./Human/Human-2019-Ximerakis-BaderLab-2017.txt.zip)
+- Browaeys et al. (2019) NicheNet: Modeling Intercellular Communication
+ by Linking Ligands to Target Genes
+    - [Article](https://doi.org/10.1038/s41592-019-0667-5)
+    - [LR pairs](./Human/Human-2019-Browaeys-LR-pairs.zip)
+- Noël et al. (2020) ICELLNET: a transcriptome-based framework to
+ dissect intercellular communication
+    - [Article](https://doi.org/10.1101/2020.03.05.976878)
+    - [LR pairs](./Human/Human-2020-Noël-LR-pairs.xlsx)
+
+
 ## Mouse Lists
 
-- [Ding et al. (2016) A cell-type-resolved liver proteome](https://doi.org/10.1074/mcp.M116.060145)
-- [Yuzwa et al. (2016) Proneurogenic ligands defined by
- modeling developing cortex growth factor communication networks](https://doi.org/10.1016/j.neuron.2016.07.037)
-- [Skelly et al. (2018) Single-cell transcriptional profiling reveals cellular
- diversity and intercommunication in the mouse heart](https://doi.org/10.1016/j.celrep.2017.12.072)
- - [Sheikh et al. (2019) Systematic identification of
-  cell-cell communication networks in the developing brain](https://doi.org/10.1016/j.isci.2019.10.026)
-- [Baccin et al. (2020) Combined single-cell and spatial transcriptomics reveal the molecular,
- cellular and spatial bone marrow niche organization](https://doi.org/10.1038/s41556-019-0439-6)
- - [Cain et al. (2020) Quantitative single-cell interactomes
-  in normal and virus-infected mouse lungs](https://doi.org/10.1101/2020.02.05.936054)
+- Ding et al. (2016) A cell-type-resolved liver proteome
+    - [Article](https://doi.org/10.1074/mcp.M116.060145)
+    - [LR pairs](./Mouse/Mouse-2016-Ding-LR-pairs.xlsx)
+- Yuzwa et al. (2016) Proneurogenic ligands defined by
+ modeling developing cortex growth factor communication networks
+    - [Article](https://doi.org/10.1016/j.neuron.2016.07.037)
+    - [LR pairs](./Mouse/Mouse-2016-Yuzwa-LR-pairs.xlsx)
+- Skelly et al. (2018) Single-cell transcriptional profiling reveals cellular
+ diversity and intercommunication in the mouse heart
+    - [Article](https://doi.org/10.1016/j.celrep.2017.12.072)
+    - [LR pairs](./Mouse/Mouse-2018-Skelly-LR-pairs.xlsx)
+ - Sheikh et al. (2019) Systematic identification of
+  cell-cell communication networks in the developing brain
+    - [Article](https://doi.org/10.1016/j.isci.2019.10.026)
+    - [LR pairs](./Mouse/Mouse-2019-Sheikh-LR-pairs.xlsx)
+- Baccin et al. (2020) Combined single-cell and spatial transcriptomics reveal the molecular,
+ cellular and spatial bone marrow niche organization
+    - [Article](https://doi.org/10.1038/s41556-019-0439-6)
+    - [LR pairs](./Mouse/Mouse-2020-Baccin-LR-pairs.xlsx)
+ - Cain et al. (2020) Quantitative single-cell interactomes
+  in normal and virus-infected mouse lungs
+    - [Article](https://doi.org/10.1101/2020.02.05.936054)
+    - [LR pairs](./Mouse/Mouse-2020-Cain-LR-pairs.xlsx)
 
 ## Other organisms
 
-- [Raredon et al. (2019) Single-cell connectomic analysis of
-adult mammalian lungs](https://doi.org/10.1126/sciadv.aaw3851)
+- Raredon et al. (2019) Single-cell connectomic analysis of
+adult mammalian lungs
+    - [Article](https://doi.org/10.1126/sciadv.aaw3851)
+    - [LR pairs](./Others/Multiple-2019-Raredon-LR-pairs.xlsx)
