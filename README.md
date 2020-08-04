@@ -25,9 +25,15 @@ and interactions for surface-secreted proteins that are available in literature.
     | [Article](https://doi.org/10.1101/gr.207597.116)
     | [LR pairs](./Human/Human-2017-Pavlicev-LR-pairs.xlsx)
 - Vento-Tormo et al. (2018) Single-cell reconstruction of the early maternal-fetal
- interface in humans
-    | [Article](https://doi.org/10.1038/s41586-018-0698-6)
+ interface in humans // Efremova et al. (2020) CellPhoneDB: inferring cell–cell communication
+from combined expression of multi-subunit ligand–receptor complexes
+    | [Article 1](https://doi.org/10.1038/s41586-018-0698-6)
+    | [Article 2](https://doi.org/10.1038/s41596-020-0292-x)
     | [LR pairs](./Human/Human-2018-Vento-Tormo-LR-pairs.csv)
+- Wang et al. (2019) iTALK: an R Package to Characterize and Illustrate
+ Intercellular Communication
+    | [Article](https://doi.org/10.1101/507871)
+    | [LR pairs](./Human/Human-2019-Wang-LR-pairs.csv)
 - Ximerakis et al. (2019) Single-cell transcriptomic profiling of
  the aging mouse brain
     | [Article](https://doi.org/10.1038/s41593-019-0491-3)
@@ -40,7 +46,9 @@ and interactions for surface-secreted proteins that are available in literature.
  dissect intercellular communication
     | [Article](https://doi.org/10.1101/2020.03.05.976878)
     | [LR pairs](./Human/Human-2020-Noël-LR-pairs.xlsx)
-
+- Jin et al. (2020) Inference and analysis of cell-cell communication using CellChat
+    | [Article](https://doi.org/10.1101/2020.07.21.214387) 
+    | [LR pairs](./Human/Human-2020-Jin-LR-pairs.csv)
 
 ## Mouse Lists
 
@@ -67,6 +75,9 @@ and interactions for surface-secreted proteins that are available in literature.
   in normal and virus-infected mouse lungs
     | [Article](https://doi.org/10.1101/2020.02.05.936054)
     | [LR pairs](./Mouse/Mouse-2020-Cain-LR-pairs.xlsx)
+- Jin et al. (2020) Inference and analysis of cell-cell communication using CellChat
+    | [Article](https://doi.org/10.1101/2020.07.21.214387) 
+    | [LR pairs](./Mouse/Mouse-2020-Jin-LR-pairs.csv)
 
 ## Other organisms
 
