@@ -46,6 +46,10 @@ from combined expression of multi-subunit ligand–receptor complexes
  dissect intercellular communication
     | [Article](https://doi.org/10.1101/2020.03.05.976878)
     | [LR pairs](./Human/Human-2020-Noël-LR-pairs.xlsx)
+- Cabello-Aguilar et al. (2020) SingleCellSignalR: inference of intercellular networks
+ from single-cell transcriptomics
+    | [Article](https://doi.org/10.1093/nar/gkaa183)
+    | [LR pairs](./Human/Human-2020-Cabello-Aguilar-LR-pairs.csv)
 - Jin et al. (2020) Inference and analysis of cell-cell communication using CellChat
     | [Article](https://doi.org/10.1101/2020.07.21.214387) 
     | [LR pairs](./Human/Human-2020-Jin-LR-pairs.csv)
