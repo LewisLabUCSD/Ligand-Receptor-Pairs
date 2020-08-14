@@ -3,7 +3,7 @@
 This compendium has been created to collect lists of ligand-receptor pairs
 and interactions for surface-secreted proteins that are available in literature.
 
-## Features of Lists
+## Information of collected lists
 
 | Article                                                                 | Organism | Number of LR pairs | Downstream Genes? | Protein Complexes? | Functional  Annotations? |     Associated Tool    |
 |-------------------------------------------------------------------------|:--------:|:------------------:|:-----------------:|:------------------:|:------------------------:|:----------------------:|
@@ -29,7 +29,7 @@ and interactions for surface-secreted proteins that are available in literature.
 | Raredon et al. (2019)                                                   | Multiple |         269        |                   |                    |             X            |                        |
 
 
-## Human Lists
+## References for Human Lists
 
 - Kirouac et al. (2010) Dynamic interaction networks in a hierarchically organized tissue
     | [Article](https://doi.org/10.1038/msb.2010.71)
@@ -80,7 +80,7 @@ from combined expression of multi-subunit ligand–receptor complexes
     | [Article](https://doi.org/10.1101/2020.07.21.214387) 
     | [LR pairs](./Human/Human-2020-Jin-LR-pairs.csv)
 
-## Mouse Lists
+## References for Mouse Lists
 
 - Ding et al. (2016) A cell-type-resolved liver proteome
     | [Article](https://doi.org/10.1074/mcp.M116.060145)
@@ -109,7 +109,7 @@ from combined expression of multi-subunit ligand–receptor complexes
     | [Article](https://doi.org/10.1101/2020.07.21.214387) 
     | [LR pairs](./Mouse/Mouse-2020-Jin-LR-pairs.csv)
 
-## Other organisms
+## References for Lists of Other Organisms
 
 - Raredon et al. (2019) Single-cell connectomic analysis of
 adult mammalian lungs
