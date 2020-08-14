@@ -3,7 +3,7 @@
 This compendium has been created to collect lists of ligand-receptor pairs
 and interactions for surface-secreted proteins that are available in literature.
 
-## Information of collected lists
+## Information about collected lists
 
 | Article                                                                 | Organism | Number of LR pairs | Downstream Genes? | Protein Complexes? | Functional  Annotations? |     Associated Tool    |
 |-------------------------------------------------------------------------|:--------:|:------------------:|:-----------------:|:------------------:|:------------------------:|:----------------------:|
