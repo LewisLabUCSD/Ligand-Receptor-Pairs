@@ -3,6 +3,16 @@
 This compendium has been created to collect lists of ligand-receptor pairs
 and interactions for surface-secreted proteins that are available in literature.
 
+## How to cite
+
+**If you use any of the lists collected in this repository, please cite the
+respective article.**
+
+Also, cite the article where this repository was published: 
+
+- **Armingol, E., Officer, A., Harismendy, O. & Lewis, N.E. Deciphering cell-cell interactions
+and communication from gene expression. *Nat Rev Genet* (2020) https://doi.org/10.1038/s41576-020-00292-x**
+
 ## Information about collected lists
 
 | Article                                                                 | Organism | Number of LR pairs | Downstream Genes? | Protein Complexes? | Functional  Annotations? |     Associated Tool    |
@@ -19,6 +29,7 @@ and interactions for surface-secreted proteins that are available in literature.
 | Noël et al. (2020)                                                      |   Human  |         380        |                   |          X         |             X            |        ICELLNET        |
 | Cabello-Aguilar et al. (2020)                                           |   Human  |        3,251       |                   |                    |                          |    SingleCellSignalR   |
 | Jin et al. (2020)                                                       |   Human  |        2,005       |                   |          X         |             X            |        CellChat        |
+| Hou et   al. (2020)                                                     |   Human  |        2,187       |                   |                    |                          |          NATMI         |
 | Ding et al. (2016)                                                      |   Mouse  |         561        |                   |                    |                          |                        |
 | Yuzwa et al. (2016)                                                     |   Mouse  |         949        |                   |                    |                          |                        |
 | Skelly et al. (2018)                                                    |   Mouse  |        2,009       |                   |                    |                          |                        |
@@ -79,6 +90,9 @@ from combined expression of multi-subunit ligand–receptor complexes
 - Jin et al. (2020) Inference and analysis of cell-cell communication using CellChat
     | [Article](https://doi.org/10.1101/2020.07.21.214387) 
     | [LR pairs](./Human/Human-2020-Jin-LR-pairs.csv)
+- Hou et al. (2020) Predicting cell-to-cell communication networks using NATMI
+    | [Article](https://doi.org/10.1038/s41467-020-18873-z) 
+    | [LR pairs](./Human/Human-2020-Hou-LR-pairs.xlsx)
 
 ## References for Mouse Lists
 
