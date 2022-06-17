@@ -1,415 +1,441 @@
-HMDB_ID	standard_metName	metName	Gene_name	Protein_name	Evidence
-HMDB0006247	25-Hydroxycholesterol	25-Hydroxycholesterol	ABCA1[Transporter]	Phospholipid-transporting ATPase ABCA1	16611739
-HMDB0000538	Adenosine triphosphate	Adenosine triphosphate	ABCA1[Transporter]	Phospholipid-transporting ATPase ABCA1	31678514; 22811478; 12759900; 26945479; 31724712; 24649047
-HMDB0000050	Adenosine	Adenosine	ABCA1[Transporter]	Phospholipid-transporting ATPase ABCA1	26261553; 18706283; 23519695; 12759900; 12401885; 29643920; 31678514; 22811478; 24035454; 12458091; 31915322; 20466885; 22384526; 12679197; 26945479; 19059534; 22466164; 28121324; 21530801; 31724712; 21490773; 18594022; 24649047
-HMDB0001043	Arachidonic acid	Arachidonic acid	ANXA1[Transporter]	Annexin A1	16899607
-HMDB0001043	Arachidonic acid	Arachidonic acid	CD36[Transporter]	Platelet glycoprotein 4	29080057; 21454644; 11141076
-HMDB0000517	L-Arginine	Arginine; L-Arginine	SLC7A1[Transporter]	High affinity cationic amino acid transporter 1	33209975; 17325243; 33639836; 23831616; 22144986; 19067360
-HMDB0000044	Ascorbic acid	Ascorbic acid	ABCA1[Transporter]	Phospholipid-transporting ATPase ABCA1	28210221
-HMDB0000030	Biotin	Biotin	SLC5A6[Transporter]	Sodium-dependent multivitamin transporter	27084392
-HMDB0000464	Calcium	Calcium	CD36[Transporter]	Platelet glycoprotein 4	22463611; 26245899; 27132684; 21454644; 28697919; 31510946; 27004753
-HMDB0000464	Calcium	Calcium	SLC39A6[Transporter]	Zinc transporter ZIP6	23185754
-HMDB0000464	Calcium	Calcium	SLC8A1[Transporter]	Sodium/calcium exchanger 1	22173874
-HMDB0000464	Calcium	Calcium	SLC8A2[Transporter]	Sodium/calcium exchanger 2	22173874
-HMDB0000067	Cholesterol	Cholesterol	ABCB11[Transporter]	Bile salt export pump	22350143; 19888660; 28013406
-HMDB0000067	Cholesterol	Cholesterol	CD36[Transporter]	Platelet glycoprotein 4	15546489; 21763723; 32531545; 16133421; 10383407; 23247049; 15949682; 12145296; 28928671; 29883404; 34584385; 19718657; 29593722; 25174330; 27890613; 32684173; 18311054; 24371122; 21262584; 16959872; 20338238; 25250848; 23099443; 15168018; 16299001; 26828064; 19147991; 10946357; 23880196; 19016618; 23422832; 21474828; 28122883; 30702457; 21272192; 15136056; 18331615; 17464999; 32058595; 18276752; 31988148; 34603769; 17291449; 20170635; 16503643; 10713080; 10625497; 21674150; 26153221; 12488595; 24733016; 29533793; 12547883; 26582580; 31967154; 28634191; 20112301; 19937569; 21181286; 20360851; 33457418; 21217164; 16123174; 24515116; 18402819; 19028791; 27323079; 18305138; 33211179; 21034810; 11718687; 24162852; 18772361; 32308181; 25703059; 22858201; 28555086; 26759003; 28965954; 16517147; 32982800; 15345670; 19436068; 26832365; 21190831; 25855981; 32952497; 19074161
-HMDB0000073	Dopamine	Dopamine	SLC6A3[Transporter]	Sodium-dependent dopamine transporter	30967134; 12707943; 27217152; 28924877; 17466074
-HMDB0003345	alpha-D-Glucose	Glucose	SLC14A1[Transporter]	Urea transporter 1	18840552
-HMDB0003345	alpha-D-Glucose	Glucose	SLC2A1[Transporter]	Solute carrier family 2, facilitated glucose transporter member 1	27998284; 33145952
-HMDB0003345	alpha-D-Glucose	Glucose	SLC2A2[Transporter]	Solute carrier family 2, facilitated glucose transporter member 2	https://en.wikipedia.org/wiki/Glucose_transporter; 30082752; 22001757; 21103350
-HMDB0000148	L-Glutamic acid	Glutamate	SLC1A5[Transporter]	Neutral amino acid transporter B(0)	29208682
-HMDB0000641	L-Glutamine	L-Glutamine; Glutamine	SLC1A5[Transporter]	Neutral amino acid transporter B(0)	31535081; 30452920; 33953707; 34525179; 27154413; 25683269; 31881361; 28798141; 28507054; 25337245; 23213057; 32438035; 30025811; 33632871; 30935948; 33505538; 32422185; 30470977; 30671766; 25759021; 32747796; 31150647; 34054543; 31668020; 29208682; 32996252; 29542325; 30541099; 30071532; 34075790; 31866442; 26724577; 27055152; 33457003; 29337138; 32021249
-HMDB0000641	L-Glutamine	L-Glutamine; Glutamine	SLC38A2[Transporter]	Sodium-coupled neutral amino acid transporter 2	32996252; 25759021; 26724577
-HMDB0000641	L-Glutamine	Glutamine	SLC3A2[Transporter]	4F2 cell-surface antigen heavy chain	33953707; 30671766
-HMDB0000641	L-Glutamine	Glutamine	SLC7A5[Transporter]	Large neutral amino acids transporter small subunit 1	33953707; 30671766; 26724577; 33505538
-HMDB0000125	Glutathione	Glutathione	SLC1A5[Transporter]	Neutral amino acid transporter B(0)	31866442; 34525179
-HMDB0003276	Hydrogen sulfide	Hydrogen sulfide	CD36[Transporter]	Platelet glycoprotein 4	31262715
-HMDB0015531	Iron	Iron	SLC11A2[Transporter]	Natural resistance-associated macrophage protein 2	23506870
-HMDB0015531	Iron	Iron	SLC40A1[Transporter]	Solute carrier family 40 member 1	25209728; 30852438; 27667161; 24644245; 21875943; 20675164; 23506870; 21199650; 33787609; 17181986; 14757427; 15338274; 27773819; 23922661; 29212168; 24121729; 28219768; 28978826; 21175851
-HMDB0001311	D-Lactic acid	Lactate	SLC16A1[Transporter]	Monocarboxylate transporter 1	32144120; 22428047
-HMDB0001311	D-Lactic acid	Lactate	SLC38A2[Transporter]	Sodium-coupled neutral amino acid transporter 2	32996252
-HMDB0000687	L-Leucine	Leucine	SLC1A5[Transporter]	Neutral amino acid transporter B(0)	33953707; 30071532; 30470977
-HMDB0000687	L-Leucine	Leucine	SLC3A2[Transporter]	4F2 cell-surface antigen heavy chain	33953707
-HMDB0000687	L-Leucine	Leucine	SLC7A5[Transporter]	Large neutral amino acids transporter small subunit 1	33953707
-HMDB0000826	Pentadecanoic acid	Pentadecanoic acid	CD36[Transporter]	Platelet glycoprotein 4	26130608; 10913136
-HMDB0001429	Phosphate	Phosphate	SLC20A2[Transporter]	Sodium-dependent phosphate transporter 2	30721528
-HMDB0000586	Potassium	Potassium	ABCC8[Transporter]	ATP-binding cassette sub-family C member 8	23226049; 24399968; 22050960; 24700710
-HMDB0000259	Serotonin	Serotonin	SLC6A4[Transporter]	Sodium-dependent serotonin transporter	33868590; 31342534; 16251523; 25012842
-HMDB0000235	Thiamine	Thiamine	SLC19A1[Transporter]	Reduced folate transporter	28284395; 32498429
-HMDB0000235	Thiamine	Thiamine	SLC19A2[Transporter]	Thiamine transporter 1	28284395; 32498429
-HMDB0003379	Triphosphate	Triphosphate	ABCA1[Transporter]	Phospholipid-transporting ATPase ABCA1	24649047; 19341173; 22811478; 31678514; 26945479; 31724712; 12759900
-HMDB0015532	Zinc	Zinc	SLC39A6[Transporter]	Zinc transporter ZIP6	23185754
-HMDB0006111	12-HETE	12-HETE	GPR31[Receptor]	12-(S)-hydroxy-5,8,10,14-eicosatetraenoic acid receptor	32918516
-HMDB0000338	2-Hydroxyestradiol	2-Hydroxyestradiol	ESR1[Receptor]	Estrogen receptor	27312859
-HMDB0006247	25-Hydroxycholesterol	25-Hydroxycholesterol	ESR1[Receptor]	Estrogen receptor	21304949
-HMDB0002103	27-Hydroxycholesterol	27-Hydroxycholesterol	ESR1[Receptor]	Estrogen receptor	33408073
-HMDB0000022	3-Methoxytyramine	3-Methoxytyramine	TAAR1[Receptor]	Trace amine-associated receptor 1	22483291
-HMDB0001149	5-Aminolevulinic acid	5-Aminolevulinic acid	TSPO2[Transporter]	Translocator protein 2	31989647
-HMDB0001517	AICAR	AICAR	EGFR[Receptor]	Epidermal growth factor receptor	19625624; 26143491
-HMDB0000045	Adenosine monophosphate	AMP	ADORA1[Receptor]	Adenosine receptor A1	32417395
-HMDB0000042	Acetic acid	Acetic acid	TLR4[Receptor]	Toll-like receptor 4	23568555
-HMDB0000895	Acetylcholine	Acetylcholine	CHRM1[Receptor]	Muscarinic acetylcholine receptor M1	34189496
-HMDB0000895	Acetylcholine	Acetylcholine	CHRM2[Receptor]	Muscarinic acetylcholine receptor M2	23743182
-HMDB0000895	Acetylcholine	Acetylcholine	CHRM3[Receptor]	Muscarinic acetylcholine receptor M3	12359213
-HMDB0000895	Acetylcholine	Acetylcholine	CHRNA1[Receptor]	Acetylcholine receptor subunit alpha	28045942
-HMDB0000895	Acetylcholine	Acetylcholine	CHRNA2[Receptor]	Neuronal acetylcholine receptor subunit alpha-2	29785025
-HMDB0000895	Acetylcholine	Acetylcholine	CHRNA4[Receptor]	Neuronal acetylcholine receptor subunit alpha-4	15902904
-HMDB0000895	Acetylcholine	Acetylcholine	CHRNA7[Receptor]	Neuronal acetylcholine receptor subunit alpha-7	32321403
-HMDB0001178	Adenosine diphosphate ribose	Adenosine diphosphate ribose	TRPM2[Receptor]	Transient receptor potential cation channel subfamily M member 2	22493272
-HMDB0000050	Adenosine	Adenosine	ADORA1[Receptor]	Adenosine receptor A1	28598776; 23956030; 31675497; 27747290; 28196272; 33067580
-HMDB0000050	Adenosine	Adenosine	ADORA2A[Receptor]	Adenosine receptor A2a	34255555; 29298852; 28598776; 23956030; 27747290; 17616786; 19635551
-HMDB0000050	Adenosine	Adenosine	ADORA2B[Receptor]	Adenosine receptor A2b	28598776; 23956030; 23540714; 25087184; 27747290; 22504483; 31570448
-HMDB0000050	Adenosine	Adenosine	ADORA3[Receptor]	Adenosine receptor A3	23956030; 26194548; 28598776
-HMDB0000050	Adenosine	Adenosine	GPR18[Receptor]	N-arachidonyl glycine receptor	33537934
-HMDB0000050	Adenosine	Adenosine	GPR55[Receptor]	G-protein coupled receptor 55	33537934; 32103958
-HMDB0000037	Aldosterone	Aldosterone	IGF1R[Receptor]	Insulin-like growth factor 1 receptor	22173225
-HMDB0004080	Anandamide	Anandamide	CNR1[Receptor]	Cannabinoid receptor 1	26900150; 19862666
-HMDB0004080	Anandamide	Anandamide	CNR2[Receptor]	Cannabinoid receptor 2	26900150; 20133390
-HMDB0004080	Anandamide	Anandamide	TRPV1[Receptor]	Transient receptor potential cation channel subfamily V member 1	17935697; 29504066; 22568077; 17704831; 23573230; 17591864; 30243113; 22394688; 19647120; 14517174; 16107881
-HMDB0000517	L-Arginine	Arginine	AVPR2[Receptor]	Vasopressin V2 receptor	24706579
-HMDB0000044	Ascorbic acid	Ascorbic acid	LDLR[Receptor]	Low-density lipoprotein receptor	32913121
-HMDB0000043	Betaine	Betaine	IGF1R[Receptor]	Insulin-like growth factor 1 receptor	25410747
-HMDB0001903	Calcitriol	Calcitriol	FAS[Receptor]	Tumor necrosis factor receptor superfamily member 6	17406924
-HMDB0000464	Calcium	Calcium	CALCR[Receptor]	Calcitonin receptor	7789182
-HMDB0000464	Calcium	Calcium	CASR[Receptor]	Extracellular calcium-sensing receptor	27452962; 24244430; 24335970; 34153448; 23546818; 15382619; 19690432; 16596058; 29490306; 23856265; 26608608; 34444650; 22017175; 14508624; 20507089; 15531522; 27441644; 25036254; 18719333; 27692178; 14714270; 9571166; 19923405; 17374704; 26646938; 30407919; 27746743; 14730506; 29101653; 21566074; 17062884; 22722080; 23856262; 19615558; 20661308; 27760455; 20519369; 28575322; 26100412; 29504802; 9050237; 9637715; 19941273; 28615947; 29963899; 32599263; 23856261; 27803672; 10666491; 18980667; 28323996; 21273150; 23856264; 28833550; 28122587; 16740430; 15501733; 27792163; 22620673; 17925789; 23782944; 17046587; 16521071; 27573000; 10199162; 25069966; 19912241; 20578589; 28336825; 9852685; 21985973; 19549694; 24040082; 24966175; 15490411; 22275757; 23740560; 16642557; 19179454; 25967373; 25266236; 23856268; 19839774; 17568787; 19250271; 12574201; 27458380; 24554924; 26729423; 12793088; 33636577; 22886306
-HMDB0000464	Calcium	Calcium	CCR5[Receptor]	C-C chemokine receptor type 5	32159364
-HMDB0000464	Calcium	Calcium	CDH10[Receptor]	Cadherin-10	32978270
-HMDB0000464	Calcium	Calcium	CYSLTR1[Receptor]	Cysteinyl leukotriene receptor 1	20201353
-HMDB0000464	Calcium	Calcium	CYSLTR2[Receptor]	Cysteinyl leukotriene receptor 2	20201353
-HMDB0000464	Calcium	Calcium	GPRC6A[Receptor]	G-protein coupled receptor family C group 6 member A	26785252
-HMDB0000464	Calcium	Calcium	GRK2[Receptor]	Beta-adrenergic receptor kinase 1	34045505
-HMDB0000464	Calcium	Calcium	HTR2C[Receptor]	5-hydroxytryptamine receptor 2C	29601948
-HMDB0000464	Calcium	Calcium	S100A6[Receptor]	Protein S100-A6	19117405; 23185754
-HMDB0000464	Calcium	Calcium	TRPA1[Receptor]	Transient receptor potential cation channel subfamily A member 1	21518269; 22740698; 34389294; 30658323
-HMDB0000464	Calcium	Calcium	TRPC5[Receptor]	Short transient receptor potential channel 5	29165691
-HMDB0000464	Calcium	Calcium	TRPC6[Receptor]	Short transient receptor potential channel 6	31778750
-HMDB0000464	Calcium	Calcium	TRPM2[Receptor]	Transient receptor potential cation channel subfamily M member 2	16720381; 24009611
-HMDB0000464	Calcium	Calcium	TRPM3[Receptor]	Transient receptor potential cation channel subfamily M member 3	33164391
-HMDB0000464	Calcium	Calcium	TRPM6[Receptor]	Transient receptor potential cation channel subfamily M member 6	17481860
-HMDB0000464	Calcium	Calcium	TRPV1[Receptor]	Transient receptor potential cation channel subfamily V member 1	21430076; 21453681; 27899046; 16173059; 33128434; 26113985; 30895621; 31219220; 22184011; 24798548; 28294062; 29967167; 16866345
-HMDB0000464	Calcium	Calcium	TRPV4[Receptor]	Transient receptor potential cation channel subfamily V member 4	29899501; 27434269; 16866345
-HMDB0000464	Calcium	Calcium	TRPV6[Receptor]	Transient receptor potential cation channel subfamily V member 6	27573000; 27632366; 18276610; 24120915; 20178461; 34153448; 31141273; 18180267; 15284366; 19779013; 19254681; 17224125; 22275757; 33159483; 22931437; 17002582; 25486511; 22589201; 30916584; 20463051; 30170189
-HMDB0000067	Cholesterol	Cholesterol	FZD7[Receptor]	Frizzled-7	33637695
-HMDB0000067	Cholesterol	Cholesterol	GPR183[Receptor]	G-protein coupled receptor 183	31507605; 29523207
-HMDB0000067	Cholesterol	Cholesterol	LDLR[Receptor]	Low-density lipoprotein receptor	10974047; 19063703; 26520906; 20090943; 26281596; 32855525; 23221398; 25487149; 24900971; 32220355; 34103960; 16741953; 27247956; 32236613; 25023761; 25394495; 32368969; 14978770; 18162663; 19913121; 28919473; 25403094; 27834848; 24675665; 33757439; 22911757; 29535632; 28762182; 22470048; 23580231; 27735997; 30273964; 31437157; 30566603; 16236385; 33423309; 7600118; 28515357; 24603306; 12213890; 24950000; 10669643; 25231171; 32334376; 23937379; 29988450; 26495026; 28012395; 30195495; 30896554; 9351364; 15523646; 20049331; 15358785; 22962999; 22544571; 25797218; 27442011; 20857860; 30584280; 34347016; 28469073; 17184503; 30508567; 33429337; 26686234; 26548330; 30182437; 9502769; 24518357; 15617508; 23654093; 27050279; 32438039; 20041784; 9249773; 22761797; 29301853; 34461308; 32109664; 27888903; 23431047; 26085104; 28145001; 21645898; 22683120; 23623643; 23599654; 22936343; 23422832; 22761969; 8941642; 26523989; 29931853; 24505463; 19916081; 23883163; 30600305; 31100394; 10333389; 28100270; 19888660; 33606190; 21343340; 11164418; 19632679; 22593575; 25548917; 17344580; 18672372; 17331334; 27175606; 28751953; 19322023; 31332430; 31358055; 21657943; 21559365; 10493153; 31647302; 27438015; 31511396; 33747976; 24851052; 29092018; 31753053; 31299237; 21273557; 28555288; 30744358; 21734060; 26246324; 32964731; 24940994; 9664080; 27401460; 24373748; 20176131; 26068142; 27707816; 17531953; 30332439; 30592221; 18039658; 30385871; 30704067; 27084371; 30876530; 20028367; 15450205; 26921684; 15118091; 28099631; 10395289; 19067122; 28169529; 22580899; 25468703; 27031271; 27763549; 29398429; 31167970; 32860619; 9405278; 27459037; 25889601; 26535009; 30576926; 24837748; 30768966; 31767163; 31815695; 16741291; 15677715; 27435541; 32161285; 11291309; 21153157; 25587205; 26721317; 17351764; 23166513; 15654122; 33515402; 29545368; 24443560; 9747026; 32644974; 24352472; 31913546; 29190549; 20887597; 19060325; 25272851; 27909053; 28063230; 17709443; 16185916; 29982529; 30741106; 30486328; 20197419; 32050453; 24412220; 27564380; 31004037; 29169169; 11397707; 32705598; 24489659; 24987033; 22332058; 20073037; 11387232; 32759540; 34558270; 26204136; 29204218; 27918728; 24930699; 20580938; 15904870; 22494195; 24256518; 25413784; 33977967; 11369802; 18799458; 10488949; 9360938; 19433409; 25675507; 12910492; 15888329; 22059152; 32685494; 25754609; 25811180; 18193043; 28013406; 24770487; 30765502; 34615375; 11983917; 32727844; 18187606; 24472543; 26546829; 18771980; 11181749; 26786161; 21377952; 32918994; 16920108; 26040332; 27769814; 17720268; 11445560; 29321129; 25070550; 26700830; 24993279; 25201834; 23862065; 27378433; 28292942; 25504870; 27350674; 28874442; 17766366; 9360301; 20459026; 27998977
-HMDB0000067	Cholesterol	Cholesterol	OLR1[Receptor]	Oxidized low-density lipoprotein receptor 1	16007265
-HMDB0000067	Cholesterol	Cholesterol	P2RY13[Receptor]	P2Y purinoceptor 13	23705026
-HMDB0000067	Cholesterol	Cholesterol	P2RY14[Receptor]	P2Y purinoceptor 14	23705026
-HMDB0000067	Cholesterol	Cholesterol	SCARB1[Receptor]	Scavenger receptor class B member 1	17379624; 24253048; 29772548; 29285103; 24928939; 23510561; 20926582; 32591337; 24334872; 29516118; 18542840; 26754576; 25245032; 18276752; 25504870; 20064494; 29092018; 31753053; 31017097
-HMDB0001547	Corticosterone	Corticosterone	MC4R[Receptor]	Melanocortin receptor 4	24636506
-HMDB0000058	Cyclic AMP	Cyclic AMP	CFTR[Receptor]	Cystic fibrosis transmembrane conductance regulator	33441643
-HMDB0000574	L-Cysteine	Cysteine	CD44[Transporter]	CD44 antigen	25461272
-HMDB0003406	D-Serine	D-Serine	GRIN1[Receptor]	Glutamate receptor ionotropic, NMDA 1	28262924
-HMDB0002961	Dihydrotestosterone	Dihydrotestosterone	GLP1R[Receptor]	Glucagon-like peptide 1 receptor	31669915
-HMDB0002183	Docosahexaenoic acid	Docosahexaenoic acid	FFAR4[Receptor]	Free fatty acid receptor 4	24005906
-HMDB0000073	Dopamine	Dopamine	DRD1[Receptor]	D(1A) dopamine receptor	33017522; 30967134; 12047334; 24909515
-HMDB0000073	Dopamine	Dopamine	DRD2[Receptor]	D(2) dopamine receptor	21070510; 10578238; 30967134; 17476365; 15084894; 20975260; 23717492; 17466074; 24772965; 23232665; 26015071; 29466326; 18192895; 19635551; 22876458; 19931559; 11979061; 18366720; 24834916; 23947671; 23266708; 15542698; 29992511; 9129716; 21592505; 10235293; 16403463; 19803686; 11256581; 12497624; 30651332; 24288745
-HMDB0000073	Dopamine	Dopamine	DRD3[Receptor]	D(3) dopamine receptor	18366720; 30967134; 12047334; 10578238; 23232665; 29525179; 7914177; 17616385; 17466074; 19931559; 23063408
-HMDB0000073	Dopamine	Dopamine	DRD4[Receptor]	D(4) dopamine receptor	18366720; 23717434; 30967134; 15627814; 12624717; 15292670; 16182111; 21615938; 22725835; 22356182; 22575564; 12707943; 27217152; 33868590; 14605948; 17466074; 16930369; 19931559
-HMDB0000073	Dopamine	Dopamine	DRD5[Receptor]	D(1B) dopamine receptor	10578238; 12047334
-HMDB0000073	Dopamine	Dopamine	ESR1[Receptor]	Estrogen receptor	11932944
-HMDB0000073	Dopamine	Dopamine	GHSR[Receptor]	Growth hormone secretagogue receptor type 1	17060947
-HMDB0000073	Dopamine	Dopamine	TRPV1[Receptor]	Transient receptor potential cation channel subfamily V member 1	18812233; 24465516
-HMDB0001999	Eicosapentaenoic acid	Eicosapentaenoic acid	FFAR4[Receptor]	Free fatty acid receptor 4	27489163
-HMDB0000151	Estradiol	Estradiol	ESR1[Receptor]	Estrogen receptor	28490809; 9925803
-HMDB0000151	Estradiol	Estradiol	GHSR[Receptor]	Growth hormone secretagogue receptor type 1	24473434
-HMDB0000151	Estradiol	Estradiol	PTH1R[Receptor]	Parathyroid hormone/parathyroid hormone-related peptide receptor	34563672
-HMDB0000153	Estriol	Estriol	ESR1[Receptor]	Estrogen receptor	27471150
-HMDB0000145	Estrone	Estrone	ESR1[Receptor]	Estrogen receptor	9228655
-HMDB0000108	Ethanol	Ethanol	CHRNA5[Transporter]	Neuronal acetylcholine receptor subunit alpha-5	29944862
-HMDB0000108	Ethanol	Ethanol	GRIN1[Receptor]	Glutamate receptor ionotropic, NMDA 1	26266540
-HMDB0000108	Ethanol	Ethanol	GRIN2A[Receptor]	Glutamate receptor ionotropic, NMDA 2A	26266540
-HMDB0000108	Ethanol	Ethanol	GRIN2B[Receptor]	Glutamate receptor ionotropic, NMDA 2B	26266540
-HMDB0000121	Folic acid	Folic acid	FOLR1[Transporter]	Folate receptor alpha	32581311
-HMDB0000121	Folic acid	Folic acid	FOLR2[Transporter]	Folate receptor beta	32581311
-HMDB0000112	gamma-Aminobutyric acid	GABA	CALCR[Receptor]	Calcitonin receptor	24098073
-HMDB0000112	gamma-Aminobutyric acid	GABA	GABBR1[Receptor]	Gamma-aminobutyric acid type B receptor subunit 1	17266109; 22253714; 26298628
-HMDB0000112	gamma-Aminobutyric acid	GABA; gamma-Aminobutyric acid	GABRG2[Receptor]	Gamma-aminobutyric acid receptor subunit gamma-2	22253714; 27367160; 30695556
-HMDB0003345	alpha-D-Glucose	Glucose	CASR[Receptor]	Extracellular calcium-sensing receptor	28575322; 28880472; 31756367; 32918657; 33636577
-HMDB0003345	alpha-D-Glucose	Glucose	GPR21[Receptor]	Probable G-protein coupled receptor 21	22155242
-HMDB0003345	alpha-D-Glucose	Glucose	INSR[Transporter]	Insulin receptor	24359498; 26973181; 24887203; 27354525; 34285117; 25873396; 29102144; 25352008; 18267303; 34536566; 30082752; 26876454; 25040769; 8612577; 18339691; 26347892; 32046372; 34271222; 32191645; 25123125; 27983572; 30034366; 19933998; 25811618; 26596702
-HMDB0003345	alpha-D-Glucose	Glucose	TAS1R2[Receptor]	Taste receptor type 1 member 2	19587847
-HMDB0003345	alpha-D-Glucose	Glucose	TAS1R3[Receptor]	Taste receptor type 1 member 3	25983343; 25775865; 26107521; 32673349
-HMDB0000148	L-Glutamic acid	Glutamate	CNR1[Receptor]	Cannabinoid receptor 1	33053940
-HMDB0000148	L-Glutamic acid	Glutamate	EGFR[Receptor]	Epidermal growth factor receptor	32652471; 26980765; 32947664
-HMDB0000148	L-Glutamic acid	Glutamate	GRIA1[Receptor]	Glutamate receptor 1	7957959; 20579352
-HMDB0000148	L-Glutamic acid	Glutamate	GRIA2[Receptor]	Glutamate receptor 2	30695556; 19166514; 26047211; 25411160
-HMDB0000148	L-Glutamic acid	Glutamate	GRIA3[Receptor]	Glutamate receptor 3	30029590; 32839935
-HMDB0000148	L-Glutamic acid	Glutamate	GRIA4[Receptor]	Glutamate receptor 4	30029590; 28646511
-HMDB0000148	L-Glutamic acid	Glutamate	GRID1[Receptor]	Glutamate receptor ionotropic, delta-1	32109663
-HMDB0000148	L-Glutamic acid	Glutamate	GRID2[Receptor]	Glutamate receptor ionotropic, delta-2	11568633
-HMDB0000148	L-Glutamic acid	Glutamate	GRIK2[Receptor]	Glutamate receptor ionotropic, kainate 2	30695556
-HMDB0000148	L-Glutamic acid	Glutamate	GRIK4[Receptor]	Glutamate receptor ionotropic, kainate 4	30029590
-HMDB0000148	L-Glutamic acid	Glutamate	GRIN3A[Receptor]	Glutamate receptor ionotropic, NMDA 3A	30029590
-HMDB0000148	L-Glutamic acid	Glutamate	GRM1[Receptor]	Metabotropic glutamate receptor 1	7957959; 22892214; 33145952
-HMDB0000148	L-Glutamic acid	Glutamate	GRM2[Receptor]	Metabotropic glutamate receptor 2	30695556; 25411160; 29113156
-HMDB0000148	L-Glutamic acid	Glutamate	GRM3[Receptor]	Metabotropic glutamate receptor 3	32839935
-HMDB0000148	L-Glutamic acid	Glutamate	GRM4[Receptor]	Metabotropic glutamate receptor 4	28646511
-HMDB0000148	L-Glutamic acid	Glutamate	GRM5[Receptor]	Metabotropic glutamate receptor 5	33053940; 30695556
-HMDB0000148	L-Glutamic acid	Glutamate	GRM7[Receptor]	Metabotropic glutamate receptor 7	22138407
-HMDB0000148	L-Glutamic acid	Glutamate	GRM8[Receptor]	Metabotropic glutamate receptor 8	26537360; 24392270
-HMDB0000148	L-Glutamic acid	Glutamate	TRPV1[Receptor]	Transient receptor potential cation channel subfamily V member 1	23108547; 27157265; 20219639; 21957263; 22394688; 23562495
-HMDB0000123	Glycine	Glycine	GRIN1[Receptor]	Glutamate receptor ionotropic, NMDA 1	28262924
-HMDB0000757	Glycogen	Glycogen	STBD1[Receptor]	Starch-binding domain-containing protein 1	20810658; 21893048; 32927708; 24837458
-HMDB0003178	Heme	Heme	TLR4[Receptor]	Toll-like receptor 4	33374506; 27821769
-HMDB0003178	Heme	Heme	TRPV6[Transporter]	Transient receptor potential cation channel subfamily V member 6	27142151
-HMDB0000870	Histamine	Histamine	HRH1[Receptor]	Histamine H1 receptor	9512916
-HMDB0000870	Histamine	Histamine	HRH2[Receptor]	Histamine H2 receptor	9792230
-HMDB0000870	Histamine	Histamine	HRH3[Receptor]	Histamine H3 receptor	8960873
-HMDB0000870	Histamine	Histamine	HRH4[Receptor]	Histamine H4 receptor	30414378
-HMDB0002061	Hyaluronic acid	Hyaluronic acid	CD44[Receptor]	CD44 antigen	18418552; 8886879; 29633614; 18196609; 10730753; 34070901; 15828943; 17236626; 18786151; 16049255; 28107631; 30243136; 32452217; 9326174; 19248616; 22541960; 31198046; 19117298; 20597964
-HMDB0003125	Hydrogen peroxide	Hydrogen peroxide	TRPM2[Receptor]	Transient receptor potential cation channel subfamily M member 2	22493272
-HMDB0015531	Iron	Iron	TFR2[Receptor]	Transferrin receptor protein 2	27013087; 24847265; 20826723; 18565178; 19729324; 11535534; 24055409; 27169626; 11005792; 20593115; 32621410; 17098454; 11673399; 31707638; 27477597; 11358390; 16932966; 27667161; 32054685; 24644245; 20880062; 26608187; 34199599; 20542038; 25635054; 17241880; 17417667; 17181986; 18094142; 24055163; 26029709; 20133002; 19759876; 21150441; 16158226; 17207112; 15521925; 24284962; 15124225; 15317665; 15893030; 21422745; 22460705; 30186425; 16935854; 11027676; 17042772; 12547237; 24556216; 21864651; 34156073; 33323945; 29434729; 17428703; 23582421; 28978826; 30360575; 30034931; 15701302; 12406888
-HMDB0015531	Iron	Iron	TFRC[Receptor]	Transferrin receptor protein 1	21326867; 27773819; 22237814; 31401526; 23115478; 24890018; 33393230; 18603562; 25550467; 33693820; 23416069; 30076742; 32672503; 34389031; 34386079
-HMDB0000715	Kynurenic acid	Kynurenic acid	GPR35[Receptor]	G-protein coupled receptor 35	22523636; 23123095; 30141532; 29414686; 16754668
-HMDB0000517	L-Arginine	L-Arginine	GPRC6A[Receptor]	G-protein coupled receptor family C group 6 member A	22714012
-HMDB0000062	L-Carnitine	L-Carnitine	NPHS1[Receptor]	Nephrin	20946020
-HMDB0000159	L-Phenylalanine	Phenylalanine; L-Phenylalanine	GPR142[Receptor]	Probable G-protein coupled receptor 142	27322810
-HMDB0000929	L-Tryptophan	L-Tryptophan	GPR142[Receptor]	Probable G-protein coupled receptor 142	27322810
-HMDB0001311	D-Lactic acid	Lactate	HCAR1[Receptor]	Hydroxycarboxylic acid receptor 1	25881750; 34093243; 30728759; 25425080; 33659884; 26677077
-HMDB0001251	Lanosterol	Lanosterol	HRH2[Receptor]	Histamine H2 receptor	29142437
-HMDB0000673	Linoleic acid	Linoleic acid	TRPV1[Receptor]	Transient receptor potential cation channel subfamily V member 1	23867730; 23891895
-HMDB0000673	Linoleic acid	Linoleic acid	TRPV4[Receptor]	Transient receptor potential cation channel subfamily V member 4	25061872
-HMDB0004385	Lipoxin A4	Lipoxin A4	ESR1[Receptor]	Estrogen receptor	24587003
-HMDB0000761	Lithocholic acid	Lithocholic acid	GPBAR1[Receptor]	G-protein coupled bile acid receptor 1	26567894; 29290621; 27765751
-HMDB0000761	Lithocholic acid	Lithocholic acid	TGFBR1[Receptor]	TGF-beta receptor type-1	23034213
-HMDB0000761	Lithocholic acid	Lithocholic acid	TGFBR2[Receptor]	TGF-beta receptor type-2	23034213
-HMDB0001389	Melatonin	Melatonin	MTNR1A[Receptor]	Melatonin receptor type 1A	26067916
-HMDB0001389	Melatonin	Melatonin	MTNR1B[Receptor]	Melatonin receptor type 1B	28708046; 19651812; 25132852; 25160745; 33220095; 31901302; 29590381; 26440713
-HMDB0001389	Melatonin	Melatonin	TRPV1[Receptor]	Transient receptor potential cation channel subfamily V member 1	26525975; 26389691
-HMDB0003378	Nitric oxide	Nitric oxide	CD47[Receptor]	Leukocyte surface antigen CD47	33854480
-HMDB0000159	L-Phenylalanine	Phenylalanine	FAS[Receptor]	Tumor necrosis factor receptor superfamily member 6	23940767; 34447801
-HMDB0001429	Phosphate	Phosphate	CASR[Receptor]	Extracellular calcium-sensing receptor	28615947
-HMDB0001429	Phosphate	Phosphate	FGFR1[Transporter]	Fibroblast growth factor receptor 1	25089825; 28515153; 24259513; 31237331; 17623664
-HMDB0001429	Phosphate	Phosphate	FGFR4[Transporter]	Fibroblast growth factor receptor 4	24259513
-HMDB0001830	Progesterone	Progesterone	OXTR[Receptor]	Oxytocin receptor	17765941
-HMDB0001830	Progesterone	Progesterone	SPHK1[Receptor]	Sphingosine kinase 1	20007411; 17164439
-HMDB0001403	Prostaglandin D2	Prostaglandin D2	PTGDR[Receptor]	Prostaglandin D2 receptor	34389612
-HMDB0001403	Prostaglandin D2	Prostaglandin D2	PTGDR2[Receptor]	Prostaglandin D2 receptor 2	33593806
-HMDB0001403	Prostaglandin D2	Prostaglandin D2	PTGER4[Receptor]	Prostaglandin E2 receptor EP4 subtype	33129574
-HMDB0001220	Prostaglandin E2	Prostaglandin E2	EPHB4[Receptor]	Ephrin type-B receptor 4	19035475
-HMDB0001220	Prostaglandin E2	Prostaglandin E2	PTGER1[Receptor]	Prostaglandin E2 receptor EP1 subtype	17761898
-HMDB0001220	Prostaglandin E2	Prostaglandin E2	PTGER2[Receptor]	Prostaglandin E2 receptor EP2 subtype	17761898
-HMDB0001220	Prostaglandin E2	Prostaglandin E2	PTGER4[Receptor]	Prostaglandin E2 receptor EP4 subtype	33129574
-HMDB0001358	Retinal	Retinal	FFAR1[Receptor]	Free fatty acid receptor 1	27270778; 26974308
-HMDB0001358	Retinal	Retinal	STRA6[Transporter]	Receptor for retinol uptake STRA6	27830500
-HMDB0000244	Riboflavin	Riboflavin	SLC52A1[Transporter]	Solute carrier family 52, riboflavin transporter, member 1	30446350; 29122468
-HMDB0000244	Riboflavin	Riboflavin	SLC52A2[Transporter]	Solute carrier family 52, riboflavin transporter, member 2	31500345; 22864630
-HMDB0000259	Serotonin	Serotonin	HTR1A[Receptor]	5-hydroxytryptamine receptor 1A	16251523
-HMDB0000259	Serotonin	Serotonin	HTR1B[Receptor]	5-hydroxytryptamine receptor 1B	28555718; 29860743; 23964727; 24074042
-HMDB0000259	Serotonin	Serotonin	HTR1D[Receptor]	5-hydroxytryptamine receptor 1D	20581837
-HMDB0000259	Serotonin	Serotonin	HTR2A[Receptor]	5-hydroxytryptamine receptor 2A	20521326; 32857933; 16251523; 27959337; 27024926; 32615731
-HMDB0000259	Serotonin	Serotonin	HTR2B[Receptor]	5-hydroxytryptamine receptor 2B	20581837; 34618686
-HMDB0000259	Serotonin	Serotonin	HTR2C[Receptor]	5-hydroxytryptamine receptor 2C	27681143
-HMDB0000259	Serotonin	Serotonin	HTR3A[Receptor]	5-hydroxytryptamine receptor 3A	31342534; 30695556
-HMDB0000259	Serotonin	Serotonin	HTR3B[Receptor]	5-hydroxytryptamine receptor 3B	23183509
-HMDB0000259	Serotonin	Serotonin	HTR4[Receptor]	5-hydroxytryptamine receptor 4	30695556
-HMDB0000259	Serotonin	Serotonin	HTR6[Receptor]	5-hydroxytryptamine receptor 6	18256283
-HMDB0000259	Serotonin	Serotonin	SSTR3[Receptor]	Somatostatin receptor type 3	18256283
-HMDB0000259	Serotonin	Serotonin	TRPC5[Receptor]	Short transient receptor potential channel 5	28099839
-HMDB0000259	Serotonin	Serotonin	TRPC6[Receptor]	Short transient receptor potential channel 6	24259679
-HMDB0000277	Sphingosine 1-phosphate	Sphingosine 1-phosphate	S1PR1[Receptor]	Sphingosine 1-phosphate receptor 1	24977489; 25197261
-HMDB0000277	Sphingosine 1-phosphate	Sphingosine 1-phosphate	S1PR2[Receptor]	Sphingosine 1-phosphate receptor 2	26518876; 25363242; 26669941
-HMDB0000277	Sphingosine 1-phosphate	Sphingosine 1-phosphate	S1PR3[Receptor]	Sphingosine 1-phosphate receptor 3	28943478
-HMDB0000277	Sphingosine 1-phosphate	Sphingosine 1-phosphate	S1PR5[Receptor]	Sphingosine 1-phosphate receptor 5	24977489
-HMDB0000254	Succinic acid	Succinate	SUCNR1[Receptor]	Succinate receptor 1	25352636; 34270263; 33916314; 26808164; 33279412; 34301438; 29894669; 34233171
-HMDB0000234	Testosterone	Testosterone	GPRC6A[Receptor]	G-protein coupled receptor family C group 6 member A	26785252; 29468843; 24032653; 24998176; 22374969; 24193547; 25093461; 27673554; 33474566; 28180060; 26440882; 31558901
-HMDB0000234	Testosterone	Testosterone	HTR2B[Receptor]	5-hydroxytryptamine receptor 2B	27420381
-HMDB0001452	Thromboxane A2	Thromboxane A2	TBXA2R[Receptor]	Thromboxane A2 receptor	9774254
-HMDB0000158	L-Tyrosine	Tyrosine	GPR35[Receptor]	G-protein coupled receptor 35	22523636
-HMDB0000305	Vitamin A	Vitamin A	STRA6[Transporter]	Receptor for retinol uptake STRA6	21782034; 19112531; 25481334; 22665496; 27830501; 32597569; 21704730; 23591992; 26729422; 31956331; 26373900
-HMDB0000292	Xanthine	Xanthine	ADORA1[Receptor]	Adenosine receptor A1	31675497
-HMDB0000112	gamma-Aminobutyric acid	gamma-Aminobutyric acid	GABBR2[Receptor]	Gamma-aminobutyric acid type B receptor subunit 2	30610899
-HMDB0000112	gamma-Aminobutyric acid	gamma-Aminobutyric acid	GABRA1[Receptor]	Gamma-aminobutyric acid receptor subunit alpha-1	30891080
-HMDB0000112	gamma-Aminobutyric acid	gamma-Aminobutyric acid	GABRA4[Receptor]	Gamma-aminobutyric acid receptor subunit alpha-4	33594062
-HMDB0000112	gamma-Aminobutyric acid	gamma-Aminobutyric acid	GABRB2[Receptor]	Gamma-aminobutyric acid receptor subunit beta-2	33594062
-HMDB0000067	Cholesterol	Cholesterol	ABCB1[Transporter]	ATP-dependent translocase ABCB1	HMDB
-HMDB0000125	Glutathione	Glutathione	ABCC1[Transporter]	Multidrug resistance-associated protein 1	HMDB
-HMDB0000125	Glutathione	Glutathione	ABCC2[Transporter]	ATP-binding cassette sub-family C member 2	HMDB
-HMDB0000125	Glutathione	Glutathione	ABCC3[Transporter]	ATP-binding cassette sub-family C member 3	HMDB
-HMDB0000125	Glutathione	Glutathione	ABCC4[Transporter]	ATP-binding cassette sub-family C member 4	HMDB
-HMDB0000125	Glutathione	Glutathione	ABCC5[Transporter]	Multidrug resistance-associated protein 5	HMDB
-HMDB0000067	Cholesterol	Cholesterol	ABCG2[Transporter]	Broad substrate specificity ATP-binding cassette transporter ABCG2	HMDB
-HMDB0000123	Glycine	Glycine	SLC16A10[Transporter]	Monocarboxylate transporter 10	HMDB
-HMDB0000097	Choline	Choline	SLC22A1[Transporter]	Solute carrier family 22 member 1	HMDB
-HMDB0001256	Spermine	Spermine	SLC22A1[Transporter]	Solute carrier family 22 member 1	HMDB
-HMDB0001414	Putrescine	Putrescine	SLC22A4[Transporter]	Solute carrier family 22 member 4	HMDB
-HMDB0001256	Spermine	Spermine	SLC22A4[Transporter]	Solute carrier family 22 member 4	HMDB
-HMDB0000064	Creatine	Creatine	SLC16A12[Transporter]	Monocarboxylate transporter 12	23578822
-HMDB0000064	Creatine	Creatine	SLC22A5[Transporter]	Solute carrier family 22 member 5	HMDB
-HMDB0000123	Glycine	Glycine	SLC36A1[Transporter]	Proton-coupled amino acid transporter 1	HMDB
-HMDB0000097	Choline	Choline	SLC44A1[Transporter]	Choline transporter-like protein 1	HMDB
-HMDB0000097	Choline	Choline	SLC44A2[Transporter]	Choline transporter-like protein 2	HMDB
-HMDB0000097	Choline	Choline	SLC44A3[Transporter]	Choline transporter-like protein 3	HMDB
-HMDB0000097	Choline	Choline	SLC44A4[Transporter]	Choline transporter-like protein 4	HMDB
-HMDB0000097	Choline	Choline	SLC5A7[Transporter]	High affinity choline transporter 1	HMDB
-HMDB0000243	Pyruvic acid	Pyruvate	SLC16A11[Transporter]	Monocarboxylate transporter 11	28666119
-HMDB0000243	Pyruvic acid	Pyruvate	SLC16A1[Transporter]	Monocarboxylate transporter 1	31882442
-HMDB0000254	Succinic acid	Succinate	SLC13A5[Transporter]	Solute carrier family 13 member 5	31882442
-HMDB0000094	Citric acid	Citrate	SLC13A5[Transporter]	Solute carrier family 13 member 5	33597751
-HMDB0000134	Fumaric acid	Fumarate	SLC13A5[Transporter]	Solute carrier family 13 member 5	31882442
-HMDB0000156	Malic acid	Malate	SLC13A5[Transporter]	Solute carrier family 13 member 5	31882442
-HMDB0000156	Malic acid	Malate	SLC1A3[Transporter]	Excitatory amino acid transporter 1	https://en.wikipedia.org/wiki/Excitatory_amino_acid_transporter_1
-HMDB0000187	L-Serine	Serine	SLC7A10[Transporter]	Asc-type amino acid transporter 1	33269112
-HMDB0000187	L-Serine	Serine	SLC3A2[Transporter]	4F2 cell-surface antigen heavy chain	33269112
-HMDB0000187	L-Serine	Serine	SLC1A4[Transporter]	Neutral amino acid transporter A	33269112
-HMDB0000187	L-Serine	Serine	SLC1A5[Transporter]	Neutral amino acid transporter B(0)	33269112
-HMDB0000574	L-Cysteine	Cysteine	SLC7A11[Transporter]	Cystine/glutamate transporter	33000412
-HMDB0000696	L-Methionine	Methionine	SLC7A5[Transporter]	Large neutral amino acids transporter small subunit 1	32377929
-HMDB0000168	L-Asparagine	Asparagine	SLC1A5[Transporter]	Neutral amino acid transporter B(0)	33420487
-HMDB0000641	L-Glutamine	Glutamine	SLC6A14[Transporter]	Sodium- and chloride-dependent neutral and basic amino acid transporter B(0+)	26724577
-HMDB0000641	L-Glutamine	Glutamine	SLC6A19[Transporter]	Sodium-dependent neutral amino acid transporter B(0)AT1	26724577
-HMDB0000641	L-Glutamine	Glutamine	SLC7A6[Transporter]	Y+L amino acid transporter 2	26724577
-HMDB0000641	L-Glutamine	Glutamine	SLC7A7[Transporter]	Y+L amino acid transporter 1	26724577
-HMDB0000641	L-Glutamine	Glutamine	SLC38A1[Transporter]	Sodium-coupled neutral amino acid transporter 1	26724577
-HMDB0000641	L-Glutamine	Glutamine	SLC38A3[Transporter]	Sodium-coupled neutral amino acid transporter 3	26724577
-HMDB0000641	L-Glutamine	Glutamine	SLC38A5[Transporter]	Sodium-coupled neutral amino acid transporter 5	26724577
-HMDB0000641	L-Glutamine	Glutamine	SLC38A7[Transporter]	Putative sodium-coupled neutral amino acid transporter 7	26724577
-HMDB0000641	L-Glutamine	Glutamine	SLC38A8[Transporter]	Putative sodium-coupled neutral amino acid transporter 8	26724577
-HMDB0003345	alpha-D-Glucose	Glucose	SLC2A3[Transporter]	Solute carrier family 2, facilitated glucose transporter member 3	https://en.wikipedia.org/wiki/Glucose_transporter
-HMDB0003345	alpha-D-Glucose	Glucose	SLC2A4[Transporter]	Solute carrier family 2, facilitated glucose transporter member 4	https://en.wikipedia.org/wiki/Glucose_transporter
-HMDB0003345	alpha-D-Glucose	Glucose	SLC2A14[Transporter]	Solute carrier family 2, facilitated glucose transporter member 14	https://en.wikipedia.org/wiki/Glucose_transporter
-HMDB0003345	alpha-D-Glucose	Glucose	SLC5A1[Transporter]	Sodium/glucose cotransporter 1	31882442
-HMDB0003345	alpha-D-Glucose	Glucose	SLC5A2[Transporter]	Sodium/glucose cotransporter 2	31882442
-HMDB0000112	gamma-Aminobutyric acid	GABA	SLC6A1[Transporter]	Sodium- and chloride-dependent GABA transporter 1	https://en.wikipedia.org/wiki/GABA_transporter
-HMDB0000112	gamma-Aminobutyric acid	GABA	SLC6A13[Transporter]	Sodium- and chloride-dependent GABA transporter 2	https://en.wikipedia.org/wiki/GABA_transporter
-HMDB0000112	gamma-Aminobutyric acid	GABA	SLC6A11[Transporter]	Sodium- and chloride-dependent GABA transporter 3	https://en.wikipedia.org/wiki/GABA_transporter
-HMDB0000112	gamma-Aminobutyric acid	GABA	SLC6A12[Transporter]	Sodium- and chloride-dependent betaine transporter	https://en.wikipedia.org/wiki/GABA_transporter
-HMDB0000112	gamma-Aminobutyric acid	GABA	SLC6A8[Transporter]	Sodium- and chloride-dependent creatine transporter 1	https://en.wikipedia.org/wiki/GABA_transporter
-HMDB0000112	gamma-Aminobutyric acid	GABA	SLC6A6[Transporter]	Sodium- and chloride-dependent taurine transporter	https://en.wikipedia.org/wiki/GABA_transporter
-HMDB0000158	L-Tyrosine	Tyrosine	SLC7A5[Transporter]	Large neutral amino acids transporter small subunit 1	32377929
-HMDB0000191	L-Aspartic acid	Aspartate	SLC1A2[Transporter]	Excitatory amino acid transporter 2	31269432
-HMDB0000177	L-Histidine	Histidine	SLC7A5[Transporter]	Large neutral amino acids transporter small subunit 1	32377929
-HMDB0000159	L-Phenylalanine	Phenylalanine	SLC7A5[Transporter]	Large neutral amino acids transporter small subunit 1	32377929
-HMDB0000883	L-Valine	Valine	SLC43A1[Transporter]	Large neutral amino acids transporter small subunit 3	31997805
-HMDB0000172	L-Isoleucine	Isoleucine	SLC43A1[Transporter]	Large neutral amino acids transporter small subunit 3	31997805
-HMDB0000687	L-Leucine	Leucine	SLC43A1[Transporter]	Large neutral amino acids transporter small subunit 3	31997805
-HMDB0000757	Glycogen	Glycogen	ADRB1[Receptor]	Beta-1 adrenergic receptor	26964834
-HMDB0000757	Glycogen	Glycogen	ADRB2[Receptor]	Beta-2 adrenergic receptor	26964834
-HMDB0000757	Glycogen	Glycogen	ADRB3[Receptor]	Beta-3 adrenergic receptor	26964834
-HMDB0000757	Glycogen	Glycogen	GCGR[Receptor]	Glucagon receptor	26964834
-HMDB0000034	Adenine	Adenine	SLC28A3[Transporter]	Solute carrier family 28 member 3	33972798
-HMDB0000034	Adenine	Adenine	SLC29A3[Transporter]	Equilibrative nucleoside transporter 3	33972798
-HMDB0000034	Adenine	Adenine	SLC35F5[Transporter]	Solute carrier family 35 member F5	33972798
-HMDB0000998	dCTP	Deoxycytidine triphosphate	ALDOC[Interacting]	Fructose-bisphosphate aldolase C	https://www.biorxiv.org/content/10.1101/2021.08.28.458030v1
-HMDB0001031	Deoxyribose 5-phosphate	2-Deoxyribose-5-phosphate	ALDOC[Interacting]	Fructose-bisphosphate aldolase C	https://www.biorxiv.org/content/10.1101/2021.08.28.458030v1
-HMDB0000034	Adenine	Adenine	ALDOC[Interacting]	Fructose-bisphosphate aldolase C	https://www.biorxiv.org/content/10.1101/2021.08.28.458030v1
-HMDB0001375	3-Hydroxy-3-methylglutaryl-CoA	3-Hydroxy-3-methylglutaryl coenzyme A	ALDOC[Interacting]	Fructose-bisphosphate aldolase C	https://www.biorxiv.org/content/10.1101/2021.08.28.458030v1
-HMDB0001175	Malonyl-CoA	Malonyl coenzyme A	ALDOC[Interacting]	Fructose-bisphosphate aldolase C	https://www.biorxiv.org/content/10.1101/2021.08.28.458030v1
-HMDB0001367	N-Acetyl-glucosamine 1-phosphate	N-Acetyl-D-glucosamine 1-phosphate	ALDOC[Interacting]	Fructose-bisphosphate aldolase C	https://www.biorxiv.org/content/10.1101/2021.08.28.458030v1
-HMDB0001508	dADP	Deoxyadenosine diphosphate	ALDOC[Interacting]	Fructose-bisphosphate aldolase C	https://www.biorxiv.org/content/10.1101/2021.08.28.458030v1
-HMDB0000086	Glycerophosphocholine	L-alpha-Glycerophosphorylcholine	ALDOC[Interacting]	Fructose-bisphosphate aldolase C	https://www.biorxiv.org/content/10.1101/2021.08.28.458030v1
-HMDB0001191	Deoxyuridine triphosphate	Deoxyuridine triphosphate	ALDOC[Interacting]	Fructose-bisphosphate aldolase C	https://www.biorxiv.org/content/10.1101/2021.08.28.458030v1
-HMDB0001342	Thymidine 5'-triphosphate	Thymidine 5-triphosphate	ALDOC[Interacting]	Fructose-bisphosphate aldolase C	https://www.biorxiv.org/content/10.1101/2021.08.28.458030v1
-HMDB0000517	L-Arginine	L-Arginine	CASTOR1[Interacting]	Cytosolic arginine sensor for mTORC1 subunit 1	https://www.biorxiv.org/content/10.1101/2021.08.28.458030v1
-HMDB0000272	Phosphoserine	O-Phospho-L-serine	ENO1[Interacting]	Alpha-enolase	https://www.biorxiv.org/content/10.1101/2021.08.28.458030v1
-HMDB0000272	Phosphoserine	O-Phospho-L-serine	ENO2[Interacting]	Gamma-enolase	https://www.biorxiv.org/content/10.1101/2021.08.28.458030v1
-HMDB0000905	Deoxyadenosine monophosphate	Deoxyadenosine monophosphate	FBP1[Interacting]	Fructose-1,6-bisphosphatase 1	https://www.biorxiv.org/content/10.1101/2021.08.28.458030v1
-HMDB0000905	Deoxyadenosine monophosphate	Deoxyadenosine monophosphate	FBP2[Interacting]	Fructose-1,6-bisphosphatase isozyme 2	https://www.biorxiv.org/content/10.1101/2021.08.28.458030v1
-HMDB0001554	Xanthylic acid	Xanthosine 5-monophosphate	FBP2[Interacting]	Fructose-1,6-bisphosphatase isozyme 2	https://www.biorxiv.org/content/10.1101/2021.08.28.458030v1
-HMDB0000045	Adenosine monophosphate	Adenosine monophosphate	FBP2[Interacting]	Fructose-1,6-bisphosphatase isozyme 2	https://www.biorxiv.org/content/10.1101/2021.08.28.458030v1
-HMDB0001397	Guanosine monophosphate	Guanosine 5-monophosphate	FBP2[Interacting]	Fructose-1,6-bisphosphatase isozyme 2	https://www.biorxiv.org/content/10.1101/2021.08.28.458030v1
-HMDB0001508	dADP	Deoxyadenosine diphosphate	FBP2[Interacting]	Fructose-1,6-bisphosphatase isozyme 2	https://www.biorxiv.org/content/10.1101/2021.08.28.458030v1
-HMDB0000902	NAD	NAD	GAPDH[Interacting]	Glyceraldehyde-3-phosphate dehydrogenase	https://www.biorxiv.org/content/10.1101/2021.08.28.458030v1
-HMDB0001248	FAD	Flavin adenine dinucleotide	GAPDH[Interacting]	Glyceraldehyde-3-phosphate dehydrogenase	https://www.biorxiv.org/content/10.1101/2021.08.28.458030v1
-HMDB0000058	Cyclic AMP	Cyclic AMP	GAPDH[Interacting]	Glyceraldehyde-3-phosphate dehydrogenase	https://www.biorxiv.org/content/10.1101/2021.08.28.458030v1
-HMDB0001406	Niacinamide	Nicotinamide	GAPDH[Interacting]	Glyceraldehyde-3-phosphate dehydrogenase	https://www.biorxiv.org/content/10.1101/2021.08.28.458030v1
-HMDB0000229	Nicotinamide ribotide	Nicotinamide ribotide	GAPDH[Interacting]	Glyceraldehyde-3-phosphate dehydrogenase	https://www.biorxiv.org/content/10.1101/2021.08.28.458030v1
-HMDB0000998	dCTP	Deoxycytidine triphosphate	GAPDH[Interacting]	Glyceraldehyde-3-phosphate dehydrogenase	https://www.biorxiv.org/content/10.1101/2021.08.28.458030v1
-HMDB0000218	Orotidylic acid	Orotidine 5-monophosphate	GAPDH[Interacting]	Glyceraldehyde-3-phosphate dehydrogenase	https://www.biorxiv.org/content/10.1101/2021.08.28.458030v1
-HMDB0004045	3-Sulfopyruvic acid	3-Sulfopyruvic acid	GAPDH[Interacting]	Glyceraldehyde-3-phosphate dehydrogenase	https://www.biorxiv.org/content/10.1101/2021.08.28.458030v1
-HMDB0001191	Deoxyuridine triphosphate	Deoxyuridine triphosphate	GCK[Interacting]	Hexokinase-4	https://www.biorxiv.org/content/10.1101/2021.08.28.458030v1
-HMDB0001508	dADP	Deoxyadenosine diphosphate	GCK[Interacting]	Hexokinase-4	https://www.biorxiv.org/content/10.1101/2021.08.28.458030v1
-HMDB0001375	3-Hydroxy-3-methylglutaryl-CoA	3-Hydroxy-3-methylglutaryl coenzyme A	GCK[Interacting]	Hexokinase-4	https://www.biorxiv.org/content/10.1101/2021.08.28.458030v1
-HMDB0001031	Deoxyribose 5-phosphate	2-Deoxyribose-5-phosphate	GCK[Interacting]	Hexokinase-4	https://www.biorxiv.org/content/10.1101/2021.08.28.458030v1
-HMDB0001175	Malonyl-CoA	Malonyl coenzyme A	GCK[Interacting]	Hexokinase-4	https://www.biorxiv.org/content/10.1101/2021.08.28.458030v1
-HMDB0001134	Phosphoadenosine phosphosulfate	3-Phosphoadenosine 5-phosphosulfate	GCK[Interacting]	Hexokinase-4	https://www.biorxiv.org/content/10.1101/2021.08.28.458030v1
-HMDB0000221	NADPH	NADPH	GCK[Interacting]	Hexokinase-4	https://www.biorxiv.org/content/10.1101/2021.08.28.458030v1
-HMDB0000223	Oxalacetic acid	Oxaloacetic acid	GCK[Interacting]	Hexokinase-4	https://www.biorxiv.org/content/10.1101/2021.08.28.458030v1
-HMDB0000217	NADP	NADP	GCK[Interacting]	Hexokinase-4	https://www.biorxiv.org/content/10.1101/2021.08.28.458030v1
-HMDB0001113	Isovaleryl-CoA	Isovaleryl coenzyme A	GCK[Interacting]	Hexokinase-4	https://www.biorxiv.org/content/10.1101/2021.08.28.458030v1
-HMDB0000189	Inosine triphosphate	Inosine 5-triphosphate	GCK[Interacting]	Hexokinase-4	https://www.biorxiv.org/content/10.1101/2021.08.28.458030v1
-HMDB0001206	Acetyl-CoA	Acetyl coenzyme A	GCK[Interacting]	Hexokinase-4	https://www.biorxiv.org/content/10.1101/2021.08.28.458030v1
-HMDB0001166	3-Hydroxybutyryl-CoA	3-Hydroxybutyryl coenzyme A	GCK[Interacting]	Hexokinase-4	https://www.biorxiv.org/content/10.1101/2021.08.28.458030v1
-HMDB0001201	Guanosine diphosphate	Guanosine 5-diphosphate	GCK[Interacting]	Hexokinase-4	https://www.biorxiv.org/content/10.1101/2021.08.28.458030v1
-HMDB0000285	Uridine triphosphate	Uridine 5-triphosphate	HK1[Interacting]	Hexokinase-1	https://www.biorxiv.org/content/10.1101/2021.08.28.458030v1
-HMDB0001508	dADP	Deoxyadenosine diphosphate	HK1[Interacting]	Hexokinase-1	https://www.biorxiv.org/content/10.1101/2021.08.28.458030v1
-HMDB0001275	Propionyl-CoA	Propionyl coenzyme A	HK1[Interacting]	Hexokinase-1	https://www.biorxiv.org/content/10.1101/2021.08.28.458030v1
-HMDB0001565	Phosphorylcholine	Phosphocholine	IDH2[Interacting]	Isocitrate dehydrogenase [NADP], mitochondrial	https://www.biorxiv.org/content/10.1101/2021.08.28.458030v1
-HMDB0000082	Cytidine triphosphate	Cytidine 5-triphosphate	IDH2[Interacting]	Isocitrate dehydrogenase [NADP], mitochondrial	https://www.biorxiv.org/content/10.1101/2021.08.28.458030v1
-HMDB0001367	N-Acetyl-glucosamine 1-phosphate	N-Acetyl-D-glucosamine 1-phosphate	IDH2[Interacting]	Isocitrate dehydrogenase [NADP], mitochondrial	https://www.biorxiv.org/content/10.1101/2021.08.28.458030v1
-HMDB0000998	dCTP	Deoxycytidine triphosphate	IDH2[Interacting]	Isocitrate dehydrogenase [NADP], mitochondrial	https://www.biorxiv.org/content/10.1101/2021.08.28.458030v1
-HMDB0000881	Xanthurenic acid	Xanthurenic acid	IDH2[Interacting]	Isocitrate dehydrogenase [NADP], mitochondrial	https://www.biorxiv.org/content/10.1101/2021.08.28.458030v1
-HMDB0001316	6-Phosphogluconic acid	6-Phosphogluconic acid	IDH2[Interacting]	Isocitrate dehydrogenase [NADP], mitochondrial	https://www.biorxiv.org/content/10.1101/2021.08.28.458030v1
-HMDB0000218	Orotidylic acid	Orotidine 5-monophosphate	IDH2[Interacting]	Isocitrate dehydrogenase [NADP], mitochondrial	https://www.biorxiv.org/content/10.1101/2021.08.28.458030v1
-HMDB0000280	Phosphoribosyl pyrophosphate	5-Phospho-D-ribose 1-diphosphate	IDH2[Interacting]	Isocitrate dehydrogenase [NADP], mitochondrial	https://www.biorxiv.org/content/10.1101/2021.08.28.458030v1
-HMDB0000189	Inosine triphosphate	Inosine 5-triphosphate	IDH2[Interacting]	Isocitrate dehydrogenase [NADP], mitochondrial	https://www.biorxiv.org/content/10.1101/2021.08.28.458030v1
-HMDB0000208	Oxoglutaric acid	Ketoglutaric acid	IDH2[Interacting]	Isocitrate dehydrogenase [NADP], mitochondrial	https://www.biorxiv.org/content/10.1101/2021.08.28.458030v1
-HMDB0001248	FAD	Flavin adenine dinucleotide	LDHA[Interacting]	L-lactate dehydrogenase A chain	https://www.biorxiv.org/content/10.1101/2021.08.28.458030v1
-HMDB0000902	NAD	NAD	LDHA[Interacting]	L-lactate dehydrogenase A chain	https://www.biorxiv.org/content/10.1101/2021.08.28.458030v1
-HMDB0000229	Nicotinamide ribotide	Nicotinamide ribotide	LDHA[Interacting]	L-lactate dehydrogenase A chain	https://www.biorxiv.org/content/10.1101/2021.08.28.458030v1
-HMDB0000536	Adenylsuccinic acid	Adenylosuccinic acid	LDHA[Interacting]	L-lactate dehydrogenase A chain	https://www.biorxiv.org/content/10.1101/2021.08.28.458030v1
-HMDB0000235	Thiamine	Thiamine	LDHA[Interacting]	L-lactate dehydrogenase A chain	https://www.biorxiv.org/content/10.1101/2021.08.28.458030v1
-HMDB0001373	Dephospho-CoA	Dephosphocoenzyme A	LDHA[Interacting]	L-lactate dehydrogenase A chain	https://www.biorxiv.org/content/10.1101/2021.08.28.458030v1
-HMDB0001487	NADH	NADH	LDHA[Interacting]	L-lactate dehydrogenase A chain	https://www.biorxiv.org/content/10.1101/2021.08.28.458030v1
-HMDB0000939	S-Adenosylhomocysteine	S-(5-Adenosyl)-L-homocysteine	LDHA[Interacting]	L-lactate dehydrogenase A chain	https://www.biorxiv.org/content/10.1101/2021.08.28.458030v1
-HMDB0000881	Xanthurenic acid	Xanthurenic acid	LDHA[Interacting]	L-lactate dehydrogenase A chain	https://www.biorxiv.org/content/10.1101/2021.08.28.458030v1
-HMDB0001248	FAD	Flavin adenine dinucleotide	LDHB[Interacting]	L-lactate dehydrogenase B chain	https://www.biorxiv.org/content/10.1101/2021.08.28.458030v1
-HMDB0000902	NAD	NAD	LDHB[Interacting]	L-lactate dehydrogenase B chain	https://www.biorxiv.org/content/10.1101/2021.08.28.458030v1
-HMDB0001373	Dephospho-CoA	Dephosphocoenzyme A	LDHB[Interacting]	L-lactate dehydrogenase B chain	https://www.biorxiv.org/content/10.1101/2021.08.28.458030v1
-HMDB0000045	Adenosine monophosphate	Adenosine monophosphate	LDHB[Interacting]	L-lactate dehydrogenase B chain	https://www.biorxiv.org/content/10.1101/2021.08.28.458030v1
-HMDB0000223	Oxalacetic acid	Oxaloacetic acid	LDHB[Interacting]	L-lactate dehydrogenase B chain	https://www.biorxiv.org/content/10.1101/2021.08.28.458030v1
-HMDB0000085	Deoxyguanosine	2-Deoxyguanosine	LDHB[Interacting]	L-lactate dehydrogenase B chain	https://www.biorxiv.org/content/10.1101/2021.08.28.458030v1
-HMDB0000881	Xanthurenic acid	Xanthurenic acid	LDHB[Interacting]	L-lactate dehydrogenase B chain	https://www.biorxiv.org/content/10.1101/2021.08.28.458030v1
-HMDB0001487	NADH	NADH	LDHB[Interacting]	L-lactate dehydrogenase B chain	https://www.biorxiv.org/content/10.1101/2021.08.28.458030v1
-HMDB0000044	Ascorbic acid	Ascorbate	LDHB[Interacting]	L-lactate dehydrogenase B chain	https://www.biorxiv.org/content/10.1101/2021.08.28.458030v1
-HMDB0000235	Thiamine	Thiamine	LDHB[Interacting]	L-lactate dehydrogenase B chain	https://www.biorxiv.org/content/10.1101/2021.08.28.458030v1
-HMDB0000095	Cytidine monophosphate	Cytidine monophosphate	LDHB[Interacting]	L-lactate dehydrogenase B chain	https://www.biorxiv.org/content/10.1101/2021.08.28.458030v1
-HMDB0000939	S-Adenosylhomocysteine	S-(5-Adenosyl)-L-homocysteine	LDHB[Interacting]	L-lactate dehydrogenase B chain	https://www.biorxiv.org/content/10.1101/2021.08.28.458030v1
-HMDB0000086	Glycerophosphocholine	L-alpha-Glycerophosphorylcholine	MDH2[Interacting]	Malate dehydrogenase, mitochondrial	https://www.biorxiv.org/content/10.1101/2021.08.28.458030v1
-HMDB0001088	Butyryl-CoA	Butyryl coenzyme A	MDH2[Interacting]	Malate dehydrogenase, mitochondrial	https://www.biorxiv.org/content/10.1101/2021.08.28.458030v1
-HMDB0000119	Glyoxylic acid	Glyoxylate	MDH2[Interacting]	Malate dehydrogenase, mitochondrial	https://www.biorxiv.org/content/10.1101/2021.08.28.458030v1
-HMDB0000050	Adenosine	Adenosine	MDH2[Interacting]	Malate dehydrogenase, mitochondrial	https://www.biorxiv.org/content/10.1101/2021.08.28.458030v1
-HMDB0001066	S-Lactoylglutathione	S-Lactoylglutathione	MDH2[Interacting]	Malate dehydrogenase, mitochondrial	https://www.biorxiv.org/content/10.1101/2021.08.28.458030v1
-HMDB0000536	Adenylsuccinic acid	Adenylosuccinic acid	MDH2[Interacting]	Malate dehydrogenase, mitochondrial	https://www.biorxiv.org/content/10.1101/2021.08.28.458030v1
-HMDB0001206	Acetyl-CoA	Acetyl coenzyme A	MDH2[Interacting]	Malate dehydrogenase, mitochondrial	https://www.biorxiv.org/content/10.1101/2021.08.28.458030v1
-HMDB0001191	Deoxyuridine triphosphate	Deoxyuridine triphosphate	MDH2[Interacting]	Malate dehydrogenase, mitochondrial	https://www.biorxiv.org/content/10.1101/2021.08.28.458030v1
-HMDB0000101	Deoxyadenosine	2-Deoxyadenosine	MDH2[Interacting]	Malate dehydrogenase, mitochondrial	https://www.biorxiv.org/content/10.1101/2021.08.28.458030v1
-HMDB0000095	Cytidine monophosphate	Cytidine monophosphate	MDH2[Interacting]	Malate dehydrogenase, mitochondrial	https://www.biorxiv.org/content/10.1101/2021.08.28.458030v1
-HMDB0001273	Guanosine triphosphate	Guanosine 5-triphosphate	MDH2[Interacting]	Malate dehydrogenase, mitochondrial	https://www.biorxiv.org/content/10.1101/2021.08.28.458030v1
-HMDB0000189	Inosine triphosphate	Inosine 5-triphosphate	MDH2[Interacting]	Malate dehydrogenase, mitochondrial	https://www.biorxiv.org/content/10.1101/2021.08.28.458030v1
-HMDB0001373	Dephospho-CoA	Dephosphocoenzyme A	MDH2[Interacting]	Malate dehydrogenase, mitochondrial	https://www.biorxiv.org/content/10.1101/2021.08.28.458030v1
-HMDB0001397	Guanosine monophosphate	Guanosine 5-monophosphate	MDH2[Interacting]	Malate dehydrogenase, mitochondrial	https://www.biorxiv.org/content/10.1101/2021.08.28.458030v1
-HMDB0001396	5-Methyltetrahydrofolic acid	5-Methyltetrahydrofolic acid	PFKL[Interacting]	ATP-dependent 6-phosphofructokinase, liver type	https://www.biorxiv.org/content/10.1101/2021.08.28.458030v1
-HMDB0001275	Propionyl-CoA	Propionyl coenzyme A	PFKL[Interacting]	ATP-dependent 6-phosphofructokinase, liver type	https://www.biorxiv.org/content/10.1101/2021.08.28.458030v1
-HMDB0000061	Adenosine 3',5'-diphosphate	Adenosine 3,5-diphosphate	PFKP[Interacting]	ATP-dependent 6-phosphofructokinase, platelet type	https://www.biorxiv.org/content/10.1101/2021.08.28.458030v1
-HMDB0001546	CDP	Cytidine 5-diphosphate	PFKP[Interacting]	ATP-dependent 6-phosphofructokinase, platelet type	https://www.biorxiv.org/content/10.1101/2021.08.28.458030v1
-HMDB0001201	Guanosine diphosphate	Guanosine 5-diphosphate	PFKP[Interacting]	ATP-dependent 6-phosphofructokinase, platelet type	https://www.biorxiv.org/content/10.1101/2021.08.28.458030v1
-HMDB0001316	6-Phosphogluconic acid	6-Phosphogluconic acid	PFKP[Interacting]	ATP-dependent 6-phosphofructokinase, platelet type	https://www.biorxiv.org/content/10.1101/2021.08.28.458030v1
-HMDB0000218	Orotidylic acid	Orotidine 5-monophosphate	PFKP[Interacting]	ATP-dependent 6-phosphofructokinase, platelet type	https://www.biorxiv.org/content/10.1101/2021.08.28.458030v1
-HMDB0000280	Phosphoribosyl pyrophosphate	5-Phospho-D-ribose 1-diphosphate	PFKP[Interacting]	ATP-dependent 6-phosphofructokinase, platelet type	https://www.biorxiv.org/content/10.1101/2021.08.28.458030v1
-HMDB0001134	Phosphoadenosine phosphosulfate	3-Phosphoadenosine 5-phosphosulfate	PGAM2[Interacting]	Phosphoglycerate mutase 2	https://www.biorxiv.org/content/10.1101/2021.08.28.458030v1
-HMDB0004096	5-Methoxyindoleacetate	5-Methoxy-3-indoleacetic acid	PGAM2[Interacting]	Phosphoglycerate mutase 2	https://www.biorxiv.org/content/10.1101/2021.08.28.458030v1
-HMDB0000139	Glyceric acid	2,3-Dihydroxypropanoic acid	PGAM2[Interacting]	Phosphoglycerate mutase 2	https://www.biorxiv.org/content/10.1101/2021.08.28.458030v1
-HMDB0000197	Indoleacetic acid	Indole-3-acetic acid	PGAM2[Interacting]	Phosphoglycerate mutase 2	https://www.biorxiv.org/content/10.1101/2021.08.28.458030v1
-HMDB0000061	Adenosine 3',5'-diphosphate	Adenosine 3,5-diphosphate	PGAM2[Interacting]	Phosphoglycerate mutase 2	https://www.biorxiv.org/content/10.1101/2021.08.28.458030v1
-HMDB0000082	Cytidine triphosphate	Cytidine 5-triphosphate	PGAM2[Interacting]	Phosphoglycerate mutase 2	https://www.biorxiv.org/content/10.1101/2021.08.28.458030v1
-HMDB0001342	Thymidine 5'-triphosphate	Thymidine 5-triphosphate	PGAM2[Interacting]	Phosphoglycerate mutase 2	https://www.biorxiv.org/content/10.1101/2021.08.28.458030v1
-HMDB0000998	dCTP	Deoxycytidine triphosphate	PGAM2[Interacting]	Phosphoglycerate mutase 2	https://www.biorxiv.org/content/10.1101/2021.08.28.458030v1
-HMDB0001532	Deoxyadenosine triphosphate	2-Deoxyadenosine 5-triphosphate	PGAM2[Interacting]	Phosphoglycerate mutase 2	https://www.biorxiv.org/content/10.1101/2021.08.28.458030v1
-HMDB0000089	Cytidine	Cytidine	PGAM2[Interacting]	Phosphoglycerate mutase 2	https://www.biorxiv.org/content/10.1101/2021.08.28.458030v1
-HMDB0000235	Thiamine	Thiamine	PGAM2[Interacting]	Phosphoglycerate mutase 2	https://www.biorxiv.org/content/10.1101/2021.08.28.458030v1
-HMDB0000189	Inosine triphosphate	Inosine 5-triphosphate	PGAM2[Interacting]	Phosphoglycerate mutase 2	https://www.biorxiv.org/content/10.1101/2021.08.28.458030v1
-HMDB0001201	Guanosine diphosphate	Guanosine 5-diphosphate	PGAM2[Interacting]	Phosphoglycerate mutase 2	https://www.biorxiv.org/content/10.1101/2021.08.28.458030v1
-HMDB0001273	Guanosine triphosphate	Guanosine 5-triphosphate	PGAM2[Interacting]	Phosphoglycerate mutase 2	https://www.biorxiv.org/content/10.1101/2021.08.28.458030v1
-HMDB0001166	3-Hydroxybutyryl-CoA	3-Hydroxybutyryl coenzyme A	PGAM2[Interacting]	Phosphoglycerate mutase 2	https://www.biorxiv.org/content/10.1101/2021.08.28.458030v1
-HMDB0001113	Isovaleryl-CoA	Isovaleryl coenzyme A	PGK2[Interacting]	Phosphoglycerate kinase 2	https://www.biorxiv.org/content/10.1101/2021.08.28.458030v1
-HMDB0000902	NAD	NAD	PHGDH[Interacting]	D-3-phosphoglycerate dehydrogenase	https://www.biorxiv.org/content/10.1101/2021.08.28.458030v1
-HMDB0000045	Adenosine monophosphate	Adenosine monophosphate	PHGDH[Interacting]	D-3-phosphoglycerate dehydrogenase	https://www.biorxiv.org/content/10.1101/2021.08.28.458030v1
-HMDB0000881	Xanthurenic acid	Xanthurenic acid	PKLR[Interacting]	Pyruvate kinase PKLR	https://www.biorxiv.org/content/10.1101/2021.08.28.458030v1
-HMDB0000082	Cytidine triphosphate	Cytidine 5-triphosphate	PKLR[Interacting]	Pyruvate kinase PKLR	https://www.biorxiv.org/content/10.1101/2021.08.28.458030v1
-HMDB0000044	Ascorbic acid	Ascorbate	PKLR[Interacting]	Pyruvate kinase PKLR	https://www.biorxiv.org/content/10.1101/2021.08.28.458030v1
-HMDB0001273	Guanosine triphosphate	Guanosine 5-triphosphate	PKLR[Interacting]	Pyruvate kinase PKLR	https://www.biorxiv.org/content/10.1101/2021.08.28.458030v1
-HMDB0001201	Guanosine diphosphate	Guanosine 5-diphosphate	RHEB[Interacting]	GTP-binding protein Rheb	https://www.biorxiv.org/content/10.1101/2021.08.28.458030v1
-HMDB0001273	Guanosine triphosphate	Guanosine 5-triphosphate	RHEB[Interacting]	GTP-binding protein Rheb	https://www.biorxiv.org/content/10.1101/2021.08.28.458030v1
-HMDB0000696	L-Methionine	L-Methionine	SESN2[Interacting]	Sestrin-2	https://www.biorxiv.org/content/10.1101/2021.08.28.458030v1
+ID	HMDB_ID	standard_metName	metName	Gene_name	Protein_name	Annotation	Evidence
+1	HMDB0006247	25-Hydroxycholesterol	25-Hydroxycholesterol	ABCA1	Phospholipid-transporting ATPase ABCA1	Transporter	16611739
+3	HMDB0000517	L-Arginine	Arginine; L-Arginine	SLC7A1	High affinity cationic amino acid transporter 1	Transporter	33209975; 17325243; 33639836; 23831616; 22144986; 19067360; Recon2
+4	HMDB0000030	Biotin	Biotin	SLC5A6	Sodium-dependent multivitamin transporter	Transporter	27084392
+5	HMDB0000067	Cholesterol	Cholesterol	CD36	Platelet glycoprotein 4	Transporter	21763723; 32531545; 16133421; 10383407; 23247049; 15949682; 12145296; 28928671; 29883404; 34584385; 19718657; 29593722; 25174330; 27890613; 32684173; 18311054; 24371122; 21262584; 16959872; 20338238; 25250848; 23099443; 15168018; 16299001; 26828064; 19147991; 10946357; 23880196; 19016618; 23422832; 21474828; 28122883; 30702457; 21272192; 15136056; 18331615; 17464999; 32058595; 18276752; 31988148; 34603769; 17291449; 20170635; 16503643; 10713080; 10625497; 21674150; 26153221; 12488595; 24733016; 29533793; 12547883; 26582580; 31967154; 28634191; 20112301; 19937569; 21181286; 20360851; 33457418; 21217164; 16123174; 24515116; 18402819; 19028791; 27323079; 18305138; 33211179; 21034810; 11718687; 24162852; 18772361; 32308181; 25703059; 22858201; 28555086; 26759003; 28965954; 16517147; 32982800; 15345670; 19436068; 26832365; 21190831; 25855981; 32952497; 19074161
+6	HMDB0000073	Dopamine	Dopamine	SLC6A3	Sodium-dependent dopamine transporter	Transporter	30967134; 12707943; 27217152; 28924877; 17466074
+7	HMDB0000148	L-Glutamic acid	Glutamate	SLC1A5	Neutral amino acid transporter B(0)	Transporter	29208682
+8	HMDB0000641	L-Glutamine	L-Glutamine; Glutamine	SLC1A5	Neutral amino acid transporter B(0)	Transporter	31535081; 30452920; 33953707; 34525179; 27154413; 25683269; 31881361; 28798141; 28507054; 25337245; 23213057; 32438035; 30025811; 33632871; 30935948; 33505538; 32422185; 30470977; 30671766; 25759021; 32747796; 31150647; 34054543; 31668020; 29208682; 32996252; 29542325; 30541099; 30071532; 34075790; 31866442; 26724577; 27055152; 33457003; 29337138; 32021249
+9	HMDB0000641	L-Glutamine	L-Glutamine; Glutamine	SLC38A2	Sodium-coupled neutral amino acid transporter 2	Transporter	32996252; 25759021; 26724577
+10	HMDB0000641	L-Glutamine	Glutamine	SLC3A2	4F2 cell-surface antigen heavy chain	Transporter	33953707; 30671766
+11	HMDB0000641	L-Glutamine	Glutamine	SLC7A5	Large neutral amino acids transporter small subunit 1	Transporter	33953707; 30671766; 26724577; 33505538
+12	HMDB0003276	Hydrogen sulfide	Hydrogen sulfide	CD36	Platelet glycoprotein 4	Receptor	31262715
+13	HMDB0015531	Iron	Iron	SLC11A2	Natural resistance-associated macrophage protein 2	Transporter	23506870
+14	HMDB0015531	Iron	Iron	SLC40A1	Solute carrier family 40 member 1	Transporter	25209728; 30852438; 27667161; 24644245; 21875943; 20675164; 23506870; 21199650; 33787609; 17181986; 14757427; 15338274; 27773819; 23922661; 29212168; 24121729; 28219768; 28978826; 21175851
+15	HMDB0001311	D-Lactic acid	Lactate	SLC16A1	Monocarboxylate transporter 1	Transporter	32144120; 22428047
+16	HMDB0000687	L-Leucine	Leucine	SLC1A5	Neutral amino acid transporter B(0)	Transporter	33953707; 30071532; 30470977
+17	HMDB0000687	L-Leucine	Leucine	SLC3A2	4F2 cell-surface antigen heavy chain	Transporter	33953707
+18	HMDB0000687	L-Leucine	Leucine	SLC7A5	Large neutral amino acids transporter small subunit 1	Transporter	33953707
+19	HMDB0001429	Phosphate	Phosphate	SLC20A2	Sodium-dependent phosphate transporter 2	Transporter	30721528
+20	HMDB0000259	Serotonin	Serotonin	SLC6A4	Sodium-dependent serotonin transporter	Transporter	33868590; 31342534; 16251523; 25012842
+21	HMDB0000235	Thiamine	Thiamine	SLC19A1	Reduced folate transporter	Transporter	28284395; 32498429
+22	HMDB0000235	Thiamine	Thiamine	SLC19A2	Thiamine transporter 1	Transporter	28284395; 32498429
+23	HMDB0000338	2-Hydroxyestradiol	2-Hydroxyestradiol	ESR1	Estrogen receptor	Receptor	27312859
+24	HMDB0006247	25-Hydroxycholesterol	25-Hydroxycholesterol	ESR1	Estrogen receptor	Receptor	21304949
+25	HMDB0002103	27-Hydroxycholesterol	27-Hydroxycholesterol	ESR1	Estrogen receptor	Receptor	33408073
+26	HMDB0000022	3-Methoxytyramine	3-Methoxytyramine	TAAR1	Trace amine-associated receptor 1	Receptor	22483291
+27	HMDB0001149	5-Aminolevulinic acid	5-Aminolevulinic acid	TSPO2	Translocator protein 2	Transporter	31989647
+28	HMDB0000045	Adenosine monophosphate	AMP	ADORA1	Adenosine receptor A1	Receptor	32417395
+29	HMDB0000895	Acetylcholine	Acetylcholine	CHRM1	Muscarinic acetylcholine receptor M1	Receptor	30157420
+30	HMDB0000895	Acetylcholine	Acetylcholine	CHRM2	Muscarinic acetylcholine receptor M2	Receptor	23743182
+31	HMDB0000895	Acetylcholine	Acetylcholine	CHRM3	Muscarinic acetylcholine receptor M3	Receptor	30157420
+32	HMDB0000895	Acetylcholine	Acetylcholine	CHRNA1	Acetylcholine receptor subunit alpha	Receptor	28045942
+33	HMDB0000895	Acetylcholine	Acetylcholine	CHRNA2	Neuronal acetylcholine receptor subunit alpha-2	Receptor	29785025
+34	HMDB0000895	Acetylcholine	Acetylcholine	CHRNA4	Neuronal acetylcholine receptor subunit alpha-4	Receptor	15902904
+35	HMDB0000895	Acetylcholine	Acetylcholine	CHRNA7	Neuronal acetylcholine receptor subunit alpha-7	Receptor	32321403
+36	HMDB0001178	Adenosine diphosphate ribose	Adenosine diphosphate ribose	TRPM2	Transient receptor potential cation channel subfamily M member 2	Receptor	22493272
+37	HMDB0000050	Adenosine	Adenosine	ADORA1	Adenosine receptor A1	Receptor	28598776; 23956030; 31675497; 27747290; 28196272; 33067580
+38	HMDB0000050	Adenosine	Adenosine	ADORA2A	Adenosine receptor A2a	Receptor	34255555; 29298852; 28598776; 23956030; 27747290; 17616786; 19635551
+39	HMDB0000050	Adenosine	Adenosine	ADORA2B	Adenosine receptor A2b	Receptor	28598776; 23956030; 23540714; 25087184; 27747290; 22504483; 31570448
+40	HMDB0000050	Adenosine	Adenosine	ADORA3	Adenosine receptor A3	Receptor	23956030; 26194548; 28598776
+41	HMDB0004080	Anandamide	Anandamide	CNR1	Cannabinoid receptor 1	Receptor	17935697; 26900150
+42	HMDB0004080	Anandamide	Anandamide	CNR2	Cannabinoid receptor 2	Receptor	26900150; 20133390
+43	HMDB0004080	Anandamide	Anandamide	TRPV1	Transient receptor potential cation channel subfamily V member 1	Receptor	17935697; 29504066; 22568077; 17704831; 23573230; 17591864; 30243113; 22394688; 19647120; 14517174; 16107881
+44	HMDB0000517	L-Arginine	Arginine	AVPR2	Vasopressin V2 receptor	Receptor	24706579
+45	HMDB0000067	Cholesterol	Cholesterol	LDLR	Low-density lipoprotein receptor	Receptor	10974047; 19063703; 26520906; 20090943; 26281596; 32855525; 23221398; 25487149; 24900971; 32220355; 34103960; 16741953; 27247956; 32236613; 25023761; 25394495; 32368969; 14978770; 18162663; 19913121; 28919473; 25403094; 27834848; 24675665; 33757439; 22911757; 29535632; 28762182; 22470048; 23580231; 27735997; 30273964; 31437157; 30566603; 16236385; 33423309; 7600118; 28515357; 24603306; 12213890; 24950000; 10669643; 25231171; 32334376; 23937379; 29988450; 26495026; 28012395; 30195495; 30896554; 9351364; 15523646; 20049331; 15358785; 22962999; 22544571; 25797218; 27442011; 20857860; 30584280; 34347016; 28469073; 17184503; 30508567; 33429337; 26686234; 26548330; 30182437; 9502769; 24518357; 15617508; 23654093; 27050279; 32438039; 20041784; 9249773; 22761797; 29301853; 34461308; 32109664; 27888903; 23431047; 26085104; 28145001; 21645898; 22683120; 23623643; 23599654; 22936343; 23422832; 22761969; 8941642; 26523989; 29931853; 24505463; 19916081; 23883163; 30600305; 31100394; 10333389; 28100270; 19888660; 33606190; 21343340; 11164418; 19632679; 22593575; 25548917; 17344580; 18672372; 17331334; 27175606; 28751953; 19322023; 31332430; 31358055; 21657943; 21559365; 10493153; 31647302; 27438015; 31511396; 33747976; 24851052; 29092018; 31753053; 31299237; 21273557; 28555288; 30744358; 21734060; 26246324; 32964731; 24940994; 9664080; 27401460; 24373748; 20176131; 26068142; 27707816; 17531953; 30332439; 30592221; 18039658; 30385871; 30704067; 27084371; 30876530; 20028367; 15450205; 26921684; 15118091; 28099631; 10395289; 19067122; 28169529; 22580899; 25468703; 27031271; 27763549; 29398429; 31167970; 32860619; 9405278; 27459037; 25889601; 26535009; 30576926; 24837748; 30768966; 31767163; 31815695; 16741291; 15677715; 27435541; 32161285; 11291309; 21153157; 25587205; 26721317; 17351764; 23166513; 15654122; 33515402; 29545368; 24443560; 9747026; 32644974; 24352472; 31913546; 29190549; 20887597; 19060325; 25272851; 27909053; 28063230; 17709443; 16185916; 29982529; 30741106; 30486328; 20197419; 32050453; 24412220; 27564380; 31004037; 29169169; 11397707; 32705598; 24489659; 24987033; 22332058; 20073037; 11387232; 32759540; 34558270; 26204136; 29204218; 27918728; 24930699; 20580938; 15904870; 22494195; 24256518; 25413784; 33977967; 11369802; 18799458; 10488949; 9360938; 19433409; 25675507; 12910492; 15888329; 22059152; 32685494; 25754609; 25811180; 18193043; 28013406; 24770487; 30765502; 34615375; 11983917; 32727844; 18187606; 24472543; 26546829; 18771980; 11181749; 26786161; 21377952; 32918994; 16920108; 26040332; 27769814; 17720268; 11445560; 29321129; 25070550; 26700830; 24993279; 25201834; 23862065; 27378433; 28292942; 25504870; 27350674; 28874442; 17766366; 9360301; 20459026; 27998977
+46	HMDB0000067	Cholesterol	Cholesterol	SCARB1	Scavenger receptor class B member 1	Receptor	17379624; 24253048; 29772548; 29285103; 24928939; 23510561; 20926582; 32591337; 24334872; 29516118; 18542840; 26754576; 25245032; 18276752; 25504870; 20064494; 29092018; 31753053; 31017097
+47	HMDB0003406	D-Serine	D-Serine	GRIN1	"Glutamate receptor ionotropic, NMDA 1"	Receptor	28262924
+48	HMDB0002961	Dihydrotestosterone	Dihydrotestosterone	GLP1R	Glucagon-like peptide 1 receptor	Receptor	31669915
+49	HMDB0002183	Docosahexaenoic acid	Docosahexaenoic acid	FFAR4	Free fatty acid receptor 4	Receptor	24005906
+50	HMDB0000073	Dopamine	Dopamine	DRD1	D(1A) dopamine receptor	Receptor	33017522; 30967134; 12047334; 24909515
+51	HMDB0000073	Dopamine	Dopamine	DRD2	D(2) dopamine receptor	Receptor	21070510; 10578238; 30967134; 17476365; 15084894; 20975260; 23717492; 17466074; 24772965; 23232665; 26015071; 29466326; 18192895; 19635551; 22876458; 19931559; 11979061; 18366720; 24834916; 23947671; 23266708; 15542698; 29992511; 9129716; 21592505; 10235293; 16403463; 19803686; 11256581; 12497624; 30651332; 24288745
+52	HMDB0000073	Dopamine	Dopamine	DRD3	D(3) dopamine receptor	Receptor	18366720; 30967134; 12047334; 10578238; 23232665; 29525179; 7914177; 17616385; 17466074; 19931559; 23063408
+53	HMDB0000073	Dopamine	Dopamine	DRD4	D(4) dopamine receptor	Receptor	18366720; 23717434; 30967134; 15627814; 12624717; 15292670; 16182111; 21615938; 22725835; 22356182; 22575564; 12707943; 27217152; 33868590; 14605948; 17466074; 16930369; 19931559
+54	HMDB0000073	Dopamine	Dopamine	DRD5	D(1B) dopamine receptor	Receptor	10578238; 12047334
+55	HMDB0000073	Dopamine	Dopamine	TRPV1	Transient receptor potential cation channel subfamily V member 1	Receptor	24465516
+56	HMDB0001999	Eicosapentaenoic acid	Eicosapentaenoic acid	FFAR4	Free fatty acid receptor 4	Receptor	27489163
+57	HMDB0000151	Estradiol	Estradiol	ESR1	Estrogen receptor	Receptor	28490809; 9925803
+58	HMDB0000153	Estriol	Estriol	ESR1	Estrogen receptor	Receptor	27471150
+59	HMDB0000145	Estrone	Estrone	ESR1	Estrogen receptor	Receptor	9228655
+60	HMDB0000108	Ethanol	Ethanol	CHRNA5	Neuronal acetylcholine receptor subunit alpha-5	Transporter	29944862
+61	HMDB0000121	Folic acid	Folic acid	FOLR1	Folate receptor alpha	Transporter	32581311; Recon2
+62	HMDB0000121	Folic acid	Folic acid	FOLR2	Folate receptor beta	Transporter	32581311; Recon2
+63	HMDB0000112	gamma-Aminobutyric acid	GABA	GABBR1	Gamma-aminobutyric acid type B receptor subunit 1	Receptor	17266109; 22253714; 26298628
+64	HMDB0000112	gamma-Aminobutyric acid	GABA; gamma-Aminobutyric acid	GABRG2	Gamma-aminobutyric acid receptor subunit gamma-2	Receptor	22253714; 27367160; 30695556
+65	HMDB0000148	L-Glutamic acid	Glutamate	GRIA1	Glutamate receptor 1	Receptor	7957959; 20579352
+66	HMDB0000148	L-Glutamic acid	Glutamate	GRIA2	Glutamate receptor 2	Receptor	30695556; 19166514; 26047211; 25411160
+67	HMDB0000148	L-Glutamic acid	Glutamate	GRIA3	Glutamate receptor 3	Receptor	30029590; 32839935
+68	HMDB0000148	L-Glutamic acid	Glutamate	GRIA4	Glutamate receptor 4	Receptor	30029590; 28646511
+69	HMDB0000148	L-Glutamic acid	Glutamate	GRID1	"Glutamate receptor ionotropic, delta-1"	Receptor	32109663
+70	HMDB0000148	L-Glutamic acid	Glutamate	GRID2	"Glutamate receptor ionotropic, delta-2"	Receptor	11568633
+71	HMDB0000148	L-Glutamic acid	Glutamate	GRIK2	"Glutamate receptor ionotropic, kainate 2"	Receptor	30695556
+72	HMDB0000148	L-Glutamic acid	Glutamate	GRIK4	"Glutamate receptor ionotropic, kainate 4"	Receptor	30029590
+73	HMDB0000148	L-Glutamic acid	Glutamate	GRIN3A	"Glutamate receptor ionotropic, NMDA 3A"	Receptor	30029590
+74	HMDB0000148	L-Glutamic acid	Glutamate	GRM1	Metabotropic glutamate receptor 1	Receptor	7957959; 22892214; 33145952
+75	HMDB0000148	L-Glutamic acid	Glutamate	GRM2	Metabotropic glutamate receptor 2	Receptor	30695556; 25411160; 29113156
+76	HMDB0000148	L-Glutamic acid	Glutamate	GRM3	Metabotropic glutamate receptor 3	Receptor	32839935
+77	HMDB0000148	L-Glutamic acid	Glutamate	GRM4	Metabotropic glutamate receptor 4	Receptor	28646511
+78	HMDB0000148	L-Glutamic acid	Glutamate	GRM5	Metabotropic glutamate receptor 5	Receptor	33053940; 30695556
+79	HMDB0000148	L-Glutamic acid	Glutamate	GRM7	Metabotropic glutamate receptor 7	Receptor	22138407
+80	HMDB0000148	L-Glutamic acid	Glutamate	GRM8	Metabotropic glutamate receptor 8	Receptor	26537360; 24392270
+81	HMDB0000148	L-Glutamic acid	Glutamate	TRPV1	Transient receptor potential cation channel subfamily V member 1	Receptor	23108547; 27157265; 20219639; 21957263; 22394688; 23562495
+82	HMDB0000123	Glycine	Glycine	GRIN1	"Glutamate receptor ionotropic, NMDA 1"	Receptor	28262924
+83	HMDB0003178	Heme	Heme	TLR4	Toll-like receptor 4	Receptor	33374506; 27821769
+84	HMDB0003178	Heme	Heme	TRPV6	Transient receptor potential cation channel subfamily V member 6	Transporter	27142151
+85	HMDB0000870	Histamine	Histamine	HRH1	Histamine H1 receptor	Receptor	9512916
+86	HMDB0000870	Histamine	Histamine	HRH2	Histamine H2 receptor	Receptor	9792230
+87	HMDB0000870	Histamine	Histamine	HRH3	Histamine H3 receptor	Receptor	8960873
+88	HMDB0000870	Histamine	Histamine	HRH4	Histamine H4 receptor	Receptor	30414378
+89	HMDB0003125	Hydrogen peroxide	Hydrogen peroxide	TRPM2	Transient receptor potential cation channel subfamily M member 2	Receptor	22493272
+90	HMDB0015531	Iron	Iron	TFR2	Transferrin receptor protein 2	Receptor	27013087; 24847265; 20826723; 18565178; 19729324; 11535534; 24055409; 27169626; 11005792; 20593115; 32621410; 17098454; 11673399; 31707638; 27477597; 11358390; 16932966; 27667161; 32054685; 24644245; 20880062; 26608187; 34199599; 20542038; 25635054; 17241880; 17417667; 17181986; 18094142; 24055163; 26029709; 20133002; 19759876; 21150441; 16158226; 17207112; 15521925; 24284962; 15124225; 15317665; 15893030; 21422745; 22460705; 30186425; 16935854; 11027676; 17042772; 12547237; 24556216; 21864651; 34156073; 33323945; 29434729; 17428703; 23582421; 28978826; 30360575; 30034931; 15701302; 12406888
+91	HMDB0015531	Iron	Iron	TFRC	Transferrin receptor protein 1	Receptor	21326867; 27773819; 22237814; 31401526; 23115478; 24890018; 33393230; 18603562; 25550467; 33693820; 23416069; 30076742; 32672503; 34389031; 34386079
+92	HMDB0000517	L-Arginine	L-Arginine	GPRC6A	G-protein coupled receptor family C group 6 member A	Receptor	22714012
+93	HMDB0000159	L-Phenylalanine	Phenylalanine; L-Phenylalanine	GPR142	Probable G-protein coupled receptor 142	Receptor	27322810
+94	HMDB0000929	L-Tryptophan	L-Tryptophan	GPR142	Probable G-protein coupled receptor 142	Receptor	27322810
+95	HMDB0001311	D-Lactic acid	Lactate	HCAR1	Hydroxycarboxylic acid receptor 1	Receptor	25881750; 34093243; 30728759; 25425080; 33659884; 26677077
+96	HMDB0001251	Lanosterol	Lanosterol	HRH2	Histamine H2 receptor	Receptor	29142437
+97	HMDB0000673	Linoleic acid	Linoleic acid	TRPV4	Transient receptor potential cation channel subfamily V member 4	Receptor	25061872
+98	HMDB0000761	Lithocholic acid	Lithocholic acid	GPBAR1	G-protein coupled bile acid receptor 1	Receptor	26567894; 29290621; 27765751
+99	HMDB0001389	Melatonin	Melatonin	MTNR1A	Melatonin receptor type 1A	Receptor	26067916
+100	HMDB0001389	Melatonin	Melatonin	MTNR1B	Melatonin receptor type 1B	Receptor	28708046; 19651812; 25132852; 25160745; 33220095; 31901302; 29590381; 26440713
+101	HMDB0001403	Prostaglandin D2	Prostaglandin D2	PTGDR	Prostaglandin D2 receptor	Receptor	34389612
+102	HMDB0001403	Prostaglandin D2	Prostaglandin D2	PTGDR2	Prostaglandin D2 receptor 2	Receptor	29604141
+103	HMDB0001220	Prostaglandin E2	Prostaglandin E2	PTGER1	Prostaglandin E2 receptor EP1 subtype	Receptor	17761898
+104	HMDB0001220	Prostaglandin E2	Prostaglandin E2	PTGER2	Prostaglandin E2 receptor EP2 subtype	Receptor	17761898
+105	HMDB0001220	Prostaglandin E2	Prostaglandin E2	PTGER4	Prostaglandin E2 receptor EP4 subtype	Receptor	33129574
+106	HMDB0001358	Retinal	Retinal	STRA6	Receptor for retinol uptake STRA6	Transporter	27830500
+107	HMDB0000244	Riboflavin	Riboflavin	SLC52A1	"Solute carrier family 52, riboflavin transporter, member 1"	Transporter	30446350; 29122468
+108	HMDB0000244	Riboflavin	Riboflavin	SLC52A2	"Solute carrier family 52, riboflavin transporter, member 2"	Transporter	31500345; 22864630
+109	HMDB0000259	Serotonin	Serotonin	HTR1A	5-hydroxytryptamine receptor 1A	Receptor	16251523
+110	HMDB0000259	Serotonin	Serotonin	HTR1B	5-hydroxytryptamine receptor 1B	Receptor	28555718; 29860743; 23964727; 24074042
+111	HMDB0000259	Serotonin	Serotonin	HTR1D	5-hydroxytryptamine receptor 1D	Receptor	20581837
+112	HMDB0000259	Serotonin	Serotonin	HTR2A	5-hydroxytryptamine receptor 2A	Receptor	20521326; 32857933; 16251523; 27959337; 27024926; 32615731
+113	HMDB0000259	Serotonin	Serotonin	HTR2B	5-hydroxytryptamine receptor 2B	Receptor	20581837; 34618686
+114	HMDB0000259	Serotonin	Serotonin	HTR2C	5-hydroxytryptamine receptor 2C	Receptor	27681143
+115	HMDB0000259	Serotonin	Serotonin	HTR3A	5-hydroxytryptamine receptor 3A	Receptor	31342534; 30695556
+116	HMDB0000259	Serotonin	Serotonin	HTR3B	5-hydroxytryptamine receptor 3B	Receptor	23183509
+117	HMDB0000259	Serotonin	Serotonin	HTR4	5-hydroxytryptamine receptor 4	Receptor	30695556
+118	HMDB0000259	Serotonin	Serotonin	HTR6	5-hydroxytryptamine receptor 6	Receptor	18256283
+119	HMDB0000259	Serotonin	Serotonin	TRPC6	Short transient receptor potential channel 6	Receptor	24259679
+120	HMDB0000277	Sphingosine 1-phosphate	Sphingosine 1-phosphate	S1PR1	Sphingosine 1-phosphate receptor 1	Receptor	24977489; 25197261
+121	HMDB0000277	Sphingosine 1-phosphate	Sphingosine 1-phosphate	S1PR2	Sphingosine 1-phosphate receptor 2	Receptor	26518876; 25363242; 26669941
+122	HMDB0000277	Sphingosine 1-phosphate	Sphingosine 1-phosphate	S1PR3	Sphingosine 1-phosphate receptor 3	Receptor	28943478
+123	HMDB0000277	Sphingosine 1-phosphate	Sphingosine 1-phosphate	S1PR5	Sphingosine 1-phosphate receptor 5	Receptor	24977489
+124	HMDB0000254	Succinic acid	Succinate	SUCNR1	Succinate receptor 1	Receptor	25352636; 34270263; 33916314; 26808164; 33279412; 34301438; 29894669; 34233171
+125	HMDB0000234	Testosterone	Testosterone	GPRC6A	G-protein coupled receptor family C group 6 member A	Receptor	26785252; 29468843; 24032653; 24998176; 22374969; 24193547; 25093461; 27673554; 33474566; 28180060; 26440882; 31558901
+126	HMDB0001452	Thromboxane A2	Thromboxane A2	TBXA2R	Thromboxane A2 receptor	Receptor	9774254
+127	HMDB0000158	L-Tyrosine	Tyrosine	GPR35	G-protein coupled receptor 35	Receptor	22523636
+128	HMDB0000305	Vitamin A	Vitamin A	STRA6	Receptor for retinol uptake STRA6	Transporter	21782034; 19112531; 25481334; 22665496; 27830501; 32597569; 21704730; 23591992; 26729422; 31956331; 26373900; Recon2
+129	HMDB0000292	Xanthine	Xanthine	ADORA1	Adenosine receptor A1	Receptor	31675497
+130	HMDB0000112	gamma-Aminobutyric acid	gamma-Aminobutyric acid	GABBR2	Gamma-aminobutyric acid type B receptor subunit 2	Receptor	30610899
+131	HMDB0000112	gamma-Aminobutyric acid	gamma-Aminobutyric acid	GABRA1	Gamma-aminobutyric acid receptor subunit alpha-1	Receptor	30891080
+132	HMDB0000112	gamma-Aminobutyric acid	gamma-Aminobutyric acid	GABRA4	Gamma-aminobutyric acid receptor subunit alpha-4	Receptor	33594062
+133	HMDB0000112	gamma-Aminobutyric acid	gamma-Aminobutyric acid	GABRB2	Gamma-aminobutyric acid receptor subunit beta-2	Receptor	33594062
+134	HMDB0000067	Cholesterol	Cholesterol	ABCB1	ATP-dependent translocase ABCB1	Transporter	HMDB
+135	HMDB0000125	Glutathione	Glutathione	ABCC1	Multidrug resistance-associated protein 1	Transporter	HMDB
+136	HMDB0000125	Glutathione	Glutathione	ABCC2	ATP-binding cassette sub-family C member 2	Transporter	HMDB
+137	HMDB0000125	Glutathione	Glutathione	ABCC3	ATP-binding cassette sub-family C member 3	Transporter	HMDB
+138	HMDB0000125	Glutathione	Glutathione	ABCC4	ATP-binding cassette sub-family C member 4	Transporter	HMDB
+139	HMDB0000125	Glutathione	Glutathione	ABCC5	Multidrug resistance-associated protein 5	Transporter	HMDB
+140	HMDB0000067	Cholesterol	Cholesterol	ABCG2	Broad substrate specificity ATP-binding cassette transporter ABCG2	Transporter	HMDB
+141	HMDB0000123	Glycine	Glycine	SLC16A10	Monocarboxylate transporter 10	Transporter	HMDB
+142	HMDB0000097	Choline	Choline	SLC22A1	Solute carrier family 22 member 1	Transporter	HMDB
+143	HMDB0001256	Spermine	Spermine	SLC22A1	Solute carrier family 22 member 1	Transporter	HMDB; Recon2
+144	HMDB0001414	Putrescine	Putrescine	SLC22A4	Solute carrier family 22 member 4	Transporter	HMDB
+145	HMDB0001256	Spermine	Spermine	SLC22A4	Solute carrier family 22 member 4	Transporter	HMDB
+146	HMDB0000064	Creatine	Creatine	SLC16A12	Monocarboxylate transporter 12	Transporter	23578822
+147	HMDB0000064	Creatine	Creatine	SLC22A5	Solute carrier family 22 member 5	Transporter	HMDB
+148	HMDB0000123	Glycine	Glycine	SLC36A1	Proton-coupled amino acid transporter 1	Transporter	HMDB
+149	HMDB0000097	Choline	Choline	SLC44A1	Choline transporter-like protein 1	Transporter	HMDB
+150	HMDB0000097	Choline	Choline	SLC44A2	Choline transporter-like protein 2	Transporter	HMDB
+151	HMDB0000097	Choline	Choline	SLC44A3	Choline transporter-like protein 3	Transporter	HMDB
+152	HMDB0000097	Choline	Choline	SLC44A4	Choline transporter-like protein 4	Transporter	HMDB
+153	HMDB0000097	Choline	Choline	SLC5A7	High affinity choline transporter 1	Transporter	HMDB
+154	HMDB0000243	Pyruvic acid	Pyruvate	SLC16A11	Monocarboxylate transporter 11	Transporter	https://www.genecards.org/cgi-bin/carddisp.pl?gene=SLC16A11
+155	HMDB0000243	Pyruvic acid	Pyruvate	SLC16A1	Monocarboxylate transporter 1	Transporter	31882442
+156	HMDB0000254	Succinic acid	Succinate	SLC13A5	Solute carrier family 13 member 5	Transporter	31882442
+157	HMDB0000094	Citric acid	Citrate	SLC13A5	Solute carrier family 13 member 5	Transporter	33597751
+158	HMDB0000134	Fumaric acid	Fumarate	SLC13A5	Solute carrier family 13 member 5	Transporter	31882442
+159	HMDB0000156	Malic acid	Malate	SLC13A5	Solute carrier family 13 member 5	Transporter	31882442
+160	HMDB0000156	Malic acid	Malate	SLC1A3	Excitatory amino acid transporter 1	Transporter	https://en.wikipedia.org/wiki/Excitatory_amino_acid_transporter_1
+161	HMDB0000187	L-Serine	Serine	SLC7A10	Asc-type amino acid transporter 1	Transporter	33269112
+162	HMDB0000187	L-Serine	Serine	SLC3A2	4F2 cell-surface antigen heavy chain	Transporter	33269112
+163	HMDB0000187	L-Serine	Serine	SLC1A4	Neutral amino acid transporter A	Transporter	33269112
+164	HMDB0000187	L-Serine	Serine	SLC1A5	Neutral amino acid transporter B(0)	Transporter	33269112
+165	HMDB0000574	L-Cysteine	Cysteine	SLC7A11	Cystine/glutamate transporter	Transporter	33000412
+166	HMDB0000696	L-Methionine	Methionine	SLC7A5	Large neutral amino acids transporter small subunit 1	Transporter	32377929
+167	HMDB0000168	L-Asparagine	Asparagine	SLC1A5	Neutral amino acid transporter B(0)	Transporter	33420487
+168	HMDB0000641	L-Glutamine	Glutamine	SLC6A14	Sodium- and chloride-dependent neutral and basic amino acid transporter B(0+)	Transporter	26724577
+169	HMDB0000641	L-Glutamine	Glutamine	SLC6A19	Sodium-dependent neutral amino acid transporter B(0)AT1	Transporter	26724577
+170	HMDB0000641	L-Glutamine	Glutamine	SLC7A6	Y+L amino acid transporter 2	Transporter	26724577
+171	HMDB0000641	L-Glutamine	Glutamine	SLC7A7	Y+L amino acid transporter 1	Transporter	26724577
+172	HMDB0000641	L-Glutamine	Glutamine	SLC38A1	Sodium-coupled neutral amino acid transporter 1	Transporter	26724577
+173	HMDB0000641	L-Glutamine	Glutamine	SLC38A3	Sodium-coupled neutral amino acid transporter 3	Transporter	26724577
+174	HMDB0000641	L-Glutamine	Glutamine	SLC38A5	Sodium-coupled neutral amino acid transporter 5	Transporter	26724577
+175	HMDB0000641	L-Glutamine	Glutamine	SLC38A7	Putative sodium-coupled neutral amino acid transporter 7	Transporter	26724577
+176	HMDB0000641	L-Glutamine	Glutamine	SLC38A8	Putative sodium-coupled neutral amino acid transporter 8	Transporter	26724577
+177	HMDB0000112	gamma-Aminobutyric acid	GABA	SLC6A1	Sodium- and chloride-dependent GABA transporter 1	Transporter	https://en.wikipedia.org/wiki/GABA_transporter
+178	HMDB0000112	gamma-Aminobutyric acid	GABA	SLC6A13	Sodium- and chloride-dependent GABA transporter 2	Transporter	https://en.wikipedia.org/wiki/GABA_transporter
+179	HMDB0000112	gamma-Aminobutyric acid	GABA	SLC6A11	Sodium- and chloride-dependent GABA transporter 3	Transporter	https://en.wikipedia.org/wiki/GABA_transporter
+180	HMDB0000112	gamma-Aminobutyric acid	GABA	SLC6A12	Sodium- and chloride-dependent betaine transporter	Transporter	https://en.wikipedia.org/wiki/GABA_transporter
+181	HMDB0000112	gamma-Aminobutyric acid	GABA	SLC6A8	Sodium- and chloride-dependent creatine transporter 1	Transporter	https://en.wikipedia.org/wiki/GABA_transporter
+182	HMDB0000112	gamma-Aminobutyric acid	GABA	SLC6A6	Sodium- and chloride-dependent taurine transporter	Transporter	https://en.wikipedia.org/wiki/GABA_transporter
+183	HMDB0000158	L-Tyrosine	Tyrosine	SLC7A5	Large neutral amino acids transporter small subunit 1	Transporter	32377929
+184	HMDB0000191	L-Aspartic acid	Aspartate	SLC1A2	Excitatory amino acid transporter 2	Transporter	31269432
+185	HMDB0000177	L-Histidine	Histidine	SLC7A5	Large neutral amino acids transporter small subunit 1	Transporter	32377929
+186	HMDB0000159	L-Phenylalanine	Phenylalanine	SLC7A5	Large neutral amino acids transporter small subunit 1	Transporter	32377929
+187	HMDB0000883	L-Valine	Valine	SLC43A1	Large neutral amino acids transporter small subunit 3	Transporter	31997805; Recon2
+188	HMDB0000172	L-Isoleucine	Isoleucine	SLC43A1	Large neutral amino acids transporter small subunit 3	Transporter	31997805; Recon2
+189	HMDB0000687	L-Leucine	Leucine	SLC43A1	Large neutral amino acids transporter small subunit 3	Transporter	31997805; Recon2
+190	HMDB0000034	Adenine	Adenine	SLC28A3	Solute carrier family 28 member 3	Transporter	33972798
+191	HMDB0000034	Adenine	Adenine	SLC29A3	Equilibrative nucleoside transporter 3	Transporter	33972798
+192	HMDB0000034	Adenine	Adenine	SLC35F5	Solute carrier family 35 member F5	Transporter	33972798
+193	HMDB0000062	L-Carnitine	L-Carnitine	SLC22A5	Solute carrier family 22 member 5	Transporter	Recon2
+194	HMDB0000641	L-Glutamine	L-glutamine	SLC43A1	Large neutral amino acids transporter small subunit 3	Transporter	Recon2
+195	HMDB0000187	L-Serine	L-serine	SLC43A1	Large neutral amino acids transporter small subunit 3	Transporter	Recon2
+196	HMDB0000159	L-Phenylalanine	L-phenylalanine	SLC43A2	Large neutral amino acids transporter small subunit 4	Transporter	Recon2
+197	HMDB0000159	L-Phenylalanine	L-phenylalanine	SLC43A1	Large neutral amino acids transporter small subunit 3	Transporter	Recon2
+198	HMDB0000159	L-Phenylalanine	L-phenylalanine	SLC16A10	Monocarboxylate transporter 10	Transporter	Recon2
+199	HMDB0000687	L-Leucine	L-leucine	SLC43A2	Large neutral amino acids transporter small subunit 4	Transporter	Recon2
+200	HMDB0000574	L-Cysteine	L-cysteine	SLC43A2	Large neutral amino acids transporter small subunit 4	Transporter	Recon2
+201	HMDB0000696	L-Methionine	L-methionine	SLC43A1	Large neutral amino acids transporter small subunit 3	Transporter	Recon2
+202	HMDB0000696	L-Methionine	L-methionine	SLC43A2	Large neutral amino acids transporter small subunit 4	Transporter	Recon2
+203	HMDB0000158	L-Tyrosine	L-tyrosine	SLC16A10	Monocarboxylate transporter 10	Transporter	Recon2
+204	HMDB0000168	L-Asparagine	L-asparagine	SLC43A1	Large neutral amino acids transporter small subunit 3	Transporter	Recon2
+205	HMDB0000167	L-Threonine	L-threonine	SLC43A1	Large neutral amino acids transporter small subunit 3	Transporter	Recon2
+206	HMDB0000883	L-Valine	L-valine	SLC43A2	Large neutral amino acids transporter small subunit 4	Transporter	Recon2
+207	HMDB0000929	L-Tryptophan	L-tryptophan	SLC36A4	Proton-coupled amino acid transporter 4	Transporter	Recon2
+208	HMDB0000929	L-Tryptophan	L-tryptophan	SLC16A10	Monocarboxylate transporter 10	Transporter	Recon2
+209	HMDB0000172	L-Isoleucine	L-isoleucine	SLC43A2	Large neutral amino acids transporter small subunit 4	Transporter	Recon2
+210	HMDB0000517	L-Arginine	L-argininium(1+)	SLC38A4	Sodium-coupled neutral amino acid transporter 4	Transporter	Recon2
+211	HMDB0000517	L-Arginine	L-argininium(1+)	SLC7A2	Cationic amino acid transporter 2	Transporter	Recon2
+212	HMDB0000517	L-Arginine	L-argininium(1+)	SLC7A3	Cationic amino acid transporter 3	Transporter	Recon2
+213	HMDB0000177	L-Histidine	L-histidine	SLC38A4	Sodium-coupled neutral amino acid transporter 4	Transporter	Recon2
+214	HMDB0000182	L-Lysine	L-lysinium(1+)	SLC38A4	Sodium-coupled neutral amino acid transporter 4	Transporter	Recon2
+215	HMDB0000182	L-Lysine	L-lysinium(1+)	SLC7A2	Cationic amino acid transporter 2	Transporter	Recon2
+216	HMDB0000182	L-Lysine	L-lysinium(1+)	SLC7A1	High affinity cationic amino acid transporter 1	Transporter	Recon2
+217	HMDB0000182	L-Lysine	L-lysinium(1+)	SLC7A3	Cationic amino acid transporter 3	Transporter	Recon2
+218	HMDB0000214	Ornithine	Ornithine	SLC7A2	Cationic amino acid transporter 2	Transporter	Recon2
+219	HMDB0000214	Ornithine	Ornithine	SLC7A1	High affinity cationic amino acid transporter 1	Transporter	Recon2
+220	HMDB0000214	Ornithine	Ornithine	SLC7A3	Cationic amino acid transporter 3	Transporter	Recon2
+221	HMDB0000143	D-Galactose	D-Galactose	SLC2A2	"Solute carrier family 2, facilitated glucose transporter member 2"	Transporter	Recon2
+222	HMDB0000143	D-Galactose	D-Galactose	SLC2A3	"Solute carrier family 2, facilitated glucose transporter member 3"	Transporter	Recon2
+223	HMDB0000143	D-Galactose	D-Galactose	SLC2A8	"Solute carrier family 2, facilitated glucose transporter member 8"	Transporter	Recon2
+224	HMDB0000143	D-Galactose	D-Galactose	SLC2A10	"Solute carrier family 2, facilitated glucose transporter member 10"	Transporter	Recon2
+225	HMDB0000143	D-Galactose	D-Galactose	SLC2A1	"Solute carrier family 2, facilitated glucose transporter member 1"	Transporter	Recon2
+226	HMDB0001043	Arachidonic acid	arachidonate	SLC27A5	Bile acyl-CoA synthetase	Transporter	Recon2
+227	HMDB0000122	D-Glucose	D-glucose	SLC2A9	"Solute carrier family 2, facilitated glucose transporter member 9"	Transporter	Recon2
+228	HMDB0000122	D-Glucose	D-glucose	SLC2A2	"Solute carrier family 2, facilitated glucose transporter member 2"	Transporter	Recon2
+229	HMDB0000122	D-Glucose	D-glucose	SLC2A6	"Solute carrier family 2, facilitated glucose transporter member 6"	Transporter	Recon2
+230	HMDB0000122	D-Glucose	D-glucose	SLC2A3	"Solute carrier family 2, facilitated glucose transporter member 3"	Transporter	Recon2
+231	HMDB0000122	D-Glucose	D-glucose	SLC2A4	"Solute carrier family 2, facilitated glucose transporter member 4"	Transporter	Recon2
+232	HMDB0000122	D-Glucose	D-glucose	SLC2A8	"Solute carrier family 2, facilitated glucose transporter member 8"	Transporter	Recon2
+233	HMDB0000122	D-Glucose	D-glucose	SLC2A7	"Solute carrier family 2, facilitated glucose transporter member 7"	Transporter	Recon2
+234	HMDB0000122	D-Glucose	D-glucose	SLC2A12	"Solute carrier family 2, facilitated glucose transporter member 12"	Transporter	Recon2
+235	HMDB0000122	D-Glucose	D-glucose	SLC2A10	"Solute carrier family 2, facilitated glucose transporter member 10"	Transporter	Recon2
+236	HMDB0000122	D-Glucose	D-glucose	SLC2A1	"Solute carrier family 2, facilitated glucose transporter member 1"	Transporter	Recon2
+237	HMDB0001264	Dehydroascorbic acid	dehydroascorbide(1-)	SLC2A4	"Solute carrier family 2, facilitated glucose transporter member 4"	Transporter	Recon2
+238	HMDB0001264	Dehydroascorbic acid	dehydroascorbide(1-)	SLC2A3	"Solute carrier family 2, facilitated glucose transporter member 3"	Transporter	Recon2
+239	HMDB0001264	Dehydroascorbic acid	dehydroascorbide(1-)	SLC2A1	"Solute carrier family 2, facilitated glucose transporter member 1"	Transporter	Recon2
+240	HMDB0000073	Dopamine	dopaminium(1+)	SLC22A3	Solute carrier family 22 member 3	Transporter	Recon2
+241	HMDB0000073	Dopamine	dopaminium(1+)	SLC22A2	Solute carrier family 22 member 2	Transporter	Recon2
+242	HMDB0000073	Dopamine	dopaminium(1+)	SLC22A5	Solute carrier family 22 member 5	Transporter	Recon2
+243	HMDB0000169	D-Mannose	D-Mannose	SLC2A2	"Solute carrier family 2, facilitated glucose transporter member 2"	Transporter	Recon2
+244	HMDB0000169	D-Mannose	D-Mannose	SLC2A3	"Solute carrier family 2, facilitated glucose transporter member 3"	Transporter	Recon2
+245	HMDB0000169	D-Mannose	D-Mannose	SLC2A1	"Solute carrier family 2, facilitated glucose transporter member 1"	Transporter	Recon2
+246	HMDB0000050	Adenosine	Adenosine	SLC29A2	Equilibrative nucleoside transporter 2	Transporter	Recon2
+247	HMDB0000050	Adenosine	Adenosine	SLC29A1	Equilibrative nucleoside transporter 1	Transporter	Recon2
+248	HMDB0000216	Norepinephrine	Norepinephrine	SLC22A1	Solute carrier family 22 member 1	Transporter	Recon2
+249	HMDB0000216	Norepinephrine	Norepinephrine	SLC22A2	Solute carrier family 22 member 2	Transporter	Recon2
+250	HMDB0000216	Norepinephrine	Norepinephrine	SLC22A3	Solute carrier family 22 member 3	Transporter	Recon2
+251	HMDB0000097	Choline	Choline	SLC22A2	Solute carrier family 22 member 2	Transporter	Recon2
+252	HMDB0000097	Choline	Choline	SLC22A5	Solute carrier family 22 member 5	Transporter	Recon2
+253	HMDB0000259	Serotonin	serotonin(1+)	SLC22A1	Solute carrier family 22 member 1	Transporter	Recon2
+254	HMDB0000259	Serotonin	serotonin(1+)	SLC22A2	Solute carrier family 22 member 2	Transporter	Recon2
+255	HMDB0000660	D-Fructose	D-Fructose	SLC2A2	"Solute carrier family 2, facilitated glucose transporter member 2"	Transporter	Recon2
+256	HMDB0000660	D-Fructose	D-Fructose	SLC2A7	"Solute carrier family 2, facilitated glucose transporter member 7"	Transporter	Recon2
+257	HMDB0000660	D-Fructose	D-Fructose	SLC2A8	"Solute carrier family 2, facilitated glucose transporter member 8"	Transporter	Recon2
+258	HMDB0000660	D-Fructose	D-Fructose	SLC2A5	"Solute carrier family 2, facilitated glucose transporter member 5"	Transporter	Recon2
+259	HMDB0001220	Prostaglandin E2	prostaglandin E2(1-)	SLC22A1	Solute carrier family 22 member 1	Transporter	Recon2
+260	HMDB0001220	Prostaglandin E2	prostaglandin E2(1-)	SLC22A2	Solute carrier family 22 member 2	Transporter	Recon2
+261	HMDB0000296	Uridine	Uridine	SLC29A2	Equilibrative nucleoside transporter 2	Transporter	Recon2
+262	HMDB0000296	Uridine	Uridine	SLC29A1	Equilibrative nucleoside transporter 1	Transporter	Recon2
+263	HMDB0000220	Palmitic acid	Hexadecanoate (n-C16:0)	SLC27A5	Bile acyl-CoA synthetase	Transporter	Recon2
+264	HMDB0000305	Vitamin A	retinol	RBP1	Retinol-binding protein 1	Transporter	Recon2
+265	HMDB0000305	Vitamin A	retinol	RBP4	Retinol-binding protein 4	Transporter	Recon2
+266	HMDB0000305	Vitamin A	retinol	RBP2	Retinol-binding protein 2	Transporter	Recon2
+267	HMDB0000195	Inosine	Inosine	SLC29A2	Equilibrative nucleoside transporter 2	Transporter	Recon2
+268	HMDB0000195	Inosine	Inosine	SLC29A1	Equilibrative nucleoside transporter 1	Transporter	Recon2
+269	HMDB0000089	Cytidine	Cytidine	SLC29A2	Equilibrative nucleoside transporter 2	Transporter	Recon2
+270	HMDB0000089	Cytidine	Cytidine	SLC29A1	Equilibrative nucleoside transporter 1	Transporter	Recon2
+271	HMDB0000207	Oleic acid	octadecenoate (n-C18:1)	SLC27A5	Bile acyl-CoA synthetase	Transporter	Recon2
+272	HMDB0000870	Histamine	histamium	SLC22A3	Solute carrier family 22 member 3	Transporter	Recon2
+273	HMDB0000870	Histamine	histamium	SLC22A2	Solute carrier family 22 member 2	Transporter	Recon2
+274	HMDB0000870	Histamine	histamium	SLC22A5	Solute carrier family 22 member 5	Transporter	Recon2
+275	HMDB0000265	Liothyronine	"3,3',5-triiodo-L-thyronine"	SLC16A2	Monocarboxylate transporter 8	Transporter	Recon2
+276	HMDB0003550	Calcidiol	calcidiol	CUBN	Cubilin	Transporter	Recon2
+277	HMDB0003550	Calcidiol	calcidiol	LRP2	Low-density lipoprotein receptor-related protein 2	Transporter	Recon2
+278	HMDB0003550	Calcidiol	calcidiol	GC	Vitamin D-binding protein	Transporter	Recon2
+279	HMDB0000181	L-Dopa	L-dopa	SLC16A10	Monocarboxylate transporter 10	Transporter	Recon2
+280	HMDB0001396	5-Methyltetrahydrofolic acid	5-Methyltetrahydrofolate	FOLR1	Folate receptor alpha	Transporter	Recon2
+281	HMDB0000895	Acetylcholine	acetylcholine	SLC22A1	Solute carrier family 22 member 1	Transporter	Recon2
+282	HMDB0000012	Deoxyuridine	Deoxyuridine	SLC29A2	Equilibrative nucleoside transporter 2	Transporter	Recon2
+283	HMDB0000133	Guanosine	Guanosine	SLC29A2	Equilibrative nucleoside transporter 2	Transporter	Recon2
+284	HMDB0000133	Guanosine	Guanosine	SLC29A1	Equilibrative nucleoside transporter 1	Transporter	Recon2
+285	HMDB0000157	Hypoxanthine	Hypoxanthine	SLC29A2	Equilibrative nucleoside transporter 2	Transporter	Recon2
+286	HMDB0000248	Thyroxine	L-thyroxine	SLC16A2	Monocarboxylate transporter 8	Transporter	Recon2
+287	HMDB0000273	Thymidine	Thymidine	SLC29A2	Equilibrative nucleoside transporter 2	Transporter	Recon2
+288	HMDB0000273	Thymidine	Thymidine	SLC29A1	Equilibrative nucleoside transporter 1	Transporter	Recon2
+289	HMDB0001139	Prostaglandin F2a	prostaglandin F2alpha(1-)	SLC22A1	Solute carrier family 22 member 1	Transporter	Recon2
+290	HMDB0001139	Prostaglandin F2a	prostaglandin F2alpha(1-)	SLC22A2	Solute carrier family 22 member 2	Transporter	Recon2
+291	HMDB0000673	Linoleic acid	linoleate	SLC27A5	Bile acyl-CoA synthetase	Transporter	Recon2
+292	HMDB0000034	Adenine	Adenine	SLC29A2	Equilibrative nucleoside transporter 2	Transporter	Recon2
+293	HMDB0000300	Uracil	uracil	SLC29A2	Equilibrative nucleoside transporter 2	Transporter	Recon2
+294	HMDB0000101	Deoxyadenosine	2-deoxyadenosine	SLC29A2	Equilibrative nucleoside transporter 2	Transporter	Recon2
+295	HMDB0000085	Deoxyguanosine	Deoxyguanosine	SLC29A2	Equilibrative nucleoside transporter 2	Transporter	Recon2
+296	HMDB0000163	D-Maltose	Maltose	SLC2A3	"Solute carrier family 2, facilitated glucose transporter member 3"	Transporter	Recon2
+297	HMDB0000876	Vitamin D3	calciol	GOT2	"Aspartate aminotransferase, mitochondrial"	Transporter	Recon2
+298	HMDB0000876	Vitamin D3	calciol	CD36	Platelet glycoprotein 4	Transporter	Recon2
+299	HMDB0000294	Urea	Urea	SLC5A1	Sodium/glucose cotransporter 1	Transporter	Recon2
+300	HMDB0000294	Urea	Urea	SLC14A2	Urea transporter 2	Transporter	Recon2
+301	HMDB0000294	Urea	Urea	SLC5A5	Sodium/iodide cotransporter	Transporter	Recon2
+302	HMDB0000294	Urea	Urea	SLC14A1	Urea transporter 1	Transporter	Recon2
+303	HMDB0000071	Deoxyinosine	Deoxyinosine	SLC29A2	Equilibrative nucleoside transporter 2	Transporter	Recon2
+304	HMDB0000014	Deoxycytidine	Deoxycytidine	SLC29A2	Equilibrative nucleoside transporter 2	Transporter	Recon2
+305	HMDB0002925	Dihomo-gamma-linolenic acid	dihomo-gamma-linolenic acid (n-6)	SLC27A5	Bile acyl-CoA synthetase	Transporter	Recon2
+306	HMDB0000262	Thymine	Thymine	SLC29A2	Equilibrative nucleoside transporter 2	Transporter	Recon2
+307	HMDB0000806	Myristic acid	tetradecanoate (n-C14:0)	SLC27A2	Very long-chain acyl-CoA synthetase	Transporter	Recon2
+308	HMDB0000827	Stearic acid	octadecanoate (n-C18:0)	SLC27A5	Bile acyl-CoA synthetase	Transporter	Recon2
+309	HMDB0003073	gamma-Linolenic acid	gamma-linolenate	SLC27A5	Bile acyl-CoA synthetase	Transporter	Recon2
+310	HMDB0001388	alpha-Linolenic acid	alpha-linolenate	SLC27A5	Bile acyl-CoA synthetase	Transporter	Recon2
+311	HMDB0000132	Guanine	Guanine	SLC29A2	Equilibrative nucleoside transporter 2	Transporter	Recon2
+312	HMDB0001514	Glucosamine	D-Glucosamine	SLC2A2	"Solute carrier family 2, facilitated glucose transporter member 2"	Transporter	Recon2
+313	HMDB0001514	Glucosamine	D-Glucosamine	SLC2A4	"Solute carrier family 2, facilitated glucose transporter member 4"	Transporter	Recon2
+314	HMDB0001514	Glucosamine	D-Glucosamine	SLC2A1	"Solute carrier family 2, facilitated glucose transporter member 1"	Transporter	Recon2
+315	HMDB0003178	Heme	Protoheme	SLC46A1	Proton-coupled folate transporter	Transporter	Recon2
+316	HMDB0003178	Heme	Protoheme	LRP1	Prolow-density lipoprotein receptor-related protein 1	Transporter	Recon2
+317	HMDB0001178	Adenosine diphosphate ribose	ADPribose	CD38	ADP-ribosyl cyclase/cyclic ADP-ribose hydrolase 1	Transporter	Recon2
+318	HMDB0000190	L-Lactic acid	L-Lactic acid	HCAR1	Solute carrier family 15 member 1	Receptor	"30728759, 31259764"
+319	HMDB0015531	Iron	Iron	TFR1	Solute carrier family 15 member 1	Receptor	24847265
+320	HMDB0000538	Adenosine triphosphate	ATP	P2RX1	Solute carrier family 15 member 1	Receptor	24335194
+321	HMDB0000538	Adenosine triphosphate	ATP	P2RX2	Solute carrier family 15 member 1	Receptor	24335194
+322	HMDB0000538	Adenosine triphosphate	ATP	P2RX3	Solute carrier family 15 member 1	Receptor	24335194
+323	HMDB0000538	Adenosine triphosphate	ATP	P2RX4	Solute carrier family 15 member 1	Receptor	24335194
+324	HMDB0000538	Adenosine triphosphate	ATP	P2RX5	Solute carrier family 15 member 1	Receptor	24335194
+325	HMDB0000538	Adenosine triphosphate	ATP	P2RX6	Solute carrier family 15 member 1	Receptor	24335194
+326	HMDB0000538	Adenosine triphosphate	ATP	P2RX7	Solute carrier family 15 member 1	Receptor	24335194
+327	HMDB0001341	ADP	ADP	P2RY1	Solute carrier family 15 member 1	Receptor	24335194
+328	HMDB0000538	Adenosine triphosphate	ATP	P2RY1	Solute carrier family 15 member 1	Receptor	24335194
+329	HMDB0000538	Adenosine triphosphate	ATP	P2RY2	Solute carrier family 15 member 1	Receptor	24335194
+330	HMDB0000285	Uridine triphosphate	UTP	P2RY2	Solute carrier family 15 member 1	Receptor	24335194
+331	HMDB0000285	Uridine triphosphate	UTP	P2RY4	Solute carrier family 15 member 1	Receptor	24335194
+332	HMDB0000538	Adenosine triphosphate	Adenosine triphosphate	P2RY4	Solute carrier family 15 member 1	Receptor	24335194
+333	HMDB0000285	Uridine triphosphate	UTP	P2RY6	Solute carrier family 15 member 1	Receptor	24335194
+334	HMDB0000538	Adenosine triphosphate	Adenosine triphosphate	P2RY6	Solute carrier family 15 member 1	Receptor	24335194
+335	HMDB0000538	Adenosine triphosphate	Adenosine triphosphate	P2RY11	Solute carrier family 15 member 1	Receptor	24335194
+336	HMDB0000285	Uridine triphosphate	UTP	P2RY11	Solute carrier family 15 member 1	Receptor	24335194
+337	HMDB0001341	ADP	ADP	P2RY12	Solute carrier family 15 member 1	Receptor	24335194
+338	HMDB0000538	Adenosine triphosphate	Adenosine triphosphate	P2RY12	Solute carrier family 15 member 1	Receptor	24335194
+339	HMDB0001341	ADP	ADP	P2RY13	Solute carrier family 15 member 1	Receptor	24335194
+340	HMDB0000538	Adenosine triphosphate	Adenosine triphosphate	P2RY13	Solute carrier family 15 member 1	Receptor	24335194
+341	HMDB0000286	Uridine diphosphate glucose	Uridine diphosphate glucose	P2RY14	Solute carrier family 15 member 1	Receptor	24335194
+342	HMDB0000067	Cholesterol	Cholesterol	NPC1L1	Solute carrier family 15 member 1	Receptor	21763723
+343	HMDB0002961	Dihydrotestosterone	Dihydrotestosterone	AR	Solute carrier family 15 member 1	Nuclear Receptor	https://en.wikipedia.org/wiki/Androgen_receptor
+344	HMDB0000234	Testosterone	Testosterone	AR	Solute carrier family 15 member 1	Nuclear Receptor	https://en.wikipedia.org/wiki/Androgen_receptor
+345	HMDB0000131	Glycerol	Glycerol	AQP3	Solute carrier family 15 member 1	Receptor	32213983
+346	HMDB0000043	Betaine	Betaine	SLC6A12	Solute carrier family 15 member 1	Transporter	32213983
+347	HMDB0000895	Acetylcholine	Acetylcholine	CHRM4	Solute carrier family 15 member 1	Receptor	https://gpcrdb.org/ligand/statistics
+348	HMDB0000895	Acetylcholine	Acetylcholine	CHRM5	Solute carrier family 15 member 1	Receptor	https://gpcrdb.org/ligand/statistics
+349	HMDB0000208	Oxoglutaric acid	Oxoglutaric acid	OXGR1	Solute carrier family 15 member 1	Receptor	https://gpcrdb.org/ligand/statistics
+350	HMDB0000248	Thyroxine	Thyroxine	THRA	Solute carrier family 15 member 1	Nuclear Receptor	https://en.wikipedia.org/wiki/Nuclear_receptor#Ligands
+351	HMDB0000248	Thyroxine	Thyroxine	THRB	Solute carrier family 15 member 1	Nuclear Receptor	https://en.wikipedia.org/wiki/Nuclear_receptor#Ligands
+352	HMDB0000305	Vitamin A	Vitamin A	RARA	Solute carrier family 15 member 1	Nuclear Receptor	https://en.wikipedia.org/wiki/Nuclear_receptor#Ligands
+353	HMDB0001358	Retinal	Retinal	RARA	Solute carrier family 15 member 1	Nuclear Receptor	https://en.wikipedia.org/wiki/Nuclear_receptor#Ligands
+354	HMDB0000561	beta-Carotene	beta-Carotene	RARA	Solute carrier family 15 member 1	Nuclear Receptor	https://en.wikipedia.org/wiki/Nuclear_receptor#Ligands
+355	HMDB0000305	Vitamin A	Vitamin A	RARB	Solute carrier family 15 member 1	Nuclear Receptor	https://en.wikipedia.org/wiki/Nuclear_receptor#Ligands
+356	HMDB0001358	Retinal	Retinal	RARB	Solute carrier family 15 member 1	Nuclear Receptor	https://en.wikipedia.org/wiki/Nuclear_receptor#Ligands
+357	HMDB0000561	beta-Carotene	beta-Carotene	RARB	Solute carrier family 15 member 1	Nuclear Receptor	https://en.wikipedia.org/wiki/Nuclear_receptor#Ligands
+358	HMDB0000305	Vitamin A	Vitamin A	RARG	Solute carrier family 15 member 1	Nuclear Receptor	https://en.wikipedia.org/wiki/Nuclear_receptor#Ligands
+359	HMDB0001358	Retinal	Retinal	RARG	Solute carrier family 15 member 1	Nuclear Receptor	https://en.wikipedia.org/wiki/Nuclear_receptor#Ligands
+360	HMDB0000561	beta-Carotene	beta-Carotene	RARG	Solute carrier family 15 member 1	Nuclear Receptor	https://en.wikipedia.org/wiki/Nuclear_receptor#Ligands
+361	HMDB0003178	Heme	Heme	NR1D1	Solute carrier family 15 member 1	Nuclear Receptor	https://en.wikipedia.org/wiki/Nuclear_receptor#Ligands
+362	HMDB0003178	Heme	Heme	NR1D2	Solute carrier family 15 member 1	Nuclear Receptor	https://en.wikipedia.org/wiki/Nuclear_receptor#Ligands
+363	HMDB0000067	Cholesterol	Cholesterol	RORA	Solute carrier family 15 member 1	Nuclear Receptor	https://en.wikipedia.org/wiki/Nuclear_receptor#Ligands
+364	HMDB0000067	Cholesterol	Cholesterol	RORB	Solute carrier family 15 member 1	Nuclear Receptor	https://en.wikipedia.org/wiki/Nuclear_receptor#Ligands
+365	HMDB0000067	Cholesterol	Cholesterol	RORC	Solute carrier family 15 member 1	Nuclear Receptor	https://en.wikipedia.org/wiki/Nuclear_receptor#Ligands
+366	HMDB0000876	Vitamin D3	Vitamin D3	VDR	Solute carrier family 15 member 1	Nuclear Receptor	https://en.wikipedia.org/wiki/Nuclear_receptor#Ligands
+367	HMDB0001358	Retinal	Retinal	RXRA	Solute carrier family 15 member 1	Nuclear Receptor	https://en.wikipedia.org/wiki/Nuclear_receptor#Ligands
+368	HMDB0001852	all-trans-Retinoic acid	all-trans-Retinoic acid	RXRA	Solute carrier family 15 member 1	Nuclear Receptor	https://en.wikipedia.org/wiki/Nuclear_receptor#Ligands
+369	HMDB0002369	9-cis-Retinoic acid	9-cis-Retinoic acid	RXRA	Solute carrier family 15 member 1	Nuclear Receptor	https://en.wikipedia.org/wiki/Nuclear_receptor#Ligands
+370	HMDB0006219	13-cis-Retinoic acid	13-cis-Retinoic acid	RXRA	Solute carrier family 15 member 1	Nuclear Receptor	https://en.wikipedia.org/wiki/Nuclear_receptor#Ligands
+371	HMDB0001358	Retinal	Retinal	RXRB	Solute carrier family 15 member 1	Nuclear Receptor	https://en.wikipedia.org/wiki/Nuclear_receptor#Ligands
+372	HMDB0001852	all-trans-Retinoic acid	all-trans-Retinoic acid	RXRB	Solute carrier family 15 member 1	Nuclear Receptor	https://en.wikipedia.org/wiki/Nuclear_receptor#Ligands
+373	HMDB0002369	9-cis-Retinoic acid	9-cis-Retinoic acid	RXRB	Solute carrier family 15 member 1	Nuclear Receptor	https://en.wikipedia.org/wiki/Nuclear_receptor#Ligands
+374	HMDB0006219	13-cis-Retinoic acid	13-cis-Retinoic acid	RXRB	Solute carrier family 15 member 1	Nuclear Receptor	https://en.wikipedia.org/wiki/Nuclear_receptor#Ligands
+375	HMDB0001358	Retinal	Retinal	RXRG	Solute carrier family 15 member 1	Nuclear Receptor	https://en.wikipedia.org/wiki/Nuclear_receptor#Ligands
+376	HMDB0001852	all-trans-Retinoic acid	all-trans-Retinoic acid	RXRG	Solute carrier family 15 member 1	Nuclear Receptor	https://en.wikipedia.org/wiki/Nuclear_receptor#Ligands
+377	HMDB0002369	9-cis-Retinoic acid	9-cis-Retinoic acid	RXRG	Solute carrier family 15 member 1	Nuclear Receptor	https://en.wikipedia.org/wiki/Nuclear_receptor#Ligands
+378	HMDB0006219	13-cis-Retinoic acid	13-cis-Retinoic acid	RXRG	Solute carrier family 15 member 1	Nuclear Receptor	https://en.wikipedia.org/wiki/Nuclear_receptor#Ligands
+379	HMDB0006216	11-cis-Retinol	11-cis-Retinol	NR2F2	Solute carrier family 15 member 1	Nuclear Receptor	https://en.wikipedia.org/wiki/Nuclear_receptor#Ligands
+380	HMDB0000063	Cortisol	Cortisol	NR3C1	Solute carrier family 15 member 1	Nuclear Receptor	https://en.wikipedia.org/wiki/Nuclear_receptor#Ligands
+381	HMDB0000037	Aldosterone	Aldosterone	NR3C2	Solute carrier family 15 member 1	Nuclear Receptor	https://en.wikipedia.org/wiki/Nuclear_receptor#Ligands
+382	HMDB0001830	Progesterone	Progesterone	PGR	Solute carrier family 15 member 1	Nuclear Receptor	https://en.wikipedia.org/wiki/Nuclear_receptor#Ligands
+383	HMDB0002369	9-cis-Retinoic acid	9-cis-Retinoic acid	VDR	Solute carrier family 15 member 1	Nuclear Receptor	15824121
+384	HMDB0000053	Androstenedione	Androstenedione	AR	Solute carrier family 15 member 1	Nuclear Receptor	16524719; 28457967; 12647261; 20534728; 24861263; 23856005; 18645714; 23258647
+385	HMDB0000031	Androsterone	Androsterone	AR	Solute carrier family 15 member 1	Nuclear Receptor	21303972; 24861263; 12647261
+386	HMDB0003550	Calcidiol	Calcidiol	VDR	Solute carrier family 15 member 1	Nuclear Receptor	25201891; 33348854
+387	HMDB0001903	Calcitriol	Calcitriol	VDR	Solute carrier family 15 member 1	Nuclear Receptor	29657326; 15077124; 20303786; 28008815; 9211344; 8574944; 9211349; 19667157; 16061850; 10079704; 17629157; 15225804; 21337382; 19371337; 21647319; 16048257; 29367669; 22276021; 29113124; 24597598; 27530414; 12899526; 9144338; 20798257; 12465754; 18290711; 33348854; 33354999; 26000306; 15861036; 12753260; 10633458; 16886687; 17489022; 19034868; 19705334; 25614680; 33211721; 22213328; 8147918; 24060611; 7552094; 20592360; 22720752
+389	HMDB0000151	Estradiol	Estradiol	ESR2	Solute carrier family 15 member 1	Nuclear Receptor	25765287; 20173016
+390	HMDB0000761	Lithocholic acid	Lithocholic acid	VDR	Solute carrier family 15 member 1	Nuclear Receptor	32863311; 24343899; 20888898; 20006981; 29074825; 19244278; 18180267; 15489543; 19581390; 32213983; 14525957; 16724925; 15824121
+391	HMDB0000216	Norepinephrine	Norepinephrine	ADRA1A	Solute carrier family 15 member 1	Receptor	https://en.wikipedia.org/wiki/Adrenergic_receptor
+392	HMDB0000068	Epinephrine	Epinephrine	ADRA1A	Solute carrier family 15 member 1	Receptor	https://en.wikipedia.org/wiki/Adrenergic_receptor
+393	HMDB0000216	Norepinephrine	Norepinephrine	ADRA1B	Solute carrier family 15 member 1	Receptor	https://en.wikipedia.org/wiki/Adrenergic_receptor
+394	HMDB0000068	Epinephrine	Epinephrine	ADRA1B	Solute carrier family 15 member 1	Receptor	https://en.wikipedia.org/wiki/Adrenergic_receptor
+395	HMDB0000216	Norepinephrine	Norepinephrine	ADRA1D	Solute carrier family 15 member 1	Receptor	https://en.wikipedia.org/wiki/Adrenergic_receptor
+396	HMDB0000068	Epinephrine	Epinephrine	ADRA1D	Solute carrier family 15 member 1	Receptor	https://en.wikipedia.org/wiki/Adrenergic_receptor
+397	HMDB0000216	Norepinephrine	Norepinephrine	ADRA2A	Solute carrier family 15 member 1	Receptor	https://en.wikipedia.org/wiki/Adrenergic_receptor
+398	HMDB0000068	Epinephrine	Epinephrine	ADRA2A	Solute carrier family 15 member 1	Receptor	https://en.wikipedia.org/wiki/Adrenergic_receptor
+399	HMDB0000216	Norepinephrine	Norepinephrine	ADRA2B	Solute carrier family 15 member 1	Receptor	https://en.wikipedia.org/wiki/Adrenergic_receptor
+400	HMDB0000068	Epinephrine	Epinephrine	ADRA2B	Solute carrier family 15 member 1	Receptor	https://en.wikipedia.org/wiki/Adrenergic_receptor
+401	HMDB0000216	Norepinephrine	Norepinephrine	ADRA2C	Solute carrier family 15 member 1	Receptor	https://en.wikipedia.org/wiki/Adrenergic_receptor
+402	HMDB0000068	Epinephrine	Epinephrine	ADRA2C	Solute carrier family 15 member 1	Receptor	https://en.wikipedia.org/wiki/Adrenergic_receptor
+403	HMDB0000216	Norepinephrine	Norepinephrine	ADRB1	Solute carrier family 15 member 1	Receptor	https://en.wikipedia.org/wiki/Adrenergic_receptor
+404	HMDB0000068	Epinephrine	Epinephrine	ADRB1	Solute carrier family 15 member 1	Receptor	https://en.wikipedia.org/wiki/Adrenergic_receptor
+405	HMDB0000216	Norepinephrine	Norepinephrine	ADRB2	Solute carrier family 15 member 1	Receptor	https://en.wikipedia.org/wiki/Adrenergic_receptor
+406	HMDB0000068	Epinephrine	Epinephrine	ADRB2	Solute carrier family 15 member 1	Receptor	https://en.wikipedia.org/wiki/Adrenergic_receptor
+407	HMDB0000216	Norepinephrine	Norepinephrine	ADRB3	Solute carrier family 15 member 1	Receptor	https://en.wikipedia.org/wiki/Adrenergic_receptor
+408	HMDB0000068	Epinephrine	Epinephrine	ADRB3	Solute carrier family 15 member 1	Receptor	https://en.wikipedia.org/wiki/Adrenergic_receptor
+409	HMDB0001852	all-trans-Retinoic acid	all-trans-Retinoic acid	RARA	Solute carrier family 15 member 1	Nuclear Receptor	20615454
+410	HMDB0001085	Leukotriene B4	Leukotriene B4	PPARA	Solute carrier family 15 member 1	Nuclear Receptor	20615454
+411	HMDB0001547	Corticosterone	Corticosterone	NR3C1	Solute carrier family 15 member 1	Nuclear Receptor	20615454
+412	HMDB0000518	Chenodeoxycholic acid	Chenodeoxycholic acid	NR1H4	Solute carrier family 15 member 1	Nuclear Receptor	20615454
+413	HMDB0006247	25-Hydroxycholesterol	25-Hydroxycholesterol	NR1H3	Solute carrier family 15 member 1	Nuclear Receptor	20615454
+414	HMDB0000121	Folic acid	Folic acid	SLC19A1	Solute carrier family 15 member 1	Transporter	28284395
+415	HMDB0000235	Thiamine	Thiamine	SLC19A3	Solute carrier family 15 member 1	Transporter	28284395
+416	HMDB0000190	L-Lactic acid	Lactate	SLC16A1	Monocarboxylate transporter 1	Transporter	32144120; 22428047
+417	HMDB0000077	Dehydroepiandrosterone	Dehydroepiandrosterone	AR	Solute carrier family 15 member 1	Nuclear Receptor	21303972; 24861263; 12647261
+418	HMDB0000586	Potassium	Potassium	ABCC8	ATP-binding cassette sub-family C member 8	Transporter	https://en.wikipedia.org/wiki/ABCC8; 23226049; 24399968; 22050960; 24700710
+420	HMDB0006111	12-HETE	12-HETE	GPR31	"12-(S)-hydroxy-5,8,10,14-eicosatetraenoic acid receptor"	Receptor	32918516
+421	HMDB0000757	Glycogen	Glycogen	STBD1	Starch-binding domain-containing protein 1	Receptor	20810658; 21893048; 32927708; 24837458
+423	HMDB0000715	Kynurenic acid	Kynurenic acid	GPR35	G-protein coupled receptor 35	Receptor	22523636; 23123095; 30141532; 29414686; 16754668
+424	HMDB0004385	Lipoxin A4	Lipoxin A4	ESR1	Estrogen receptor	Receptor	24587003
+425	HMDB0000588	Sodium	Sodium	SLC5A1	Sodium/glucose cotransporter 1	Transporter	Recon2
+426	HMDB0000588	Sodium	Sodium	SLC5A5	Sodium/iodide cotransporter	Transporter	Recon2
+427	HMDB0000588	Sodium	Sodium	SLC5A3	Sodium/myo-inositol cotransporter	Transporter	Recon2
+428	HMDB0000719	L-Homoserine	L-homoserine	SLC43A1	Large neutral amino acids transporter small subunit 3	Transporter	Recon2
+429	HMDB0000492	Chloride ion	Chloride	SLC17A1	Sodium-dependent phosphate transport protein 1	Transporter	Recon2
+430	HMDB0003229	Palmitoleic acid	Hexadecenoate (n-C16:1)	SLC27A2	Very long-chain acyl-CoA synthetase	Transporter	Recon2
+431	HMDB0012238	Iodide	iodide	SLC5A8	Sodium-coupled monocarboxylate transporter 1	Transporter	Recon2
+432	HMDB0002003	Tetracosanoic acid	lignocerate	SLC27A2	Very long-chain acyl-CoA synthetase	Transporter	Recon2
+433	HMDB0001893	alpha-Tocopherol	(+)-alpha-tocopherol	SCARB1	Scavenger receptor class B member 1	Transporter	Recon2
+434	HMDB0001893	alpha-Tocopherol	(+)-alpha-tocopherol	NPC1L1	NPC1-like intracellular cholesterol transporter 1	Transporter	Recon2
+435	HMDB0000573	Elaidic acid	elaidate	SLC27A2	Very long-chain acyl-CoA synthetase	Transporter	Recon2
+436	HMDB0002086	Adenosylcobalamin	Adenosylcobalamin	CUBN	Cubilin	Transporter	Recon2
+437	HMDB0002086	Adenosylcobalamin	Adenosylcobalamin	AMN	Protein amnionless [Cleaved into: Soluble protein amnionless]	Transporter	Recon2
+438	HMDB0000630	Cytosine	cytosine	SLC29A2	Equilibrative nucleoside transporter 2	Transporter	Recon2
+439	HMDB0006543	Debrisoquine	debrisoquine	SLC22A2	Solute carrier family 22 member 2	Transporter	Recon2
+440	HMDB0011733	Glycyl-glycine	Glycyl-glycine	SLC15A1	Solute carrier family 15 member 1	Transporter	Recon2
+441	HMDB0000295	Uridine 5'-diphosphate	Uridine 5'-diphosphate	P2RY6	Solute carrier family 15 member 1	Receptor	24335194
+442	HMDB0000801	Phytanic acid	Phytanic acid	PPARA	Solute carrier family 15 member 1	Nuclear Receptor	11923221
+443	HMDB0000801	Phytanic acid	Phytanic acid	PPARG	Solute carrier family 15 member 1	Nuclear Receptor	11923221
+444	HMDB0005079	"15-Deoxy-d-12,14-PGJ2"	"15-Deoxy-d-12,14-PGJ2"	PPARG	Solute carrier family 15 member 1	Nuclear Receptor	20615454
