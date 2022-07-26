@@ -15,35 +15,36 @@ and communication from gene expression. *Nat Rev Genet* 22, 71–88 (2021). http
 
 ## Information about collected lists
 
-| Article                                                                  |  Organism  | Number of LR pairs | Downstream genes? | Protein Complexes? | Functional Annotations? | Metabolites? |     Associated Tool    |
-|--------------------------------------------------------------------------|:----------:|:------------------:|:-----------------:|:------------------:|:-----------------------:|:------------:|:----------------------:|
-| Kirouac et al. (2010)                                                    |    Human   |        232         |                   |                    |                         |              |                        |
-| Qiao et al. (2014)                                                       |    Human   |        933         |                   |                    |                         |              |                        |
-| Ramilowski et al. (2015)                                                 |    Human   |       2,422        |                   |                    |                         |              |                        |
-| Choi et al. (2015)                                                       |    Human   |       1,427        |                   |                    |                         |              |                        |
-| Pavlicev et al. (2017)                                                   |    Human   |       1,006        |                   |                    |                         |              |                        |
-| Vento-Tormo et al. (2018)   & Efremova et al. (2020)                     |    Human   |        878         |                   |          X         |                         |              |       CellPhoneDB      |
-| Wang et al. (2019)                                                       |    Human   |       2,649        |                   |                    |            X            |              |          iTalk         |
-| Ximerakis et al. (2019) &   BaderLab (baderlab.org/CellCellInteractions) |    Human   |      115,900       |                   |                    |                         |              |                        |
+|                                  Article                                 |  Organism  | Number of LR pairs | Downstream genes? | Protein Complexes? | Functional Annotations? | Metabolites? |     Associated Tool    |
+|:------------------------------------------------------------------------:|:----------:|:------------------:|:-----------------:|:------------------:|:-----------------------:|:------------:|:----------------------:|
+| Kirouac et al. (2010)                                                    |    Human   |         232        |                   |                    |                         |              |                        |
+| Qiao et al. (2014)                                                       |    Human   |         933        |                   |                    |                         |              |                        |
+| Ramilowski et al. (2015)                                                 |    Human   |        2,422       |                   |                    |                         |              |                        |
+| Choi et al. (2015)                                                       |    Human   |        1,427       |                   |                    |                         |              |                        |
+| Pavlicev et al. (2017)                                                   |    Human   |        1,006       |                   |                    |                         |              |                        |
+| Vento-Tormo et al. (2018)   & Efremova et al. (2020)                     |    Human   |         878        |                   |          X         |                         |              |       CellPhoneDB      |
+| Wang et al. (2019)                                                       |    Human   |        2,649       |                   |                    |            X            |              |          iTalk         |
+| Ximerakis et al. (2019) &   BaderLab (baderlab.org/CellCellInteractions) |    Human   |       115,900      |                   |                    |                         |              |                        |
 | Browaeys et al. (2019)                                                   |    Human   |       12,659       |         X         |                    |                         |              |        NicheNet        |
-| Noël et al. (2020)                                                       |    Human   |        380         |                   |          X         |            X            |              |        ICELLNET        |
-| Cabello-Aguilar et al. (2020)                                            |    Human   |       3,251        |                   |                    |                         |              |    SingleCellSignalR   |
-| Jin et al. (2020)                                                        |    Human   |       2,005        |                   |          X         |            X            |              |        CellChat        |
-| Hou et al. (2020)                                                        |    Human   |       2,187        |                   |                    |                         |              |          NATMI         |
-| Shao et al. (2020)                                                       |    Human   |       3,398        |                   |                    |                         |              |                        |
+| Noël et al. (2020)                                                       |    Human   |         380        |                   |          X         |            X            |              |        ICELLNET        |
+| Cabello-Aguilar et al. (2020)                                            |    Human   |        3,251       |                   |                    |                         |              |    SingleCellSignalR   |
+| Jin et al. (2020)                                                        |    Human   |        2,005       |                   |          X         |            X            |              |        CellChat        |
+| Hou et al. (2020)                                                        |    Human   |        2,187       |                   |                    |                         |              |          NATMI         |
+| Shao et al. (2020)                                                       |    Human   |        3,398       |                   |                    |                         |              |                        |
 | Turei et al. (2021)                                                      |    Human   |       74,909       |         X         |          X         |            X            |              |                        |
-| Zheng et al. (2022)                                                      |    Human   |        440         |                   |                    |                         |       X      |        MEBOCOST        |
-| Ding et al. (2016)                                                       |    Mouse   |        561         |                   |                    |                         |              |                        |
-| Yuzwa et al. (2016)                                                      |    Mouse   |        949         |                   |                    |                         |              |                        |
-| Skelly et al. (2018)                                                     |    Mouse   |       2,009        |                   |                    |                         |              |                        |
-| Sheikh et al. (2019)                                                     |    Mouse   |       1,710        |                   |                    |                         |              |                        |
-| Baccin et al. (2020)                                                     |    Mouse   |        721         |                   |          X         |            X            |              | RNA-Magnet (Algorithm) |
-| Cain et al. (2020)                                                       |    Mouse   |       2,356        |                   |                    |                         |              |                        |
-| Jin et al. (2020)                                                        |    Mouse   |       2,021        |                   |          X         |            X            |              |        CellChat        |
-| Shao et al. (2020)                                                       |    Mouse   |       2,033        |                   |                    |                         |              |                        |
-| Raredon et al. (2019)                                                    |   Mammals  |        269         |                   |                    |            X            |              |                        |
-| Armingol et al. (2020)                                                   | C. elegans |        245         |                   |                    |            X            |              |        cell2cell       |
-| Liu et al. (2022)                                                        | Drosophila |        197         |                   |                    |            X            |              |       FlyPhoneDB       |
+| Zheng et al. (2022)                                                      |    Human   |         440        |                   |                    |                         |       X      |        MEBOCOST        |
+| Ding et al. (2016)                                                       |    Mouse   |         561        |                   |                    |                         |              |                        |
+| Yuzwa et al. (2016)                                                      |    Mouse   |         949        |                   |                    |                         |              |                        |
+| Skelly et al. (2018)                                                     |    Mouse   |        2,009       |                   |                    |                         |              |                        |
+| Sheikh et al. (2019)                                                     |    Mouse   |        1,710       |                   |                    |                         |              |                        |
+| Baccin et al. (2020)                                                     |    Mouse   |         721        |                   |          X         |            X            |              | RNA-Magnet (Algorithm) |
+| Cain et al. (2020)                                                       |    Mouse   |        2,356       |                   |                    |                         |              |                        |
+| Jin et al. (2020)                                                        |    Mouse   |        2,021       |                   |          X         |            X            |              |        CellChat        |
+| Shao et al. (2020)                                                       |    Mouse   |        2,033       |                   |                    |                         |              |                        |
+| Raredon et al. (2019)                                                    |   Mammals  |         269        |                   |                    |            X            |              |                        |
+| Armingol et al. (2020)                                                   | C. elegans |         245        |                   |                    |            X            |              |        cell2cell       |
+| Liu et al. (2022)                                                        | Drosophila |         197        |                   |                    |            X            |              |       FlyPhoneDB       |
+| Xu et al. (2022)                                                         |   Plants   |    1,751 - 3,762   |                   |                    |                         |              |      PlantPhoneDB      |
 
 ## References for Human Lists
 
@@ -158,3 +159,7 @@ adult mammalian lungs
  communication prediction in Drosophila
     | [Article](https://doi.org/10.1093/genetics/iyab235)
     | [LR pairs](./Others/Drosophila-2022-Liu-LR-pairs.xlsx)
+- **[Plants]:** Xu et al. (2022) PlantPhoneDB: A manually curated pan-plant database of 
+ ligand-receptor pairs infers cell-cell communication
+    | [Article](https://doi.org/10.1111/pbi.13893)
+    | [LR pairs](./Others/Plants-2022-Xu-LR-pairs.zip)
