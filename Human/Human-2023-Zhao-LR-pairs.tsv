@@ -1,0 +1,191 @@
+interaction_name ligand_type interaction_type lig_contributor lig_contributor_group lig_contributor_coeff target_subunit target_subunit_group target_subunit_coeff
+1 VIP_VIPR1 Neuropeptide ligand-receptor VIP 1 1  1 1
+2 VIP_VIPR2 Neuropeptide ligand-receptor VIP 1 1  1 1
+3 NPY_NPY1R Neuropeptide ligand-receptor NPY 1 1  1 1
+4 NPY_NPY2R Neuropeptide ligand-receptor NPY 1 1  1 1
+5 NPY_NPY5R Neuropeptide ligand-receptor NPY 1 1  1 1
+6 SST_SSTR1 Neuropeptide ligand-receptor SST 1 1  1 1
+7 SST_SSTR2 Neuropeptide ligand-receptor SST 1 1  1 1
+8 SST_SSTR3 Neuropeptide ligand-receptor SST 1 1  1 1
+9 SST_SSTR4 Neuropeptide ligand-receptor SST 1 1  1 1
+10 PENK_OPRD1 Neuropeptide ligand-receptor PENK 1 1  1 1
+11 PENK_OPRM1 Neuropeptide ligand-receptor PENK 1 1  1 1
+12 TAC3_TACR3 Neuropeptide ligand-receptor TAC3 1 1  1 1
+13 CCK_CCKBR Neuropeptide ligand-receptor CCK 1 1  1 1
+14 CRH_CRHR1 Neuropeptide ligand-receptor CRH 1 1  1 1
+15 CRH_CRHR2 Neuropeptide ligand-receptor CRH 1 1  1 1
+16 TAC1_TACR1 Neuropeptide ligand-receptor TAC1 1 1  1 1
+17 PDYN_OPRD1 Neuropeptide ligand-receptor PDYN 1 1  1 1
+18 PDYN_OPRK1 Neuropeptide ligand-receptor PDYN 1 1  1 1
+19 PDYN_OPRM1 Neuropeptide ligand-receptor PDYN 1 1  1 1
+20 CORT_SSTR1 Neuropeptide ligand-receptor CORT 1 1  1 1
+21 CORT_SSTR2 Neuropeptide ligand-receptor CORT 1 1  1 1
+22 CORT_SSTR3 Neuropeptide ligand-receptor CORT 1 1  1 1
+23 CORT_SSTR4 Neuropeptide ligand-receptor CORT 1 1  1 1
+24 PTHLH_PTH1R Neuropeptide ligand-receptor PTHLH 1 1  1 1
+25 PNOC_OPRL1 Neuropeptide ligand-receptor PNOC 1 1  1 1
+26 ADCYAP1_ADCYAP1R1 Neuropeptide ligand-receptor ADCYAP1 1 1  1 1
+27 ADCYAP1_VIPR1 Neuropeptide ligand-receptor ADCYAP1 1 1  1 1
+28 ADCYAP1_VIPR2 Neuropeptide ligand-receptor ADCYAP1 1 1  1 1
+29 TRH_TRHR Neuropeptide ligand-receptor TRH 1 1  1 1
+30 GRP_GRPR Neuropeptide ligand-receptor GRP 1 1  1 1
+31 NMB_NMBR Neuropeptide ligand-receptor NMB 1 1  1 1
+32 NTS_NTSR1 Neuropeptide ligand-receptor NTS 1 1  1 1
+33 NTS_NTSR2 Neuropeptide ligand-receptor NTS 1 1  1 1
+34 RLN1_RXFP1 Neuropeptide ligand-receptor RLN1 1 1  1 1
+35 RLN1_RXFP2 Neuropeptide ligand-receptor RLN1 1 1  1 1
+36 RLN1_RXFP3 Neuropeptide ligand-receptor RLN1 1 1  1 1
+37 Glu_GRIN1 Neurotransmitter ligand-receptor GLS-SLC17A6-SLC17A7-SLC17A8 1-2-2-2 1-1  1 1
+38 Glu_GRIN2A Neurotransmitter ligand-receptor GLS-SLC17A6-SLC17A7-SLC17A8 1-2-2-2 1-1  1 1
+39 Glu_GRIN2B Neurotransmitter ligand-receptor GLS-SLC17A6-SLC17A7-SLC17A8 1-2-2-2 1-1  1 1
+40 Glu_GRIN2C Neurotransmitter ligand-receptor GLS-SLC17A6-SLC17A7-SLC17A8 1-2-2-2 1-1  1 1
+41 Glu_GRIN2D Neurotransmitter ligand-receptor GLS-SLC17A6-SLC17A7-SLC17A8 1-2-2-2 1-1  1 1
+42 Glu_GRIN3A Neurotransmitter ligand-receptor GLS-SLC17A6-SLC17A7-SLC17A8 1-2-2-2 1-1  1 1
+43 Glu_GRIN3B Neurotransmitter ligand-receptor GLS-SLC17A6-SLC17A7-SLC17A8 1-2-2-2 1-1  1 1
+44 Glu_GRIA1 Neurotransmitter ligand-receptor GLS-SLC17A6-SLC17A7-SLC17A8 1-2-2-2 1-1  1 1
+45 Glu_GRIA2 Neurotransmitter ligand-receptor GLS-SLC17A6-SLC17A7-SLC17A8 1-2-2-2 1-1  1 1
+46 Glu_GRIA3 Neurotransmitter ligand-receptor GLS-SLC17A6-SLC17A7-SLC17A8 1-2-2-2 1-1  1 1
+47 Glu_GRIA4 Neurotransmitter ligand-receptor GLS-SLC17A6-SLC17A7-SLC17A8 1-2-2-2 1-1  1 1
+48 Glu_GRIK1 Neurotransmitter ligand-receptor GLS-SLC17A6-SLC17A7-SLC17A8 1-2-2-2 1-1  1 1
+49 Glu_GRIK2 Neurotransmitter ligand-receptor GLS-SLC17A6-SLC17A7-SLC17A8 1-2-2-2 1-1  1 1
+50 Glu_GRIK3 Neurotransmitter ligand-receptor GLS-SLC17A6-SLC17A7-SLC17A8 1-2-2-2 1-1  1 1
+51 Glu_GRIK4 Neurotransmitter ligand-receptor GLS-SLC17A6-SLC17A7-SLC17A8 1-2-2-2 1-1  1 1
+52 Glu_GRIK5 Neurotransmitter ligand-receptor GLS-SLC17A6-SLC17A7-SLC17A8 1-2-2-2 1-1  1 1
+53 Glu_GRM1 Neurotransmitter ligand-receptor GLS-SLC17A6-SLC17A7-SLC17A8 1-2-2-2 1-1  1 1
+54 Glu_GRM5 Neurotransmitter ligand-receptor GLS-SLC17A6-SLC17A7-SLC17A8 1-2-2-2 1-1  1 1
+55 Glu_GRM4 Neurotransmitter ligand-receptor GLS-SLC17A6-SLC17A7-SLC17A8 1-2-2-2 1-1  1 1
+56 Glu_GRM6 Neurotransmitter ligand-receptor GLS-SLC17A6-SLC17A7-SLC17A8 1-2-2-2 1-1  1 1
+57 Glu_GRM7 Neurotransmitter ligand-receptor GLS-SLC17A6-SLC17A7-SLC17A8 1-2-2-2 1-1  1 1
+58 Glu_GRM8 Neurotransmitter ligand-receptor GLS-SLC17A6-SLC17A7-SLC17A8 1-2-2-2 1-1  1 1
+59 Glu_GRM2 Neurotransmitter ligand-receptor GLS-SLC17A6-SLC17A7-SLC17A8 1-2-2-2 1-1  1 1
+60 Glu_GRM3 Neurotransmitter ligand-receptor GLS-SLC17A6-SLC17A7-SLC17A8 1-2-2-2 1-1  1 1
+61 NRXN1_NLGN1 Synaptic adhesion molecule ligand-receptor NRXN1 1 1  1 1
+62 NRXN2_NLGN2 Synaptic adhesion molecule ligand-receptor NRXN2 1 1  1 1
+63 NRXN3_NLGN3 Synaptic adhesion molecule ligand-receptor NRXN3 1 1  1 1
+64 GABA_GABRA1 Neurotransmitter ligand-receptor GAD1-GAD2-SLC32A1 1-1-2 1-1  1 1
+65 GABA_GABRA2 Neurotransmitter ligand-receptor GAD1-GAD2-SLC32A1 1-1-2 1-1  1 1
+66 GABA_GABRA3 Neurotransmitter ligand-receptor GAD1-GAD2-SLC32A1 1-1-2 1-1  1 1
+67 GABA_GABRA4 Neurotransmitter ligand-receptor GAD1-GAD2-SLC32A1 1-1-2 1-1  1 1
+68 GABA_GABRA5 Neurotransmitter ligand-receptor GAD1-GAD2-SLC32A1 1-1-2 1-1  1 1
+69 GABA_GABRA6 Neurotransmitter ligand-receptor GAD1-GAD2-SLC32A1 1-1-2 1-1  1 1
+70 GABA_GABRB1 Neurotransmitter ligand-receptor GAD1-GAD2-SLC32A1 1-1-2 1-1  1 1
+71 GABA_GABRB2 Neurotransmitter ligand-receptor GAD1-GAD2-SLC32A1 1-1-2 1-1  1 1
+72 GABA_GABRB3 Neurotransmitter ligand-receptor GAD1-GAD2-SLC32A1 1-1-2 1-1  1 1
+73 GABA_GABRG1 Neurotransmitter ligand-receptor GAD1-GAD2-SLC32A1 1-1-2 1-1  1 1
+74 GABA_GABRG2 Neurotransmitter ligand-receptor GAD1-GAD2-SLC32A1 1-1-2 1-1  1 1
+75 GABA_GABRG3 Neurotransmitter ligand-receptor GAD1-GAD2-SLC32A1 1-1-2 1-1  1 1
+76 GABA_GABBR1 Neurotransmitter ligand-receptor GAD1-GAD2-SLC32A1 1-1-2 1-1  1 1
+77 GABA_GABBR2 Neurotransmitter ligand-receptor GAD1-GAD2-SLC32A1 1-1-2 1-1  1 1
+78 GJA1_GJA1 Gap junction protein ligand-receptor GJA1 1 1  1 1
+79 GJA3_GJA3 Gap junction protein ligand-receptor GJA3 1 1  1 1
+80 GJA4_GJA4 Gap junction protein ligand-receptor GJA4 1 1  1 1
+81 GJA5_GJA5 Gap junction protein ligand-receptor GJA5 1 1  1 1
+82 GJA8_GJA8 Gap junction protein ligand-receptor GJA8 1 1  1 1
+83 GJA10_GJA10 Gap junction protein ligand-receptor GJA10 1 1  1 1
+84 GJB1_GJB1 Gap junction protein ligand-receptor GJB1 1 1  1 1
+85 GJB2_GJB2 Gap junction protein ligand-receptor GJB2 1 1  1 1
+86 GJB3_GJB3 Gap junction protein ligand-receptor GJB3 1 1  1 1
+87 GJB4_GJB4 Gap junction protein ligand-receptor GJB4 1 1  1 1
+88 GJB5_GJB5 Gap junction protein ligand-receptor GJB5 1 1  1 1
+89 GJB6_GJB6 Gap junction protein ligand-receptor GJB6 1 1  1 1
+90 GJC1_GJC1 Gap junction protein ligand-receptor GJC1 1 1  1 1
+91 GJC2_GJC2 Gap junction protein ligand-receptor GJC2 1 1  1 1
+92 GJC3_GJC3 Gap junction protein ligand-receptor GJC3 1 1  1 1
+93 GJD2_GJD2 Gap junction protein ligand-receptor GJD2 1 1  1 1
+94 GJD3_GJD3 Gap junction protein ligand-receptor GJD3 1 1  1 1
+95 GJD4_GJD4 Gap junction protein ligand-receptor GJD4 1 1  1 1
+96 GJE1_GJE1 Gap junction protein ligand-receptor GJE1 1 1  1 1
+97 Ach_CHRNA1 Neurotransmitter ligand-receptor CHAT-SLC18A3 1-2 1-1  1 1
+98 Ach_CHRNA2 Neurotransmitter ligand-receptor CHAT-SLC18A3 1-2 1-1  1 1
+99 Ach_CHRNA3 Neurotransmitter ligand-receptor CHAT-SLC18A3 1-2 1-1  1 1
+100 Ach_CHRNA4 Neurotransmitter ligand-receptor CHAT-SLC18A3 1-2 1-1  1 1
+101 Ach_CHRNA5 Neurotransmitter ligand-receptor CHAT-SLC18A3 1-2 1-1  1 1
+102 Ach_CHRNA6 Neurotransmitter ligand-receptor CHAT-SLC18A3 1-2 1-1  1 1
+103 Ach_CHRNA7 Neurotransmitter ligand-receptor CHAT-SLC18A3 1-2 1-1  1 1
+104 Ach_CHRNA9 Neurotransmitter ligand-receptor CHAT-SLC18A3 1-2 1-1  1 1
+105 Ach_CHRNA10 Neurotransmitter ligand-receptor CHAT-SLC18A3 1-2 1-1  1 1
+106 Ach_CHRNB1 Neurotransmitter ligand-receptor CHAT-SLC18A3 1-2 1-1  1 1
+107 Ach_CHRNB2 Neurotransmitter ligand-receptor CHAT-SLC18A3 1-2 1-1  1 1
+108 Ach_CHRNB3 Neurotransmitter ligand-receptor CHAT-SLC18A3 1-2 1-1  1 1
+109 Ach_CHRNB4 Neurotransmitter ligand-receptor CHAT-SLC18A3 1-2 1-1  1 1
+110 Ach_CHRND Neurotransmitter ligand-receptor CHAT-SLC18A3 1-2 1-1  1 1
+111 Ach_CHRNE Neurotransmitter ligand-receptor CHAT-SLC18A3 1-2 1-1  1 1
+112 Ach_CHRNG Neurotransmitter ligand-receptor CHAT-SLC18A3 1-2 1-1  1 1
+113 Ach_CHRM1 Neurotransmitter ligand-receptor CHAT-SLC18A3 1-2 1-1  1 1
+114 Ach_CHRM2 Neurotransmitter ligand-receptor CHAT-SLC18A3 1-2 1-1  1 1
+115 Ach_CHRM3 Neurotransmitter ligand-receptor CHAT-SLC18A3 1-2 1-1  1 1
+116 Ach_CHRM4 Neurotransmitter ligand-receptor CHAT-SLC18A3 1-2 1-1  1 1
+117 Ach_CHRM5 Neurotransmitter ligand-receptor CHAT-SLC18A3 1-2 1-1  1 1
+118 Ach_ACHE Neurotransmitter ligand degradation CHAT-SLC18A3 1-2 1-1  1 1
+119 Gly_GLRA1 Neurotransmitter ligand-receptor SHMT1-SHMT2-SLC32A1 1-1-2 1-1  1 1
+120 Gly_GLRA2 Neurotransmitter ligand-receptor SHMT1-SHMT2-SLC32A1 1-1-2 1-1  1 1
+121 Gly_GLRA3 Neurotransmitter ligand-receptor SHMT1-SHMT2-SLC32A1 1-1-2 1-1  1 1
+122 Gly_GLRA4 Neurotransmitter ligand-receptor SHMT1-SHMT2-SLC32A1 1-1-2 1-1  1 1
+123 Gly_GLRB Neurotransmitter ligand-receptor SHMT1-SHMT2-SLC32A1 1-1-2 1-1  1 1
+124 Gly_SLC6A9 Neurotransmitter ligand uptake SHMT1-SHMT2-SLC32A1 1-1-2 1-1  1 1
+125 Gly_SLC6A5 Neurotransmitter ligand uptake SHMT1-SHMT2-SLC32A1 1-1-2 1-1  1 1
+126 5HT_HTR1A Neurotransmitter ligand-receptor TPH1-TPH2-DDC-SLC18A1-SLC18A2 1-1-2-3-3 1-1-1  1 1
+127 5HT_HTR1B Neurotransmitter ligand-receptor TPH1-TPH2-DDC-SLC18A1-SLC18A2 1-1-2-3-3 1-1-1  1 1
+128 5HT_HTR1D Neurotransmitter ligand-receptor TPH1-TPH2-DDC-SLC18A1-SLC18A2 1-1-2-3-3 1-1-1  1 1
+129 5HT_HTR1E Neurotransmitter ligand-receptor TPH1-TPH2-DDC-SLC18A1-SLC18A2 1-1-2-3-3 1-1-1  1 1
+130 5HT_HTR1F Neurotransmitter ligand-receptor TPH1-TPH2-DDC-SLC18A1-SLC18A2 1-1-2-3-3 1-1-1  1 1
+131 5HT_HTR2A Neurotransmitter ligand-receptor TPH1-TPH2-DDC-SLC18A1-SLC18A2 1-1-2-3-3 1-1-1  1 1
+132 5HT_HTR2B Neurotransmitter ligand-receptor TPH1-TPH2-DDC-SLC18A1-SLC18A2 1-1-2-3-3 1-1-1  1 1
+133 5HT_HTR2C Neurotransmitter ligand-receptor TPH1-TPH2-DDC-SLC18A1-SLC18A2 1-1-2-3-3 1-1-1  1 1
+134 5HT_HTR3A Neurotransmitter ligand-receptor TPH1-TPH2-DDC-SLC18A1-SLC18A2 1-1-2-3-3 1-1-1  1 1
+135 5HT_HTR3B Neurotransmitter ligand-receptor TPH1-TPH2-DDC-SLC18A1-SLC18A2 1-1-2-3-3 1-1-1  1 1
+136 5HT_HTR3C Neurotransmitter ligand-receptor TPH1-TPH2-DDC-SLC18A1-SLC18A2 1-1-2-3-3 1-1-1  1 1
+137 5HT_HTR3D Neurotransmitter ligand-receptor TPH1-TPH2-DDC-SLC18A1-SLC18A2 1-1-2-3-3 1-1-1  1 1
+138 5HT_HTR3E Neurotransmitter ligand-receptor TPH1-TPH2-DDC-SLC18A1-SLC18A2 1-1-2-3-3 1-1-1  1 1
+139 5HT_HTR4 Neurotransmitter ligand-receptor TPH1-TPH2-DDC-SLC18A1-SLC18A2 1-1-2-3-3 1-1-1  1 1
+140 5HT_HTR5A Neurotransmitter ligand-receptor TPH1-TPH2-DDC-SLC18A1-SLC18A2 1-1-2-3-3 1-1-1  1 1
+141 5HT_HTR6 Neurotransmitter ligand-receptor TPH1-TPH2-DDC-SLC18A1-SLC18A2 1-1-2-3-3 1-1-1  1 1
+142 5HT_HTR7 Neurotransmitter ligand-receptor TPH1-TPH2-DDC-SLC18A1-SLC18A2 1-1-2-3-3 1-1-1  1 1
+143 5HT_SLC6A4 Neurotransmitter ligand uptake TPH1-TPH2-DDC-SLC18A1-SLC18A2 1-1-2-3-3 1-1-1  1 1
+144 DA_DRD1 Neurotransmitter ligand-receptor TH-DDC-SLC18A1-SLC18A2 1-2-3-3 1-1-1  1 1
+145 DA_DRD5 Neurotransmitter ligand-receptor TH-DDC-SLC18A1-SLC18A2 1-2-3-3 1-1-1  1 1
+146 DA_DRD2 Neurotransmitter ligand-receptor TH-DDC-SLC18A1-SLC18A2 1-2-3-3 1-1-1  1 1
+147 DA_DRD3 Neurotransmitter ligand-receptor TH-DDC-SLC18A1-SLC18A2 1-2-3-3 1-1-1  1 1
+148 DA_DRD4 Neurotransmitter ligand-receptor TH-DDC-SLC18A1-SLC18A2 1-2-3-3 1-1-1  1 1
+149 DA_SLC6A3 Neurotransmitter ligand uptake TH-DDC-SLC18A1-SLC18A2 1-2-3-3 1-1-1  1 1
+150 DA_COMT Neurotransmitter ligand degradation TH-DDC-SLC18A1-SLC18A2 1-2-3-3 1-1-1  1 1
+151 Epi_ADRA1A Neurotransmitter ligand-receptor TH-DDC-DBH-PNMT-SLC18A1-SLC18A2 1-2-3-4-5-5 1-1-1-1-1  1 1
+152 Epi_ADRA1B Neurotransmitter ligand-receptor TH-DDC-DBH-PNMT-SLC18A1-SLC18A2 1-2-3-4-5-5 1-1-1-1-1  1 1
+153 Epi_ADRA1D Neurotransmitter ligand-receptor TH-DDC-DBH-PNMT-SLC18A1-SLC18A2 1-2-3-4-5-5 1-1-1-1-1  1 1
+154 Epi_ADRA2A Neurotransmitter ligand-receptor TH-DDC-DBH-PNMT-SLC18A1-SLC18A2 1-2-3-4-5-5 1-1-1-1-1  1 1
+155 Epi_ADRA2B Neurotransmitter ligand-receptor TH-DDC-DBH-PNMT-SLC18A1-SLC18A2 1-2-3-4-5-5 1-1-1-1-1  1 1
+156 Epi_ADRA2C Neurotransmitter ligand-receptor TH-DDC-DBH-PNMT-SLC18A1-SLC18A2 1-2-3-4-5-5 1-1-1-1-1  1 1
+157 Epi_ADRB1 Neurotransmitter ligand-receptor TH-DDC-DBH-PNMT-SLC18A1-SLC18A2 1-2-3-4-5-5 1-1-1-1-1  1 1
+158 Epi_ADRB2 Neurotransmitter ligand-receptor TH-DDC-DBH-PNMT-SLC18A1-SLC18A2 1-2-3-4-5-5 1-1-1-1-1  1 1
+159 Epi_ADRB3 Neurotransmitter ligand-receptor TH-DDC-DBH-PNMT-SLC18A1-SLC18A2 1-2-3-4-5-5 1-1-1-1-1  1 1
+160 NE_ADRA1A Neurotransmitter ligand-receptor TH-DDC-DBH-SLC18A1-SLC18A2 1-2-3-4-4 1-1-1-1  1 1
+161 NE_ADRA1B Neurotransmitter ligand-receptor TH-DDC-DBH-SLC18A1-SLC18A2 1-2-3-4-4 1-1-1-1  1 1
+162 NE_ADRA1D Neurotransmitter ligand-receptor TH-DDC-DBH-SLC18A1-SLC18A2 1-2-3-4-4 1-1-1-1  1 1
+163 NE_ADRA2A Neurotransmitter ligand-receptor TH-DDC-DBH-SLC18A1-SLC18A2 1-2-3-4-4 1-1-1-1  1 1
+164 NE_ADRA2B Neurotransmitter ligand-receptor TH-DDC-DBH-SLC18A1-SLC18A2 1-2-3-4-4 1-1-1-1  1 1
+165 NE_ADRA2C Neurotransmitter ligand-receptor TH-DDC-DBH-SLC18A1-SLC18A2 1-2-3-4-4 1-1-1-1  1 1
+166 NE_ADRB1 Neurotransmitter ligand-receptor TH-DDC-DBH-SLC18A1-SLC18A2 1-2-3-4-4 1-1-1-1  1 1
+167 NE_ADRB2 Neurotransmitter ligand-receptor TH-DDC-DBH-SLC18A1-SLC18A2 1-2-3-4-4 1-1-1-1  1 1
+168 NE_ADRB3 Neurotransmitter ligand-receptor TH-DDC-DBH-SLC18A1-SLC18A2 1-2-3-4-4 1-1-1-1  1 1
+169 NE_SLC6A2 Neurotransmitter ligand uptake TH-DDC-DBH-SLC18A1-SLC18A2 1-2-3-4-4 1-1-1-1  1 1
+170 NE_COMT Neurotransmitter ligand degradation TH-DDC-DBH-SLC18A1-SLC18A2 1-2-3-4-4 1-1-1-1  1 1
+171 CO_GUCY1B1 Gas gas-effector HMOX1-HMOX2 1-1 1  1 1
+172 CO_GUCY1B2 Gas gas-effector HMOX1-HMOX2 1-1 1  1 1
+173 CO_GUCY1A1 Gas gas-effector HMOX1-HMOX2 1-1 1  1 1
+174 CO_GUCY1A2 Gas gas-effector HMOX1-HMOX2 1-1 1  1 1
+175 NO_GUCY1B1 Gas gas-effector NOS1-NOS2-NOS3 1-1-1 1  1 1
+176 NO_GUCY1B2 Gas gas-effector NOS1-NOS2-NOS3 1-1-1 1  1 1
+177 NO_GUCY1A1 Gas gas-effector NOS1-NOS2-NOS3 1-1-1 1  1 1
+178 NO_GUCY1A2 Gas gas-effector NOS1-NOS2-NOS3 1-1-1 1  1 1
+179 NRXN2_NLGN1 Synaptic adhesion molecule ligand-receptor NRXN2 1 1  1 1
+180 NRXN3_NLGN1 Synaptic adhesion molecule ligand-receptor NRXN3 1 1  1 1
+181 NRXN1_NLGN2 Synaptic adhesion molecule ligand-receptor NRXN1 1 1  1 1
+182 NRXN3_NLGN2 Synaptic adhesion molecule ligand-receptor NRXN3 1 1  1 1
+183 NRXN1_NLGN3 Synaptic adhesion molecule ligand-receptor NRXN1 1 1  1 1
+184 NRXN2_NLGN3 Synaptic adhesion molecule ligand-receptor NRXN2 1 1  1 1
+185 NRXN1_NLGN4X Synaptic adhesion molecule ligand-receptor NRXN1 1 1  1 1
+186 NRXN2_NLGN4X Synaptic adhesion molecule ligand-receptor NRXN2 1 1  1 1
+187 NRXN3_NLGN4X Synaptic adhesion molecule ligand-receptor NRXN3 1 1  1 1
+188 NRXN1_NLGN4Y Synaptic adhesion molecule ligand-receptor NRXN1 1 1  1 1
+189 NRXN2_NLGN4Y Synaptic adhesion molecule ligand-receptor NRXN2 1 1  1 1
+190 NRXN3_NLGN4Y Synaptic adhesion molecule ligand-receptor NRXN3 1 1  1 1
