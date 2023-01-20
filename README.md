@@ -14,9 +14,8 @@ Also, cite the article where this repository was published:
 and communication from gene expression. *Nat Rev Genet* 22, 71–88 (2021). https://doi.org/10.1038/s41576-020-00292-x**
 
 ## Information about collected lists
-
-|                                  Article                                 |  Organism  | Number of LR pairs | Downstream genes? | Protein Complexes? | Functional Annotations? | Metabolites? |     Associated Tool    |
-|:------------------------------------------------------------------------:|:----------:|:------------------:|:-----------------:|:------------------:|:-----------------------:|:------------:|:----------------------:|
+| Article                                                                  |  Organism  | Number of LR pairs | Downstream genes? | Protein Complexes? | Functional Annotations? | Metabolites? |     Associated Tool    |
+|--------------------------------------------------------------------------|:----------:|:------------------:|:-----------------:|:------------------:|:-----------------------:|:------------:|:----------------------:|
 | Kirouac et al. (2010)                                                    |    Human   |         232        |                   |                    |                         |              |                        |
 | Qiao et al. (2014)                                                       |    Human   |         933        |                   |                    |                         |              |                        |
 | Ramilowski et al. (2015)                                                 |    Human   |        2,422       |                   |                    |                         |              |                        |
@@ -33,6 +32,8 @@ and communication from gene expression. *Nat Rev Genet* 22, 71–88 (2021). http
 | Shao et al. (2020)                                                       |    Human   |        3,398       |                   |                    |                         |              |                        |
 | Turei et al. (2021)                                                      |    Human   |       74,909       |         X         |          X         |            X            |              |                        |
 | Zheng et al. (2022)                                                      |    Human   |         440        |                   |                    |                         |       X      |        MEBOCOST        |
+| Dimitrov et al. (2022)                                                   |    Human   |        4,701       |                   |          X         |                         |              |          LIANA         |
+| Zhao et al. (2023)                                                       |    Human   |         190        |                   |                    |                         |       X      |       NeuronChat       |
 | Ding et al. (2016)                                                       |    Mouse   |         561        |                   |                    |                         |              |                        |
 | Yuzwa et al. (2016)                                                      |    Mouse   |         949        |                   |                    |                         |              |                        |
 | Skelly et al. (2018)                                                     |    Mouse   |        2,009       |                   |                    |                         |              |                        |
@@ -41,8 +42,10 @@ and communication from gene expression. *Nat Rev Genet* 22, 71–88 (2021). http
 | Cain et al. (2020)                                                       |    Mouse   |        2,356       |                   |                    |                         |              |                        |
 | Jin et al. (2020)                                                        |    Mouse   |        2,021       |                   |          X         |            X            |              |        CellChat        |
 | Shao et al. (2020)                                                       |    Mouse   |        2,033       |                   |                    |                         |              |                        |
+| Dimitrov et al. (2022)                                                   |    Mouse   |        3,998       |                   |          X         |                         |              |          LIANA         |
+| Zhao et al. (2023)                                                       |    Mouse   |         183        |                   |                    |                         |       X      |       NeuronChat       |
 | Raredon et al. (2019)                                                    |   Mammals  |         269        |                   |                    |            X            |              |                        |
-| Armingol et al. (2020)                                                   | C. elegans |         245        |                   |                    |            X            |              |        cell2cell       |
+| Armingol et al. (2022)                                                   | C. elegans |         245        |                   |                    |            X            |              |        cell2cell       |
 | Liu et al. (2022)                                                        | Drosophila |         197        |                   |                    |            X            |              |       FlyPhoneDB       |
 | Xu et al. (2022)                                                         |   Plants   |    1,751 - 3,762   |                   |                    |                         |              |      PlantPhoneDB      |
 
@@ -111,6 +114,14 @@ from combined expression of multi-subunit ligand–receptor complexes
   Single Cell Transcriptome
     | [Article](https://doi.org/10.1101/2022.05.30.494067) 
     | [LR pairs](./Human/Human-2022-Zheng-MetSensor-pairs.tsv)  
+- Dimitrov et al. (2022) Comparison of methods and resources for cell-cell
+ communication inference from single-cell RNA-Seq data
+    | [Article](https://doi.org/10.1038/s41467-022-30755-0) 
+    | [LR pairs](./Human/Human-2022-Dimitrov-LR-pairs.csv)
+- Zhao et al. (2023) Inferring neuron-neuron communications from
+ single-cell transcriptomics through NeuronChat
+    | [Article](https://doi.org/10.1101/2023.01.12.523826) 
+    | [LR pairs](./Human/Human-2023-Zhao-LR-pairs.tsv)
     
 ## References for Mouse Lists
 
@@ -125,18 +136,18 @@ from combined expression of multi-subunit ligand–receptor complexes
  diversity and intercommunication in the mouse heart
     | [Article](https://doi.org/10.1016/j.celrep.2017.12.072)
     | [LR pairs](./Mouse/Mouse-2018-Skelly-LR-pairs.xlsx)
- - Sheikh et al. (2019) Systematic identification of
+- Sheikh et al. (2019) Systematic identification of
   cell-cell communication networks in the developing brain
-    | [Article](https://doi.org/10.1016/j.isci.2019.10.026)
-    | [LR pairs](./Mouse/Mouse-2019-Sheikh-LR-pairs.xlsx)
+   | [Article](https://doi.org/10.1016/j.isci.2019.10.026)
+   | [LR pairs](./Mouse/Mouse-2019-Sheikh-LR-pairs.xlsx)
 - Baccin et al. (2020) Combined single-cell and spatial transcriptomics reveal the molecular,
  cellular and spatial bone marrow niche organization
     | [Article](https://doi.org/10.1038/s41556-019-0439-6)
     | [LR pairs](./Mouse/Mouse-2020-Baccin-LR-pairs.xlsx)
- - Cain et al. (2020) Quantitative single-cell interactomes
+- Cain et al. (2020) Quantitative single-cell interactomes
   in normal and virus-infected mouse lungs
-    | [Article](https://doi.org/10.1101/2020.02.05.936054)
-    | [LR pairs](./Mouse/Mouse-2020-Cain-LR-pairs.xlsx)
+   | [Article](https://doi.org/10.1101/2020.02.05.936054)
+   | [LR pairs](./Mouse/Mouse-2020-Cain-LR-pairs.xlsx)
 - Jin et al. (2020) Inference and analysis of cell-cell communication using CellChat
     | [Article](https://doi.org/10.1101/2020.07.21.214387) 
     | [LR pairs](./Mouse/Mouse-2020-Jin-LR-pairs.csv)
@@ -144,6 +155,14 @@ from combined expression of multi-subunit ligand–receptor complexes
  interactions in humans and mice
     | [Article](https://doi.org/10.1093/bib/bbaa269) 
     | [LR pairs](./Mouse/Mouse-2020-Shao-LR-pairs.txt)
+- Dimitrov et al. (2022) Comparison of methods and resources for cell-cell
+ communication inference from single-cell RNA-Seq data
+    | [Article](https://doi.org/10.1038/s41467-022-30755-0) 
+    | [LR pairs](./Mouse/Mouse-2022-Dimitrov-LR-pairs.csv)
+- Zhao et al. (2023) Inferring neuron-neuron communications from
+ single-cell transcriptomics through NeuronChat
+    | [Article](https://doi.org/10.1101/2023.01.12.523826) 
+    | [LR pairs](./Mouse/Mouse-2023-Zhao-LR-pairs.tsv)
 
 ## References for Lists of Other Organisms
 
@@ -151,10 +170,10 @@ from combined expression of multi-subunit ligand–receptor complexes
 adult mammalian lungs
     | [Article](https://doi.org/10.1126/sciadv.aaw3851)
     | [LR pairs](./Others/Mammals-2019-Raredon-LR-pairs.xlsx)
-- **[C. elegans]:** Armingol et al. (2020) Inferring the spatial code of cell-cell interactions
- and communication across a whole animal body
-    | [Article](https://doi.org/10.1101/2020.11.22.392217)
-    | [LR pairs](./Others/Celegans-2020-Armingol-LR-pairs.xlsx)
+- **[C. elegans]:** Armingol et al. (2022) Inferring a spatial code of cell-cell
+ interactions across a whole animal body
+    | [Article](https://doi.org/10.1371/journal.pcbi.1010715)
+    | [LR pairs](./Others/Celegans-2022-Armingol-LR-pairs.xlsx)
 - **[Drosophila]:** Liu et al. (2022) FlyPhoneDB: an integrated web-based resource for cell–cell
  communication prediction in Drosophila
     | [Article](https://doi.org/10.1093/genetics/iyab235)
